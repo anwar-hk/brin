@@ -14,7 +14,7 @@
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme " 
+                    <div class="tp-caption  " 
                         id="slide-1-layer-38" 
                         data-x="center" data-hoffset="" 
                         data-y="center" data-voffset="" 
@@ -33,7 +33,7 @@
                      </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption tp-resizeme animate__animated animate__rotateInDownLeft animate__delay-1s" 
+                        <div class="tp-caption animate__animated animate__rotateInDownLeft animate__delay-1s" 
                              id="slide-1-layer-31" 
                              data-x="center" data-hoffset="" 
                              data-y="center" data-voffset="-100" 
@@ -47,16 +47,16 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Create The Best Smart Home </div>
+                            style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Are you looking for </div>
 
                         <!-- LAYER NR. 3 -->
-                        <div class="tp-caption   tp-resizeme" 
+                        <div class="tp-caption " 
                              id="slide-1-layer-33" 
                              data-x="center" data-hoffset="" 
                              data-y="center" data-voffset="30" 
                              data-width="['auto']"
                             data-height="['auto']"
-                            data-type="text" 
+                            data-type="button" 
                             data-responsive_offset="on" 
                             data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
@@ -67,7 +67,7 @@
                             style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
 
                         <!-- LAYER NR. 4 -->
-                        <div class="tp-caption rev-btn  tp-resizeme" 
+                        <div class="tp-caption rev-btn " 
                              id="slide-1-layer-36" 
                              data-x="center" data-hoffset="" 
                              data-y="center" data-voffset="130" 
@@ -83,6 +83,7 @@
                             data-paddingleft="[50,50,50,50]"
                             style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgba(255,108,58,1);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Home Services 
                         </div>
+
                         <div class="tp-caption rev-btn  tp-resizeme" 
                              id="slide-1-layer-37" 
                              data-x="center" data-hoffset="" 
@@ -220,7 +221,7 @@
                                 style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
 
                             <!-- LAYER NR. 11 -->
-                            <div class="tp-caption   tp-resizeme" 
+                            <div class="tp-caption tp-resizeme" 
                                 id="slide-3-layer-33" 
                                 data-x="center" data-hoffset="" 
                                 data-y="center" data-voffset="30" 
@@ -275,24 +276,7 @@
         </div>
     </section>
     <!--End Main Slider-->
-
-    <!--Clients Section-->
-    <section class="clients-section">
-        <div class="auto-container">
-            <!--Sponsors carousel-->
-            <ul class="sponsors-carousel owl-carousel owl-theme">
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsor/mslogo.jpg" alt=""></a></figure></li>
-            </ul>
-        </div>
-    </section>
-    <!--End Clients Section-->
+    
 
 </div><!-- End Page Wrapper -->
 

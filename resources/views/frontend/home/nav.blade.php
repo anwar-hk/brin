@@ -11,7 +11,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
                             <li>
-                                <a href="index.html"><span>Home</span></a>
+                                <a href="/"><span>Home</span></a>
                             </li>
                             <li class="dropdown">
                                 <a><span>Services</span></a>

@@ -20,9 +20,8 @@
                                 <li class="dropdown animate__animated animate__rotateIn animate__delay-1s">
                                     <a href=""><span class="">Services</span></a>
                                     <ul>
-                                        <li><a href="home_services">Home Services</a></li>
-                                        <li><a href="office_services">Office Services</a></li>
-                                        <li>helllo</li>
+                                        <li><a href="homeServices">Home Services</a></li>
+                                        <li><a href="officeServices">Office Services</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="about" class="animate__animated animate__rotateIn animate__delay-1s"><span>About</span> </a></li>
