@@ -18,6 +18,7 @@
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-alt-up"></span></div>
 <script src="js/jquery.js"></script> 
 <script src="js/popper.min.js"></script>
+<script src="js/main.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!--Revolution Slider-->
 <script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -35,6 +36,7 @@
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit-icons.min.js"></script>
 <!--Revolution Slider-->
+<script ser="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="js/jquery.fancybox.js"></script>
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
