@@ -3,7 +3,7 @@
     <!-- Main box -->
     <div class="main-box">
         <div class="menu-box">
-            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo-white-big.png 2x"></a></div>
+            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
             <!--Nav Box-->
             <div class="nav-outer">
                 <!-- Main Menu -->

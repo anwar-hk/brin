@@ -1,26 +1,14 @@
 @include('layouts/header_link')
-</body>
-<div class="page-wrapper">
-    <!-- Preloader -->
-    <div class="preloader">
-        <div class="cws_loader">
-            <span>LOADING...</span>
-            <div class="hex"></div>
-            <div class="hex"></div>
-            <div class="hex"></div>
-            <div class="hex"></div>
-            <div class="hex"></div>
-            <div class="hex"></div>
-            <div class="hex"></div>
-        </div>
-    </div>
     <!-- Main Header-->
     <header class="main-header">
         <!-- Main box -->
         <div class="main-box">
             <div class="menu-box">
-                <div class="logo animate__animated animate__rubberBand"><a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo_white.png 2x"></a></div>
-
+                <div class="logo animate__animated animate__rotateIn animate__delay-1s">
+                    <a href="/">
+                        <img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                    </a>
+                </div>
                 <!--Nav Box-->
                 <div class="nav-outer">
                     <!-- Main Menu -->
@@ -28,18 +16,19 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                 <li>
-                                    <a href="/"><span class="animate__animated animate__backInRight">Home</span></a>
+                                    <a href="/"><span class="animate__animated animate__rotateIn animate__delay-1s">Home</span></a>
                                 </li>
-                                <li class="dropdown">
-                                    <a><span class="animate__animated animate__backInRight">Services</span></a>
+                                <li class="dropdown animate__animated animate__rotateIn animate__delay-1s">
+                                    <a href=""><span class="">Services</span></a>
                                     <ul>
-                                        <li><a href="poffice_services">Home Services</a></li>
+                                        <li><a href="home_services">Home Services</a></li>
                                         <li><a href="office_services">Office Services</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about"><span class="animate__animated animate__backInRight">About</span> </a></li>
-                                <li><a href="news"><span class="animate__animated animate__backInRight">News</span> </a></li>
-                                <li><a href="contact"><span class="animate__animated animate__backInRight">Contacts</span> </a></li>
+                                <li><a href="about" class="animate__animated animate__rotateIn animate__delay-1s"><span>About</span> </a></li>
+                                <li><a href="news" class="animate__animated animate__rotateIn animate__delay-1s" >News </a></li>
+                                <li><a href="contact" class="animate__animated animate__rotateIn animate__delay-1s">Contacts </a></li>
+                                <li><a href="correre" class="animate__animated animate__rotateIn animate__delay-1s">Correre </a></li>
                             </ul>
                         </div>
                     </nav>
@@ -52,7 +41,7 @@
             <div class="outer-box">
                 <!--Logo-->
                 <div class="logo">
-                    <a href="#" title="Brin Tech Logo"><img src="images/sticky-logo.png" alt="Brin Tech Logo"></a>
+                    <a href="#" title="Brin Tech Logo"><img src="images/logo.png" alt="Brin Tech Logo"></a>
                 </div>
 
                 <!--Nav Outer-->
@@ -67,7 +56,7 @@
 
         <!-- Mobile Header -->
         <div class="mobile-header">
-            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo-white-big.png 2x"></a></div>
+            <div class="logo"><a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
 
             <!--Nav Box-->
             <div class="nav-outer clearfix">
@@ -78,13 +67,13 @@
         <!-- Mobile Menu  -->
         <div class="mobile-menu">            
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo-white-big.png 2x"></a></div> 
+                <div class="nav-logo"><a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div> 
                 <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
             </nav>
         </div><!-- End Mobile Menu -->
 
         <!-- Header Search -->
-        <div class="search-popup">
+        {{-- <div class="search-popup">
             <span class="search-back-drop"></span>
             
             <div class="search-inner">
@@ -96,257 +85,75 @@
                     </div>
                 </form>
             </div>
-        </div>
+        </div> --}}
         <!-- End Header Search -->
 
     </header>
     <!--End Main Header -->
     
     <!--Main Slider-->
-    <section class="main-slider">
-        <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
-            <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
-                <ul>
-                    <li data-index="rs-1" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="850"  data-thumb=""  data-delay="5999"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                    <!-- MAIN IMAGE -->
-                    
-                    <img src="images/sponsor/mslogo.jpg"  alt="" title="Home"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                    <!-- LAYERS -->
+    <section >
+        
+  
+  <!-- Full Page Image Background Carousel Header -->
+  <div id="myCarousel" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
 
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption   tp-resizeme" 
-                        id="slide-1-layer-38" 
-                        data-x="center" data-hoffset="" 
-                        data-y="center" data-voffset="" 
-                        data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                        data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                        data-type="image" 
-                        data-basealign="slide" 
-                        data-responsive_offset="on" 
-                        data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
-                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                        data-paddingtop="[0,0,0,0]"
-                        data-paddingright="[0,0,0,0]"
-                        data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(0,137,45,0.63) 85%, rgba(0,137,45,0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
-
-                        <!-- LAYER NR. 2 -->
-                        <div class="tp-caption   tp-resizeme" 
-                             id="slide-1-layer-31" 
-                             data-x="center" data-hoffset="" 
-                             data-y="center" data-voffset="-100" 
-                             data-width="['623']"
-                            data-height="['auto']"
-                            data-type="text" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                            data-textAlign="['center','center','center','center']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Create The Best Smart Home </div>
-
-                        <!-- LAYER NR. 3 -->
-                        <div class="tp-caption   tp-resizeme" 
-                             id="slide-1-layer-33" 
-                             data-x="center" data-hoffset="" 
-                             data-y="center" data-voffset="30" 
-                             data-width="['auto']"
-                            data-height="['auto']"
-                            data-type="text" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
-
-                        <!-- LAYER NR. 4 -->
-                        <div class="tp-caption rev-btn  tp-resizeme" 
-                             id="slide-1-layer-36" 
-                             data-x="center" data-hoffset="" 
-                             data-y="center" data-voffset="130" 
-                            data-width="['auto']"
-                            data-height="['auto']"
-                            data-type="button" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[20,20,20,20]"
-                            data-paddingright="[50,50,50,50]"
-                            data-paddingbottom="[20,20,20,20]"
-                            data-paddingleft="[50,50,50,50]"
-                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgba(255,108,58,1);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">EXPLORE VIDEO SERVICES </div>
-                        </li>
-
-                        <!-- SLIDE  -->
-                        <li data-index="rs-2" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="850"  data-thumb=""  data-delay="5999"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="https://via.placeholder.com/1920x1080"  alt="" title="Home"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <!-- LAYERS -->
-
-                            <!-- LAYER NR. 5 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-2-layer-38" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="" 
-                                data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                                data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                                data-type="image" 
-                                data-basealign="slide" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(0,137,45,0.63) 85%, rgba(0,137,45,0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
-
-                            <!-- LAYER NR. 6 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-2-layer-31" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="-100" 
-                                data-width="['872']"
-                                data-height="['146']"
-                                data-type="text" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['center','center','center','center']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">equipment on a Smart Home Security </div>
-
-                            <!-- LAYER NR. 7 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-2-layer-33" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="30" 
-                                data-width="['auto']"
-                                data-height="['auto']"
-                                data-type="text" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
-
-                            <!-- LAYER NR. 8 -->
-                            <div class="tp-caption rev-btn  tp-resizeme" 
-                                id="slide-2-layer-36" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="130" 
-                                data-width="['auto']"
-                                data-height="['auto']"
-                                data-type="button" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[20,20,20,20]"
-                                data-paddingright="[50,50,50,50]"
-                                data-paddingbottom="[20,20,20,20]"
-                                data-paddingleft="[50,50,50,50]"
-                                style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgba(255,108,58,1);border-color:rgba(255,108,58,1);border-style:solid;border-width: 0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">HOME SERVICES </div>
-                        </li>
-
-                        <!-- SLIDE  -->
-                        <li data-index="rs-3" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="850"  data-thumb=""  data-delay="5999"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                            <!-- MAIN IMAGE -->
-                            <img src="https://via.placeholder.com/1920x1080"  alt="" title="Home"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                            <!-- LAYERS -->
-
-                            <!-- LAYER NR. 9 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-3-layer-38" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="" 
-                                data-width="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                                data-height="['full-proportional','full-proportional','full-proportional','full-proportional']"
-                                data-type="image" 
-                                data-basealign="slide" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(0,137,45,0.63) 85%, rgba(0,137,45,0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
-
-                            <!-- LAYER NR. 10 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-3-layer-31" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="-100" 
-                                data-width="['921']"
-                                data-height="['auto']"
-                                data-type="text" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['center','center','center','center']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
-
-                            <!-- LAYER NR. 11 -->
-                            <div class="tp-caption   tp-resizeme" 
-                                id="slide-3-layer-33" 
-                                data-x="center" data-hoffset="" 
-                                data-y="center" data-voffset="30" 
-                                data-width="['auto']"
-                                data-height="['auto']"
-                                data-type="text" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]"
-                                data-paddingbottom="[0,0,0,0]"
-                                data-paddingleft="[0,0,0,0]"
-                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
-
-                        <!-- LAYER NR. 12 -->
-                        <div class="tp-caption rev-btn  tp-resizeme" 
-                             id="slide-3-layer-36" 
-                             data-x="center" data-hoffset="" 
-                             data-y="center" data-voffset="130" 
-                            data-width="['auto']"
-                            data-height="['auto']"
-                            data-type="button" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[20,20,20,20]"
-                            data-paddingright="[50,50,50,50]"
-                            data-paddingbottom="[20,20,20,20]"
-                            data-paddingleft="[50,50,50,50]"
-                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgba(255,108,58,1);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">EXPLORE VIDEO SERVICES 
-                        </div>
-                    </li>
-                </ul>
+    <!-- Wrapper for Slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <!-- Set the first background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('http://www.marchettidesign.net/demo/optimized-bootstrap/code.jpg');"></div>
+            <div class="carousel-caption">
+                 <h2 class="animated fadeInLeft">Caption Animation</h2>
+                 <p class="animated fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                 <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
             </div>
         </div>
-    </section>
+        <div class="item">
+            <!-- Set the second background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('http://www.marchettidesign.net/demo/optimized-bootstrap/conference.jpg');"></div>
+            <div class="carousel-caption">
+                 <h2 class="animated fadeInDown">Caption Animation</h2>
+                 <p class="animated fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                 <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+            </div>
+        </div>
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('http://www.marchettidesign.net/demo/optimized-bootstrap/campus.jpg');"></div>
+            <div class="carousel-caption">
+                 <h2 class="animated fadeInRight">Caption Animation</h2>
+                 <p class="animated fadeInRight">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                 <p class="animated fadeInRight"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="icon-next"></span>
+    </a>
+
+</div>
+
+
     <!--End Main Slider-->
 
     <!-- About Section -->
-    <section class="about-section">
+    {{-- <section class="about-section">
         <!-- Background Layers -->
-        <div class="background-layers">
+        {{-- <div class="background-layers">
             <div class="cws-triangle-overlay"></div>
-            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)"></div>
+            <div class="cws-image-bg" style="background-image: url(images/bgImages/bg-1.jpg)"></div> --}}
         </div>
 
         <div class="auto-container">
@@ -402,7 +209,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End About Section -->
 
     <!-- Portfolio Section -->
@@ -411,7 +218,7 @@
         <div class="background-layers">
             <div class="cws-triangle-overlay top-left"></div>
             <div class="cws-triangle-overlay top-right"></div>
-            <div class="cws-image-bg style-two" style="background-image: url(https://via.placeholder.com/1920x1080)">
+            <div class="cws-image-bg style-two" style="background-image: url(images/ bgImages/bg-1.jpg)">
                 <div class="cws-overlay-bg bg-green"></div>
             </div>
             <div class="cws-triangle-overlay bottom-left"></div>
@@ -535,7 +342,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="icon-box"><span class="icon flaticon-alarm"></span></div>
-                            <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
+                            <figure class="image"><img src="images/bgImages/bg-1.jpg" alt=""></figure>
                             <div class="overlay">
                                 <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
                             </div>
@@ -554,7 +361,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="icon-box"><span class="icon flaticon-plug-2"></span></div>
-                            <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
+                            <figure class="image"><img src="images/bgImages/bg-1.jpg" alt=""></figure>
                             <div class="overlay">
                                 <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
                             </div>
@@ -573,7 +380,7 @@
                     <div class="inner-box">
                         <div class="image-box">
                             <div class="icon-box"><span class="icon flaticon-unlocked"></span></div>
-                            <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
+                            <figure class="image"><img src="images/bgImages/bg-9.jpg" alt=""></figure>
                             <div class="overlay">
                                 <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
                             </div>
@@ -595,7 +402,7 @@
         <!-- Background Layers -->
         <div class="background-layers">
             <div class="cws-triangle-overlay top-right"></div>
-            <div class="cws-image-bg style-three" style="background-image: url(https://via.placeholder.com/1920x1080)">
+            <div class="cws-image-bg style-three" style="background-image: url(images/bgImages/bg-1.jpg)">
                 <div class="cws-overlay-bg bg-green half-left"></div>
             </div>
             <div class="cws-triangle-overlay bottom-right"></div>

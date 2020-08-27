@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Ingenious | Just another HTML Template | Home Page 01</title>
+<title>Brintec</title>
 
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -26,3 +26,18 @@
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
+</body>
+<div class="page-wrapper">
+    <!-- Preloader -->
+    <div class="preloader">
+        <div class="cws_loader">
+            <span>LOADING...</span>
+            <div class="hex"></div>
+            <div class="hex"></div>
+            <div class="hex"></div>
+            <div class="hex"></div>
+            <div class="hex"></div>
+            <div class="hex"></div>
+            <div class="hex"></div>
+        </div>
+    </div>
