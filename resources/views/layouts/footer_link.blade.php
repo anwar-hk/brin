@@ -5,7 +5,7 @@
         <div class="footer-bottom">
             <div class="auto-container">
                 <div class="copyright-text">
-                    <p>© BRIN Tech Solutions.</p>
+                <p>© BRIN Tech Solutions. {{date("Y")}}</p>
                 </div>
             </div>
         </div>
