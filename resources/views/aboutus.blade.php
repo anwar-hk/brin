@@ -86,7 +86,9 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <h2>OUR MISSION</h2>
-                <div class="text">Nunc eu turpis id nulla sodales luctus. Vestibulum fermentum dui faucibus ligula dapibus scelerisque. Etiam laoreet vitae est vitae convallis. Nulla vel laoreet erat, ac dictum magna. Fusce gravida, magna in mollis mattis, mauris tellus consequat eros, ac venenatis augue urna a dui.</div>
+                <div class="text">Better service, faster delivery, with less cost. At BRIN Tech Solutions, we strive to help our customers succeed. We provide the best in-class and reliable IT based
+                    solutions for our customers, while ensuring a high quality of service and customer satisfaction is maintained. We have
+                    all the technical expertise and best managed team required to provide nothing but the best for our customers.</div>
             </div>
             <div class="row">
                 <!-- Mission Block -->
