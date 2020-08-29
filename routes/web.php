@@ -28,7 +28,6 @@ Route::get('officeservices', function () {
 Route::get('contact', function () {
     return view('contact');
 });
-
 Route::get('about', function () {
     return view('about');
 });
@@ -36,7 +35,9 @@ Route::get('about', function () {
 Route::get('/admin', function () {
     return view('admin/dashbord');
 });
-
+Route::get('careers', function () {
+    return view('careers');
+});
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
