@@ -4,28 +4,27 @@
         <div class="widgets-section">
             <div class="row">
                 <!--Footer Column-->
-                <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">BRIN Tech Solutions</h4>
-                        <div class="widget-content">
+                        <div class="widget-content" >
                             <div class="text">  
                                 We are here to ensure a complete network setup solution that is well suited and beneficial to your organization.</div>
                         </div>
                     </div>
                 </div>
 
-                <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-top; repeat: true">
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">ADDRESS</h4>
-                        <div class="widget-content">
-                            <div class="text"> <i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, The Iridium Building, Umm Suqeim Rd, Al Barsha, Dubai, UAE, PO BOX -391186</div>
+                        <div class="widget-content" >
+                            <div class="text" > <i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, The Iridium Building, Umm Suqeim Rd, Al Barsha, Dubai, UAE, PO BOX -391186</div>
                         </div>
                     </div>
                 </div>
 
-                <!--Footer Column-->
-                <div class="footer-column col-lg-4 col-md- col-sm-12">
-                    <div class="footer-widget contact-widget">
+                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+                    <div class="footer-widget about-widget">
                         <h4 class="widget-title">OUR CONTACTS</h4>
                         <div class="widget-content">
                             <ul class="contact-list">
@@ -52,8 +51,11 @@
                                 </li>
                             </ul>
                         </div>
-                    </div> 
+                    </div>
                 </div>
+                <!--Footer Column-->
+                
+                </div> 
             </div>
         </div>
     </div>
@@ -70,10 +72,12 @@
 </footer>
 
 <!-- End Page Wrapper -->
-
+</div>
 <!-- Scroll To Top -->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-alt-up"></span></div>
 <script src="js/jquery.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit-icons.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -90,8 +94,6 @@
 <script src="plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
 <script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
 <script src="js/main-slider-script.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.5.6/dist/js/uikit-icons.min.js"></script>
 <!--Revolution Slider-->
 <script ser="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="js/jquery.fancybox.js"></script>
