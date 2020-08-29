@@ -58,7 +58,7 @@
                 </div> 
             </div>
         </div>
-    </div>
+    
     
     <!--Footer Bottom-->
     <div class="footer-bottom">
