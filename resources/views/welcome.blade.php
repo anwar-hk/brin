@@ -1,7 +1,7 @@
 @include('layouts/header_link')
 @include('layouts/welcome_nav')
     <!--Main Slider-->
-    <section class="main-slider">
+    <section class="main-slider " >
         <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
             <div class="rev_slider fullwidthabanner" id="rev_slider_one" data-version="5.4.1">
                 <ul>
@@ -16,7 +16,7 @@
                     <!--  SLIDE 1 -->
 
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption  " 
+                    <div class="tp-caption" 
                         id="slide-1-layer-38" 
                         data-x="center" data-hoffset="" 
                         data-y="center" data-voffset="" 
@@ -35,7 +35,7 @@
                      </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption animate__animated animate__backInUp animate__delay-1s" 
+                        <div class="tp-caption animate__animated animate__zoomInDown animate__delay-1s" 
                              id="slide-1-layer-31" 
                              data-x="center" data-hoffset="" 
                              data-y="center" data-voffset="-100" 
@@ -43,7 +43,7 @@
                             data-height="['auto']"
                             data-type="text" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.animate__fadeInBottomRight"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
                             data-textAlign="['center','center','center','center']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
@@ -89,7 +89,7 @@
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" onclick="clickOffice()">Office Services 
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >Office Services 
                                 </div>
                             </a>
                         </li>
@@ -151,7 +151,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
+                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your Home?<br> Start with the top products we've tested for every room in the House. </div>
 
                             <!-- LAYER NR. 8 -->
                             <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
@@ -212,7 +212,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
+                                style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your Office </div>
 
                             <!-- LAYER NR. 11 -->
                             <div class="tp-caption tp-resizeme" 
@@ -229,7 +229,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
+                                style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your office?<br> Start with the top products we've tested for every room in the Office. </div>
 
                         <!-- LAYER NR. 12 btn-3 --> 
                        
@@ -256,7 +256,6 @@
         </div>
     </section>
     <!--End Main Slider-->
-    
 
-</div><!-- End Page Wrapper -->
-@include('layouts/footer_link')
+    @include('layouts/footer_link')
+    <!-- End Page Wrapper -->
