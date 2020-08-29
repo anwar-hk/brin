@@ -1,18 +1,75 @@
+<footer class="main-footer" style="background-image: url(images/bgImages/bg-23.jpg);">
+    <div class="auto-container">
+        <!--Widgets Section-->
+        <div class="widgets-section">
+            <div class="row">
+                <!--Footer Column-->
+                <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                    <div class="footer-widget about-widget">
+                        <h4 class="widget-title">BRIN Tech Solutions</h4>
+                        <div class="widget-content">
+                            <div class="text">  
+                                We are here to ensure a complete network setup solution that is well suited and beneficial to your organization.</div>
+                        </div>
+                    </div>
+                </div>
 
-    <!-- Main Footer -->
-    <footer class="main-footer" style="background-image: url(https://via.placeholder.com/1920x600);">
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="copyright-text">
-                <p>© BRIN Tech Solutions. {{date("Y")}}</p>
+                <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                    <div class="footer-widget about-widget">
+                        <h4 class="widget-title">ADDRESS</h4>
+                        <div class="widget-content">
+                            <div class="text"> <i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, The Iridium Building, Umm Suqeim Rd, Al Barsha, Dubai, UAE, PO BOX -391186</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Footer Column-->
+                <div class="footer-column col-lg-4 col-md- col-sm-12">
+                    <div class="footer-widget contact-widget">
+                        <h4 class="widget-title">OUR CONTACTS</h4>
+                        <div class="widget-content">
+                            <ul class="contact-list">
+                                <li>
+                                    <i class="far fa-envelope"></i>
+                                    <a href="mailto:reachus@brintechsolutions.com">reachus@brintechsolutions.com</a>
+                                </li>
+                                <li>
+                                    <i class="fa fa-mobile"></i> 
+                                    <a href="tel:+971 54 517 1712"> +971 54 517 1712</a>
+                                </li>
+                                <li>
+                                    <i class="fa fa-phone"></i> 
+                                    <a href="tel:+971 4 381 8712"> +971 4 381 8712</a>
+                                </li>
+                                <li>
+                                   <div class="social-icon">
+                                       <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                       <a href="#"><i class="fab fa-twitter"></i></a>
+                                       <a href="#"><i class="fab fa-instagram"></i></a>
+                                       <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                       <a href="#"><i class="fa fa-signal"></i></a>
+                                   </div> 
+                                </li>
+                            </ul>
+                        </div>
+                    </div> 
                 </div>
             </div>
         </div>
-    </footer>
-    <!-- End Main Footer -->
+    </div>
+    
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+        <div class="auto-container">
+            <div class="copyright-text">
+            <p>© BRIN Tech Solutions. {{date("Y")}}</p>
+            </div>
+        </div>
+    </div>
+    
+</footer>
 
-</div><!-- End Page Wrapper -->
+<!-- End Page Wrapper -->
 
 <!-- Scroll To Top -->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-alt-up"></span></div>

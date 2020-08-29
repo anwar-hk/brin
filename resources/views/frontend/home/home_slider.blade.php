@@ -263,7 +263,7 @@
                         data-paddingbottom="[20,20,20,20]"
                         data-paddingleft="[50,50,50,50]"
                         style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgba(255,108,58,1);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Home Services 
-                    </div>
+                    </div>  
                 </li>
             </ul>
         </div>

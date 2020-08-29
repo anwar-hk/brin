@@ -11,20 +11,20 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
                             <li>
-                                <a  href="/"><span>Home</span></a>
+                                <a href="/"><span>Home</span></a>
                             </li>
                             <li class="dropdown">
                                 <a>Services</a>
                                 <ul>
-                                    <li><a href="#cctv" >CCTV</a></li>
+                                    <li><a href="#cctv">CCTV</a></li>
                                     <li><a href="#wifi">WiFi</a></li>
                                     {{-- <li><a href="#homeAutomation"></a></li> --}}
                                     
                                 </ul>
                             </li>
-                            <li><a href="#about" >About </a></li>
+                            <li><a href="#about">About </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
-                            <li><a href="contact"><span>Contacts</span> </a></li>
+                            <li><a href="contact">Contacts </a></li>
                         </ul>
                     </div>
                 </nav>

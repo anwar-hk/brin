@@ -20,13 +20,18 @@ Route::get('/', function () {
 Route::get('homeservices', function () {
     return view('frontend.home.index');
 });
+
 Route::get('officeservices', function () {
     return view('frontend.office.index');
 });
+
 Route::get('contact', function () {
     return view('contact');
 });
 
+Route::get('about', function () {
+    return view('about');
+});
 
 Route::get('/admin', function () {
     return view('admin/dashbord');
