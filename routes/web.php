@@ -28,7 +28,9 @@ Route::get('officeServices', function () {
 Route::get('/admin', function () {
     return view('admin/dashbord');
 });
-
+Route::get('careers', function () {
+    return view('careers');
+});
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
