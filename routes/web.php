@@ -17,11 +17,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 // HOME SERVICES ROUTES 
-Route::get('homeServices', function () {
+Route::get('homeservices', function () {
     return view('frontend.home.index');
 });
-Route::get('officeServices', function () {
+Route::get('officeservices', function () {
     return view('frontend.office.index');
+});
+Route::get('contact', function () {
+    return view('contact');
 });
 
 
