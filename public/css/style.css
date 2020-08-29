@@ -124,7 +124,7 @@ Version: 1.0.0
 body {
 	
     font-size: 16px;
-    color: #363636;
+    color: #1cb7e6;
 	line-height: 28px;
 	font-weight:400;
 	background:#ffffff;
@@ -12013,4 +12013,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .related-products .shop-item{
 	margin-bottom: 30px;
+}
+a {
+	text-decoration:none !important;
 }

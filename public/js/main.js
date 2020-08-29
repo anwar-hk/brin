@@ -37,3 +37,5 @@ $(window).resize(function () {
 $(document).ready(function () {
     resize();
 });
+
+// button routs

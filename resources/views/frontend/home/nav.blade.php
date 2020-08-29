@@ -3,7 +3,7 @@
     <!-- Main box -->
     <div class="main-box">
         <div class="menu-box">
-            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
+            <div class="logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
             <!--Nav Box-->
             <div class="nav-outer">
                 <!-- Main Menu -->
@@ -11,17 +11,19 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
                             <li>
-                                <a href="/"><span>Home</span></a>
+                                <a  href="/"><span>Home</span></a>
                             </li>
                             <li class="dropdown">
-                                <a><span>Services</span></a>
+                                <a>Services</a>
                                 <ul>
-                                    <li><a href="portfolio-masonry.html">Home Services</a></li>
-                                    <li><a href="portfolio-two-col-sidebar.html">Office Services</a></li>
+                                    <li><a href="#cctv" >CCTV</a></li>
+                                    <li><a href="#wifi">WiFi</a></li>
+                                    {{-- <li><a href="#homeAutomation"></a></li> --}}
+                                    
                                 </ul>
                             </li>
-                            <li><a href="contact"><span>About</span> </a></li>
-                            <li><a href="contact"><span>News</span> </a></li>
+                            <li><a href="#about" >About </a></li>
+                            {{-- <li><a href=""><span></span> </a></li> --}}
                             <li><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>
@@ -35,7 +37,7 @@
         <div class="outer-box">
             <!--Logo-->
             <div class="logo">
-                <a href="#" title="Sticky Logo"><img src="images/sticky-logo.png" alt="Sticky Logo"></a>
+                <a href="#" title="Brin Logo"><img src="images/logo.png" alt="brin Logo"></a>
             </div>
 
             <!--Nav Outer-->
@@ -50,7 +52,7 @@
 
     <!-- Mobile Header -->
     <div class="mobile-header">
-        <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo-white-big.png 2x"></a></div>
+        <div class="logo"><a href=""><img src="images/logo.png" alt="" title="" srcset="images/logo-white-big.png 2x"></a></div>
 
         <!--Nav Box-->
         <div class="nav-outer clearfix">

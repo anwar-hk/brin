@@ -3,7 +3,7 @@
         <!-- Main box -->
         <div class="main-box">
             <div class="menu-box">
-                <div class="logo animate__animated animate__rotateIn animate__delay-1s">
+                <div class="logo animate__animated animate__backInLeft animate__delay-1s">
                     <a href="/">
                         <img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
                     </a>
@@ -15,19 +15,19 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                 <li>
-                                    <a href="/"><span class="animate__animated animate__rotateIn animate__delay-1s">Home</span></a>
+                                    <a href="/"><span class="animate__animated animate__bounceInDown animate__delay-1s">Home</span></a>
                                 </li>
-                                <li class="dropdown animate__animated animate__rotateIn animate__delay-1s">
+                                <li class="dropdown animate__animated animate__bounceInDown animate__delay-1s">
                                     <a href=""><span class="">Services</span></a>
                                     <ul>
-                                        <li><a href="homeServices">Home Services</a></li>
-                                        <li><a href="officeServices">Office Services</a></li>
+                                        <li><a href="homeservices">Home Services</a></li>
+                                        <li><a href="officeservices">Office Services</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about" class="animate__animated animate__rotateIn animate__delay-1s"><span>About</span> </a></li>
-                                <li><a href="correre" class="animate__animated animate__rotateIn animate__delay-1s">Careers </a></li>
-                                <li><a href="news" class="animate__animated animate__rotateIn animate__delay-1s" >News </a></li>
-                                <li><a href="contact" class="animate__animated animate__rotateIn animate__delay-1s">Contacts Us</a></li>
+                                <li><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About</span> </a></li>
+                                <li><a href="correre" class="animate__animated animate__bounceInDown animate__delay-1s">Careers </a></li>
+                                <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" >News </a></li>
+                                <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s">Contacts Us</a></li>
                             </ul>
                         </div>
                     </nav>

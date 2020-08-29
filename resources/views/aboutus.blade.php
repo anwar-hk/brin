@@ -1,4 +1,4 @@
-
+@include('layouts/header_link')
     <!--Page Title-->
     <section class="page-title">
         <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)">

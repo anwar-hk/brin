@@ -1,7 +1,5 @@
 @include('layouts/header_link')
 @include('layouts/welcome_nav')
-    
-    
     <!--Main Slider-->
     <section class="main-slider">
         <div class="rev_slider_wrapper fullwidthbanner-container"  id="rev_slider_one_wrapper" data-source="gallery">
@@ -33,7 +31,7 @@
                      </div>
 
                         <!-- LAYER NR. 2 -->
-                        <div class="tp-caption animate__animated animate__rotateInDown animate__delay-1s" 
+                        <div class="tp-caption animate__animated animate__backInUp animate__delay-1s" 
                              id="slide-1-layer-31" 
                              data-x="center" data-hoffset="" 
                              data-y="center" data-voffset="-100" 
@@ -50,8 +48,10 @@
                             style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Are you looking for </div>
 
                         <!-- LAYER NR. 3 -->
-                        <!-- LAYER NR. 4 -->
-                                <div class="tp-caption rev-btn tp-resizeme rev-size" 
+
+                        <!-- BUTTON LAYER NR. 4 -->
+                                <a href="homeservices">
+                                    <div class="tp-caption rev-btn tp-resizeme rev-size animate__animated animate__delay-1s" 
                                     id="slide-1-layer-36" 
                                     data-x="740" data-hoffset="0" 
                                     data-y="475" data-voffset=""
@@ -65,9 +65,12 @@
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Home Services 
-                                </div>
-
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                                    Home Services 
+                                    </div>
+                                </a> 
+                        <!-- BUTTON LAYER NR. 4 -->
+                            <a href="officeservices">
                                 <div class="tp-caption rev-btn  tp-resizeme col-sm-6 rev-size-2" 
                                     id="slide-1-layer-36" 
                                     data-x="980" data-hoffset="" 
@@ -82,9 +85,11 @@
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Office Services 
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 175 247);border-color:rgb(180, 198, 201);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" onclick="clickOffice()">Office Services 
                                 </div>
+                            </a>
                         </li>
+
 
                         <!-- SLIDE  -->
                         <li data-index="rs-2" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="850"  data-thumb=""  data-delay="5999"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -108,7 +113,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 5;"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
+                                style="z-index: 5;"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina > </div>
 
                             <!-- LAYER NR. 6 -->
                             <div class="tp-caption   tp-resizeme" 
@@ -159,7 +164,7 @@
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Home Services 
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >Home Services 
                                 </div>
 
                                 <div class="tp-caption rev-btn  tp-resizeme col-sm-6 rev-size-4" 
@@ -281,5 +286,12 @@
     
 
 </div><!-- End Page Wrapper -->
-
+<script>
+clickHome() {
+    window.location = '/homeservices' ;
+}
+clickOffice() {
+    window.location = '/homeservices' ;
+}
+</script>
 @include('layouts/footer_link')
