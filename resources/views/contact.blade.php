@@ -9,8 +9,8 @@
             <div class="cws-overlay-bg"></div>
         </div>
 
-        <div class="auto-container animate__animated animate__bounceInDown animate__delay-1s" >
-            <h1>Contacts</h1>
+        <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s" >
+            <h1>Contact Us</h1>
             <ul class="page-breadcrumb">
                 <li><a href="homeservices">Home</a></li>
                 <li>Contacts</li>
