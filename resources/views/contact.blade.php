@@ -9,7 +9,7 @@
             <div class="cws-overlay-bg"></div>
         </div>
 
-        <div class="auto-container">
+        <div class="auto-container animate__animated animate__bounceInDown animate__delay-1s" >
             <h1>Contacts</h1>
             <ul class="page-breadcrumb">
                 <li><a href="homeservices">Home</a></li>
@@ -20,16 +20,16 @@
     <!--End Page Title-->
 
     <!-- Features Section Six  -->
-    <section class="feaures-section-six">
+    <section class="feaures-section-six ">
         <!-- Background Layers -->
         <div class="background-layers">
             <div class="cws-image-bg"></div>
         </div>
 
-        <div class="auto-container">
+        <div class="auto-container" >
             <div class="row">
                 <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12">
+                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
                     <div class="inner-box">
                         <div class="icon-box">
                             <span class="icon flaticon-shopping-cart-2"></span>
@@ -39,7 +39,7 @@
                 </div>
 
                 <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12">
+                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
                     <div class="inner-box">
                         <div class="icon-box">
                             <span class="icon flaticon-browser-2"></span>
@@ -49,7 +49,7 @@
                 </div>
 
                 <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12">
+                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
                     <div class="inner-box">
                         <div class="icon-box">
                             <span class="icon flaticon-headset-2"></span>
@@ -59,7 +59,7 @@
                 </div>
 
                 <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12">
+                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
                     <div class="inner-box">
                         <div class="icon-box">
                             <span class="icon flaticon-devices-1"></span>
@@ -75,8 +75,8 @@
     <!-- Contact Map Section -->
     <section class="contact-map-section">
         <!-- Background Layers -->
-        <div class="background-layers">
-            <div class="cws-image-bg">
+        <div class="background-layers" >
+            <div class="cws-image-bg"uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                 <div class="cws-triangle-overlay"></div>
                 <div class="map-outer">
                     <iframe src="https://maps.google.com/maps?q=Iridium%20Building&t=&z=17&ie=UTF8&iwloc=&output=embed" height="450" style="border:0; width:100%;"></iframe>
@@ -84,17 +84,17 @@
             </div>
         </div>
 
-        <div class="auto-container">
+        <div class="auto-container " >
             <div class="row">
                 <div class="content-column col-lg-6 col-md-12 col-sm-12 offset-6">
                     <div class="inner-column">
-                        <div class="sec-title">
-                            <h2>HOW TO REACH US</h2>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget.</div>
+                        <div class="sec-title" >
+                            <h2 uk-scrollspy="cls: uk-animation-slide-left; repeat: true">HOW TO REACH US</h2>
+                            <div class="text" uk-scrollspy="cls: uk-animation-slide-top; repeat: true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget.</div>
                         </div>
-                        <h4>Ingenious Portugal</h4>
+                        <h4>BRIN Tech Solutions</h4>
                         <div class="contact-info row">
-                            <div class="contact-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
                                 <div class="inner">
                                     <span class="icon fa fa-map-signs"></span>
                                     <h5>Address</h5>
@@ -103,12 +103,12 @@
                                 </div>
                             </div>
 
-                            <div class="contact-block col-lg-6 col-md-6 col-sm-12">
+                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
                                 <div class="inner">
                                     <span class="icon fa fa-phone"></span>
                                     <h5>Contact Details</h5>
-                                    <p>(+123) – 456 – 7890</p>
-                                    <p>ingenious@mail.com</p>
+                                    <p>(+971 54 517 1712)</p>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -131,17 +131,17 @@
         <div class="auto-container">
             <div class="row">
                 <!-- Content Column -->
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="content-column col-lg-6 col-md-12 col-sm-12" >
                     <div class="inner-column">
-                        <div class="sec-title light">
+                        <div class="sec-title light" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
                             <h2>Contact Us</h2>
-                            <div class="text">Integer molestie molestie neque et cursus. Curabitur diam felis, ultricies non mauris tempor, interdum fringilla mauris. Nunc vitae sodales nisl, at accumsan odio. Vestibulum interdum velit id magna dictum.</div>
+                            <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">Integer molestie molestie neque et cursus. Curabitur diam felis, ultricies non mauris tempor, interdum fringilla mauris. Nunc vitae sodales nisl, at accumsan odio. Vestibulum interdum velit id magna dictum.</div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Form Column -->
-                <div class="form-column col-lg-6 col-md-12 col-sm-12">
+                <div class="form-column col-lg-6 col-md-12 col-sm-12 " uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
                     <div class="inner-column">
                         <div class="default-form contact-form-two">
                             <form action="#" method="post" id="email-form">

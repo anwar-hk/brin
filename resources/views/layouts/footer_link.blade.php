@@ -61,7 +61,7 @@
     
     
     <!--Footer Bottom-->
-    <div class="footer-bottom">
+    <div class="footer-bottom" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true">
         <div class="auto-container">
             <div class="copyright-text">
             <p>© BRIN Tech Solutions. {{date("Y")}}</p>
