@@ -2,7 +2,7 @@
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">
-        <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)">
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider.jpg)">
             <div class="cws-overlay-bg"></div>
         </div>
 
@@ -20,7 +20,7 @@
     <section class="about-section-three">
          <!-- Background Layers -->
         <div class="background-layers">
-            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x900)"></div>
+            <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs3.jpg)"></div>
             <div class="cws-triangle-overlay bottom-left"></div>
             <div class="cws-triangle-overlay bottom-right"></div>
         </div>
@@ -54,7 +54,7 @@
     <section class="our-standards">
         <!-- Background Layers -->
         <div class="background-layers">
-            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)">
+            <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs4.jpg)">
                 <div class="cws-overlay-bg"></div>
                 <div class="cws-triangle-overlay"></div>
             </div>
@@ -152,7 +152,7 @@
     <section class="our-passion">
         <!-- Background Layers -->
         <div class="background-layers">
-            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x900)">
+            <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs6.jpg)">
                 <div class="cws-overlay-bg"></div>
                 <div class="cws-triangle-overlay"></div>
             </div>
@@ -177,7 +177,6 @@
 
     <!-- Team Section -->
     <section class="team-section">
-        
         <div class="auto-container">
             <div class="sec-title text-center">
                 <h2>OUR PEOPLE</h2>
@@ -260,8 +259,8 @@
     <section class="competence-center">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <h2>COMPETENCE CENTERS</h2>
-                <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus</div>
+                <h2>Code of Business Conduct</h2>
+                <div class="text">While we do strive to remain a profitable company, we believe firmly in conducting businesses with the highest level of business ethics.</div>
             </div>
         </div>
 
