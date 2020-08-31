@@ -86,9 +86,18 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <h2>OUR MISSION</h2>
-                <div class="text">Better service, faster delivery, with less cost. At BRIN Tech Solutions, we strive to help our customers succeed. We provide the best in-class and reliable IT based
+                <div class="text text-justify" >Better service, faster delivery, with less cost. At BRIN Tech Solutions, we strive to help our customers succeed. We provide the best in-class and reliable IT based
                     solutions for our customers, while ensuring a high quality of service and customer satisfaction is maintained. We have
                     all the technical expertise and best managed team required to provide nothing but the best for our customers.</div>
+            </div>
+            <div class="sec-title text-center">
+                <h2>OUR VISION</h2>
+                <div class="text text-justify">We
+                    invite you to explore all that BRIN Tech Solutions has to offer and unleash the power of Technology to drive your next intell igent
+                    disruption. To fulfill our vision, BRIN Tech Solutions will be constantly equipping our staff with the latest technical knowl edge,
+                    and frequently reviewing our self in order to stay relevant and technologically ahead in the services we provide. Altogether, to
+                    provide our customers with top quality and comprehensive IT based solutions.
+                </div>
             </div>
             <div class="row">
                 <!-- Mission Block -->
