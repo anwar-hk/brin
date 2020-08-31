@@ -59,6 +59,7 @@
                 <div class="cws-triangle-overlay"></div>
             </div>
             <div class="cws-triangle-overlay bottom-left"></div>
+            <div class="cws-triangle-overlay bottom-right"></div>
         </div>
 
         <div class="auto-container">
@@ -146,8 +147,37 @@
     </section>
     <!-- End Our Mission -->
 
+    
+    <!-- Our Passion -->
+    <section class="our-passion">
+        <!-- Background Layers -->
+        <div class="background-layers">
+            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x900)">
+                <div class="cws-overlay-bg"></div>
+                <div class="cws-triangle-overlay"></div>
+            </div>
+            <div class="cws-triangle-overlay bottom-left"></div>
+            <div class="cws-triangle-overlay bottom-right"></div>
+        </div>
+        <div class="auto-container">
+            <div class="row">
+                <div class="content-column col-lg-6 col-md-12 col-sm-12 offset-6">
+                    <div class="inner-column">
+                        <div class="sec-title light">
+                            <h2>PHILOSOPHY</h2>
+                            <div class="text">BRIN Tech Solutions makes sure you don’t waste a single minute</div>
+                            <p class="text">In today’s market, many vendors provide general and basic maintenance at an extremely low value with poor services, which result in clients being poorly served. These are vendors who put the word “sales” before “services,” we believe it is high time to change and revive the situation. BRIN Tech Solutions is set up to address this significant shortcoming in the market where our team belief through excellent service and integrity, we will be able to build a long-term relationship and trust with our clients.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Our Passion -->
+
     <!-- Team Section -->
     <section class="team-section">
+        
         <div class="auto-container">
             <div class="sec-title text-center">
                 <h2>OUR PEOPLE</h2>
@@ -226,6 +256,51 @@
     </section>
     <!-- End Our People -->
 
+    <!-- Competence Center -->
+    <section class="competence-center">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2>COMPETENCE CENTERS</h2>
+                <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus</div>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <!-- Service Block Three -->
+                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
+                        <h4>Ingenious Smart Engineering</h4>
+                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
+                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
+                    </div>
+                </div>
+
+                <!-- Service Block Three -->
+                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
+                        <h4>Development & Production</h4>
+                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
+                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
+                    </div>
+                </div>
+
+                <!-- Service Block Three -->
+                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
+                        <h4>Development Of Intelligen Soft</h4>
+                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
+                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Competence Center -->
+    
     <!--Clients Section-->
     <section class="clients-section">
         <div class="auto-container">
@@ -245,91 +320,4 @@
     <!--End Clients Section-->
 
     <!-- Main Footer -->
-    <footer class="main-footer" style="background-image: url(https://via.placeholder.com/1920x600);">
-        <div class="auto-container">
-            <!--Widgets Section-->
-            <div class="widgets-section">
-                <div class="row">
-                    <!--Footer Column-->
-                    <div class="footer-column col-lg-4 col-md-6 col-sm-12">
-                        <div class="footer-widget about-widget">
-                            <h4 class="widget-title">INGENIOUS</h4>
-                            <div class="widget-content">
-                                <div class="text">Etiam id scelerisque est, vel scelerisque elit. Etiam vitae consequat dui. Suspendisse in porta felis, a varius elit. Sed nec fringilla mauris. Pellentesque habitant morbi.</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="footer-column col-lg-4 col-md-6 col-sm-12">
-                        <div class="footer-widget recent-posts">
-                            <h4 class="widget-title">LATEST POSTS</h4>
-                             <!--Footer Column-->
-                            <div class="widget-content">
-                                <article class="post">
-                                    <div class="thumb"><a href="blog-detail.html"><img src="https://via.placeholder.com/80x80" alt=""></a></div>
-                                    <h5><a href="blog-detail.html">Magna arcu</a></h5>
-                                    <span class="cat">Alarm</span>
-                                    <div class="text">Vitae est et arcu semper, moll</div>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Footer Column-->
-                    <div class="footer-column col-lg-4 col-md-6 col-sm-12">
-                        <div class="footer-widget contact-widget">
-                            <h4 class="widget-title">OUR CONTACTS</h4>
-                            <div class="widget-content">
-                                <ul class="contact-list">
-                                    <li>
-                                        <i class="far fa-envelope"></i>
-                                        <a href="mialto:Ingenious@gmail.com">Ingenious@gmail.com</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-phone"></i> 
-                                        <a href="#">(+123) 456 - 7890</a>
-                                    </li>
-                                    <li>
-                                       <div class="social-icon">
-                                           <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                           <a href="#"><i class="fab fa-twitter"></i></a>
-                                           <a href="#"><i class="fab fa-instagram"></i></a>
-                                           <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                           <a href="#"><i class="fa fa-signal"></i></a>
-                                       </div> 
-                                    </li>
-                                </ul>
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <!--Footer Bottom-->
-        <div class="footer-bottom">
-            <div class="auto-container">
-                <div class="copyright-text">
-                    <p><a href="index.html">Brin</a> - Tech Solutions</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- End Main Footer -->
-
-</div><!-- End Page Wrapper -->
-
-<!-- Scroll To Top -->
-        <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-long-arrow-alt-up"></span></div>
-        <script src="js/jquery.js"></script> 
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/odometer.min.js"></script>
-        <script src="js/script.js"></script>
-    </body>
-</html>
+@include('layouts.footer_link')

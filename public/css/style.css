@@ -8390,7 +8390,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .team-section{
 	position: relative;
-	padding: 120px 0;
+	/* padding: 120px 0; */
 }
 
 .team-section .sec-title{
