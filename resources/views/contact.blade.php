@@ -79,11 +79,10 @@
             <div class="cws-image-bg">
                 <div class="cws-triangle-overlay"></div>
                 <div class="map-outer">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12609.73108660754!2d-122.47279800000001!3d37.803331!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808586e6302615a1%3A0x86bd130251757c00!2sStorey%20Ave%2C%20San%20Francisco%2C%20CA%2094129!5e0!3m2!1sen!2sus!4v1577174486999!5m2!1sen!2sus" height="450" style="border:0; width:100%;"></iframe>
+                    <iframe src="https://maps.google.com/maps?q=Iridium%20Building&t=&z=17&ie=UTF8&iwloc=&output=embed" height="450" style="border:0; width:100%;"></iframe>
                 </div>
             </div>
         </div>
-
 
         <div class="auto-container">
             <div class="row">
