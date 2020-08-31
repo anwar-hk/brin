@@ -1,5 +1,5 @@
 @include('layouts/header_link')
-
+@include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">
         <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)">
@@ -31,15 +31,18 @@
                 <div class="content-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title"><h2>WHO WE ARE</h2></div>
-                        <h4><strong>Contemporary Living Model For Everyone</strong></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non interdum eros. Cras scelerisque tincidunt nisi, nec commodo sem vulputate.</p>
-                        <h4><strong>Thousands Of Ingenious Projects Worldwide</strong></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non interdum eros. Cras scelerisque tincidunt nisi, nec commodo sem vulputate.</p>
-                        <h4><strong>Building Services & Consumer Electronics</strong></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non interdum eros. Cras scelerisque tincidunt nisi, nec commodo sem vulputate.</p>
+                        <h5>WE BRING SOLUTIONS!” which we aim to deliver through our strategy of “CONSULT, DELIVER AND SUPPORT</h5>
+                        <p style="text-align: justify">Our knowledgeable staff, extensive product range, deep levels of inventory and our commitment to quality is what sets us apart from the competition. We pride ourselves on giving you the
+                            right product, at the right price, first time, every time. That’s what we call being easy to do business with. We work with Partners who are focused on helping businesses enhance
+                            performance and efficiency.</p>
+                        <h4><strong>Thousands Of BRINTech Projects</strong></h4>
+                        <p style="text-align: justify">Our staff are experts in their field. They are dedicated to providing our customers with superior products and solutions, together with superior knowledge and service that goes beyond the
+                            basic fulfilment role of other distributors.
+                            We aim to help businesses accelerate and simplify deployment of new technologies by providing them with the knowledge, skills, tools, resources and overall support needed to be
+                            successful.</p>
                     </div>
                     <div class="btn-box">
-                        <a href="#" class="theme-btn btn-style-one large">JOIN OUR TEAM</a>                        
+                        <a href="contact" class="theme-btn btn-style-one large">CONTACT US</a>                        
                     </div>
                 </div>
             </div>            
@@ -64,7 +67,9 @@
                     <div class="inner-column">
                         <div class="sec-title light">
                             <h2>GOLD STANDARD, BEST MANAGED</h2>
-                            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus a, rhoncus tristique nulla.</div>
+                            <div class="text text-justify">Our team will work with you to understand your business needs and then align these to your ICT strategy. BRIN Tech Solutions provides innovative business solutions including; Connectivity
+                                through Networks or Mobility, Unified Communications and Telephony, Computing and Cloud, all complemented by our IT Support and Management. We think our staff and level of service
+                                are pretty great, but don’t just take our word for it, try our services now.</div>
                         </div>
                         <ul class="icon-list-two">
                             <li><a href="#"><span class="icon flaticon-target"></span></a></li>
@@ -92,7 +97,8 @@
             </div>
             <div class="sec-title text-center">
                 <h2>OUR VISION</h2>
-                <div class="text text-justify">We
+                <div class="text text-justify">BRIN Tech Solutions will provide you with the foresight to become more agile, realize new growth opportunities, and create ne w
+                    inventions. With 100 percent focus on everything related to your IT Infrastructure, we offer the versatility needed to succeed.We
                     invite you to explore all that BRIN Tech Solutions has to offer and unleash the power of Technology to drive your next intell igent
                     disruption. To fulfill our vision, BRIN Tech Solutions will be constantly equipping our staff with the latest technical knowl edge,
                     and frequently reviewing our self in order to stay relevant and technologically ahead in the services we provide. Altogether, to
@@ -138,44 +144,7 @@
             </div>
         </div>
     </section>
-    <!-- End Our Misiion -->
-
-    <!-- Our Passion -->
-    <section class="our-passion">
-        <!-- Background Layers -->
-        <div class="background-layers">
-            <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x900)">
-                <div class="cws-overlay-bg"></div>
-                <div class="cws-triangle-overlay"></div>
-            </div>
-            <div class="cws-triangle-overlay bottom-left"></div>
-            <div class="cws-triangle-overlay bottom-right"></div>
-        </div>
-        <div class="auto-container">
-            <div class="row">
-                <div class="content-column col-lg-6 col-md-12 col-sm-12 offset-6">
-                    <div class="inner-column">
-                        <div class="sec-title light">
-                            <h2>PASSION THAT MAKE TO MOVE</h2>
-                            <div class="text">Vestibulum odio diam, elementum nec lobortis vel, maximus sed lorem. Vivamus leo enim, laoreet sit amet ipsum vitae, gravida eleifend elit. Aliquam at ornare ante. In gravida sapien sit amet sem laoreet, ac posuere dolor scelerisque. Proin non volutpat nulla. Donec eget nunc leo.</div>
-                        </div>
-                        <ul class="list-style-one light clearfix">
-                            <li>Integer semper erat vitae</li>
-                            <li>Integer semper erat vitae</li>
-                            <li>Aenean lorem elementum</li>
-                            <li>Aenean lorem elementum</li>
-                            <li>Suspendisse mattis felis</li>
-                            <li>Suspendisse mattis felis</li>
-                        </ul>
-                        <div class="btn-box">
-                            <a href="#" class="theme-btn btn-style-one large">FIND OUT MORE</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Our Passion -->
+    <!-- End Our Mission -->
 
     <!-- Team Section -->
     <section class="team-section">
@@ -256,136 +225,6 @@
         </div>
     </section>
     <!-- End Our People -->
-
-    <!-- Fun Fact section Two -->
-    <section class="fun-fact-section-two">
-        <!-- Background Layers -->
-        <div class="background-layers">
-            <div class="cws-triangle-overlay top-left"></div>
-            <div class="cws-image-bg">
-                <div class="cws-overlay-bg"></div>
-            </div>
-            <div class="cws-triangle-overlay bottom-left"></div>
-            <div class="cws-triangle-overlay bottom-right"></div>
-        </div>
-
-        <div class="container-fluid">
-            <div class="auto-container">
-                <div class="sec-title text-center light">
-                    <h2>FACTS AND FIGURES</h2>
-                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus</div>
-                </div>
-            </div>
-
-            <div class="row">
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="-1 0 68 67"><linearGradient gradientTransform="rotate(65)" id="shape-gradient"><stop offset="0%" stop-color="#fefefe"></stop><stop offset="100%" stop-color="#f9f8f8"></stop></linearGradient><defs><filter id="shape_5bf7be4a9c188"><feGaussianBlur in="SourceAlpha" stdDeviation="4"></feGaussianBlur> <feOffset dx="2" dy="2"></feOffset><feComponentTransfer><feFuncA type="gamma" amplitude="4" exponent="7" offset="0"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c188)" d="M215,159.45A29.92,29.92,0,1,1,185,189.37,29.92,29.92,0,0,1,215,159.45Z" transform="translate(-183 -156.99)"></path></svg>
-                        <span class="icon flaticon-insurance-1"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="3502">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="0 0 67 60"><defs><filter id="shape_5bf7be4a9c315"><feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur> <feOffset dx="1" dy="1"></feOffset><feComponentTransfer><feFuncA type="linear" slope="0.6"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c315)" d="M36.7,5.7L64,52.8a2.8,2.8,0,0,1-2.4,4.2H7a2.8,2.8,0,0,1-2.4-4.2L31.9,5.7A2.8,2.8,0,0,1,36.7,5.7Z" transform="translate(-1.5 -2.5)"></path></svg>
-                        <span class="icon flaticon-idea" style="top:20px;"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="3502">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="0 0 67 60"><defs><filter id="shape_5bf7be4a9c4db"><feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur> <feOffset dx="1" dy="1"></feOffset><feComponentTransfer><feFuncA type="linear" slope="0.6"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c4db)" d="M201.3,326.54L174,279.41a2.81,2.81,0,0,1,2.44-4.22H231a2.81,2.81,0,0,1,2.44,4.22l-27.29,47.13A2.82,2.82,0,0,1,201.3,326.54Z" transform="translate(-171 -272.25)"></path></svg>
-                        <span class="icon flaticon-home-2" style="top: -20px;"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="5222">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="0 0 91 91"><defs><filter id="shape_5bf7be4a9c623"><feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur> <feOffset dx="1" dy="1"></feOffset><feComponentTransfer><feFuncA type="linear" slope="0.6"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c623)" d="M169.92,316l38.45,38.45a3.67,3.67,0,0,1,0,5.2l-38.45,38.45a3.67,3.67,0,0,1-5.2,0l-38.45-38.45a3.67,3.67,0,0,1,0-5.2L164.73,316A3.67,3.67,0,0,1,169.92,316Z" transform="translate(-123 -312.68)"></path></svg>
-                        <span class="icon flaticon-shopping-cart-2"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="8668">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="0 0 73 86"><defs><filter id="shape_5bf7be4a9c769"><feGaussianBlur in="SourceAlpha" stdDeviation="2"></feGaussianBlur> <feOffset dx="1" dy="1"></feOffset><feComponentTransfer><feFuncA type="linear" slope="0.6"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c769)" d="M167.52,434.43a0.85,0.85,0,0,1-.28,0c-23.87-8.32-32.34-23.22-32.34-33.44V367.53a0.85,0.85,0,0,1,.57-0.81l31.78-10.56a0.85,0.85,0,0,1,.54,0l31.77,10.57a0.85,0.85,0,0,1,.6.8v33.41c0,10.23-8.47,25.13-32.34,33.45A0.86,0.86,0,0,1,167.52,434.43Z" transform="translate(-132 -353.43)"></path></svg>
-                        <span class="icon flaticon-target-2"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="1552">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-
-                <!-- Counter Column Two -->
-                <div class="counter-column-two col-xl-2 col-lg-3 col-md-6 col-sm-12">
-                    <div class="icon-box">
-                        <svg viewBox="-1 0 68 67"><linearGradient gradientTransform="rotate(65)" id="shape-gradient2"><stop offset="0%" stop-color="#fefefe"></stop><stop offset="100%" stop-color="#f9f8f8"></stop></linearGradient><defs><filter id="shape_5bf7be4a9c1882"><feGaussianBlur in="SourceAlpha" stdDeviation="4"></feGaussianBlur> <feOffset dx="2" dy="2"></feOffset><feComponentTransfer><feFuncA type="gamma" amplitude="4" exponent="7" offset="0"></feFuncA></feComponentTransfer><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><path filter="url(#shape_5bf7be4a9c1882)" d="M215,159.45A29.92,29.92,0,1,1,185,189.37,29.92,29.92,0,0,1,215,159.45Z" transform="translate(-183 -156.99)"></path></svg>
-                        <span class="icon flaticon-renewable-energy-1"></span>
-                    </div>
-                    <div class="count-text"><span class="odometer" data-count="1552">00</span></div>
-                    <h4 class="count-title">Ingenious Partners</h4>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Fun Fact section Two -->
-
-    <!-- Competence Center -->
-    <section class="competence-center">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <h2>COMPETENCE CENTERS</h2>
-                <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus</div>
-            </div>
-        </div>
-
-        <div class="container-fluid">
-            <div class="row">
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
-                        <h4>Ingenious Smart Engineering</h4>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
-                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
-                    </div>
-                </div>
-
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
-                        <h4>Development & Production</h4>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
-                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
-                    </div>
-                </div>
-
-                <!-- Service Block Three -->
-                <div class="service-block-three col-lg-4 col-md-6 col-sm-12">
-                    <div class="inner-box">
-                        <figure class="image"><a href="https://via.placeholder.com/1920x1080" class="lightbox-image" data-fancybox><img src="https://via.placeholder.com/1920x1080" alt=""></a></figure>
-                        <h4>Development Of Intelligen Soft</h4>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum</div> 
-                        <a href="#" class="theme-btn btn-style-two">Visit Website</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Competence Center -->
 
     <!--Clients Section-->
     <section class="clients-section">
