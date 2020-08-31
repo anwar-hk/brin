@@ -34,26 +34,10 @@
                     
                     <!-- BUTTON LAYER NR. 4 -->
                     <a href="officeservices">
-                        <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
-                            id="slide-1-layer-36" 
-                            data-x="center" data-hoffset="-180" 
-                            data-y="center" data-voffset="100"
-                            data-width="['auto']"
-                            data-height="['auto']"  
-                            data-type="button" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[20,20,20,20]"
-                            data-paddingright="[50,50,50,50]"
-                            data-paddingbottom="[20,20,20,20]"
-                            data-paddingleft="[50,50,50,50]"
-                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >Office Services 
-                        </div>
-                        <div class="tp-caption  animate__animated animate__fadeInBottomRight animate__delay-1s" 
+                        <div class="tp-caption rev-size animate__animated animate__fadeInBottomRight animate__delay-1s" 
                             id="slide-1-layer-31" 
-                            data-x="740" data-hoffset="70" 
-                            data-y="375" data-voffset="180"
+                            data-x="" data-hoffset="" 
+                            data-y="" data-voffset=""
                             data-width="['auto']"
                             data-height="['auto']"  
                             data-type="text" 
@@ -67,29 +51,29 @@
                             style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 100px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">
                             <i class="fa fa-building" aria-hidden="true"></i>
                         </div>
-                    </a> 
-                    <a href="homeservices">
-                        <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
+
+                        <div class="tp-caption rev-btn rev-size1 tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
                             id="slide-1-layer-36" 
-                            data-x="center" data-hoffset="70" 
-                            data-y="center" data-voffset="100"
+                            data-x="" data-hoffset="" 
+                            data-y="" data-voffset=""
                             data-width="['auto']"
                             data-height="['auto']"  
                             data-type="button" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
+                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
                             data-paddingtop="[20,20,20,20]"
                             data-paddingright="[50,50,50,50]"
                             data-paddingbottom="[20,20,20,20]"
                             data-paddingleft="[50,50,50,50]"
-                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
-                            Home Services 
+                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >Office Services 
                         </div>
-                        <div class="tp-caption col-sm-6  animate__animated animate__fadeInBottomLeft animate__delay-1s" 
+                    </a> 
+                    <a href="homeservices">
+                        <div class="tp-caption col-sm-6 rev-size2 animate__animated animate__fadeInBottomLeft animate__delay-1s" 
                             id="slide-1-layer-36" 
-                            data-x="980" data-hoffset="" 
-                            data-y="375" data-voffset="180" 
+                            data-x="" data-hoffset="" 
+                            data-y="" data-voffset="" 
                             data-width="['auto']"
                             data-height="['auto']"
                             data-type="button" 
@@ -103,6 +87,24 @@
                             style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 100px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">
                             <i class="fa fa-home" aria-hidden="true"></i>   
                         </div>
+                        <div class="tp-caption rev-size02 rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s" 
+                            id="slide-1-layer-36" 
+                            data-x="center" data-hoffset="" 
+                            data-y="center" data-voffset=""
+                            data-width="['auto']"
+                            data-height="['auto']"  
+                            data-type="button" 
+                            data-responsive_offset="on" 
+                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
+                            data-textAlign="['inherit','inherit','inherit','inherit']"
+                            data-paddingtop="[20,20,20,20]"
+                            data-paddingright="[50,50,50,50]"
+                            data-paddingbottom="[20,20,20,20]"
+                            data-paddingleft="[50,50,50,50]"
+                            style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
+                            Home Services 
+                        </div>
+                        
                     </a>
                 </li>
                         <!--HOME SLIDE 2  -->
@@ -164,7 +166,8 @@
                                 style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your Home?<br> Start with the top products we've tested for every room in the House. </div>
 
                             <!-- LAYER NR. 8 -->
-                            <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
+                            <a href="homeservices">
+                                <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
                                     id="slide-1-layer-36" 
                                     data-x="center" data-hoffset="0" 
                                     data-y="center" data-voffset="140"
@@ -172,15 +175,16 @@
                                     data-height="['auto']"  
                                     data-type="button" 
                                     data-responsive_offset="on" 
-                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
+                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
                                     data-textAlign="['inherit','inherit','inherit','inherit']"
                                     data-paddingtop="[20,20,20,20]"
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >Home Services 
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgb(0, 0, 0);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
+                                    Home Services 
                                 </div>
-
+                            </a>
                         </li>
 
                         <!-- OFFICE SLIDE  -->
@@ -222,7 +226,8 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your Office </div>
+                                style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">
+                                Take ultimate control of your Office </div>
 
                             <!-- LAYER NR. 11 -->
                             <div class="tp-caption tp-resizeme" 
@@ -243,7 +248,7 @@
 
                         <!-- LAYER NR. 12 btn-3 --> 
                        
-
+                            <a href="">
                                 <div class="tp-caption rev-btn  tp-resizeme col-sm-6 animate__fadeInBottomRight" 
                                     id="slide-1-layer-36" 
                                     data-x="center" data-hoffset="" 
@@ -252,14 +257,16 @@
                                     data-height="['auto']"
                                     data-type="button" 
                                     data-responsive_offset="on" 
-                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,108,58,1);bg:rgba(255,255,255,1);"}]'
+                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
                                     data-textAlign="['inherit','inherit','inherit','inherit']"
                                     data-paddingtop="[20,20,20,20]"
                                     data-paddingright="[50,50,50,50]"
                                     data-paddingbottom="[20,20,20,20]"
                                     data-paddingleft="[50,50,50,50]"
-                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 , 175 ,247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Office Services 
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9 , 175 ,247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
+                                    Office Services 
                                 </div>
+                            </a>
                     </li>
                 </ul>
             </div>
