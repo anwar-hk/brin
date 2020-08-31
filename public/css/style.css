@@ -1149,16 +1149,16 @@ hr.thick{
     letter-spacing: 1px;
 	font-size: 14px;
 	border-radius: 30px;
-    background-color: #ff6c3a;
+    background-color: #09aff7;
     font-weight: 500;
     padding: 9px 13px 5px;
-    border: 3px solid #ff6c3a;
+    border: 1px solid gray;
     line-height: 20px;
     text-transform: uppercase;
 }
 
 .btn-style-one:hover{
-    color: #ff6c3a;
+    color: #09aff7;
     background-color: #ffffff;
 
 }
@@ -8390,7 +8390,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .team-section{
 	position: relative;
-	padding: 120px 0;
+	/* padding: 120px 0; */
 }
 
 .team-section .sec-title{
