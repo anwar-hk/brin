@@ -5,7 +5,7 @@
     
     <!--Page Title-->
     <section class="page-title">
-        <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)">
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider.jpg)">
             <div class="cws-overlay-bg"></div>
         </div>
 
@@ -109,9 +109,8 @@
                                 <div class="inner">
                                     <span class="icon fa fa-phone"></span>
                                     <h5>Contact Details</h5>
-                                    <p>Mob:(+971 54 517 1712)</p>
-                                    <p>Ph: (+971 4 381 8712)</p>
-                                    <p></p>
+                                    <p><a href="tel:+971 4 381 8712"> +971 4 381 8712</a>
+                                    <a href="tel:+971 54 517 1712"> +971 54 517 1712</a></p>
                                 </div>
                             </div>
                         </div>
