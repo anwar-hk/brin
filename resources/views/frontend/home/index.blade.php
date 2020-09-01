@@ -73,7 +73,7 @@
     <div class="background-layers">
         <div class="cws-triangle-overlay top-left"></div>
         <div class="cws-triangle-overlay top-right"></div>
-        <div class="cws-image-bg style-two" style="background-image: url(https://via.placeholder.com/1920x1080)">
+        <div class="cws-image-bg style-two" style="background-image: url()">
             <div class="cws-overlay-bg bg-green"></div>
         </div>
         <div class="cws-triangle-overlay bottom-left"></div>
@@ -91,7 +91,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1200;">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome4.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 1300;">
@@ -106,12 +106,12 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1500;">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome5.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 1600;"> 
-                            <h4><a href="#">Temperature Controller</a></h4>
-                            <div class="cat"><a href="#">Heating</a></div>
+                            <h4><a href="#">Wi-Fi Setup</a></h4>
+                            <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
@@ -121,11 +121,11 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1900;">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome6.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 2000;">
-                            <h4><a href="#">Tracking</a></h4>
+                            <h4><a href="#">Security</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
@@ -136,11 +136,11 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome3.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
-                            <h4><a href="#">Auto Control</a></h4>
+                            <h4><a href="#">Temperature Controller</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
@@ -151,7 +151,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome8.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
@@ -166,7 +166,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome9.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
