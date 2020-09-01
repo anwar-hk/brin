@@ -89,14 +89,14 @@
                 <div class="content-column col-lg-6 col-md-12 col-sm-12 offset-6">
                     <div class="inner-column">
                         <div class="sec-title" >
-                            <h2 uk-scrollspy="cls: uk-animation-slide-left; repeat: true">HOW TO REACH US</h2>
-                            <div class="text" uk-scrollspy="cls: uk-animation-slide-top; repeat: true">
+                            <h2 uk-scrollspy="cls: uk-animation-slide-left; repeat: false">HOW TO REACH US</h2>
+                            <div class="text" uk-scrollspy="cls: uk-animation-slide-top; repeat: false">
                                 Our office is in centralize area so as to ensure the fast turnaround for our clients.
                                 BRIN Tech responses are so fast which usually leaves our clients amazed and happy.</div>
                         </div>
                         <h4>BRIN Tech Solutions</h4>
                         <div class="contact-info row">
-                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                                 <div class="inner">
                                     <span class="icon fa fa-map-signs"></span>
                                     <h5>Address</h5>
@@ -105,12 +105,13 @@
                                 </div>
                             </div>
 
-                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
-                                <div class="inner">
-                                    <span class="icon fa fa-phone"></span>
-                                    <h5>Contact Details</h5>
-                                    <p><a href="tel:+971 4 381 8712"> +971 4 381 8712</a>
-                                    <a href="tel:+971 54 517 1712"> +971 54 517 1712</a></p>
+                            <div class="contact-block col-lg-6 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
+                                    <div class="inner">
+                                        <span class="icon fa fa-phone"></span>
+                                        <h5>Contact Details</h5>
+                                        <p>+971 54 517 1712</p>
+                                        <p>reachus@brintechsolutions.com</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -135,15 +136,15 @@
                 <!-- Content Column -->
                 <div class="content-column col-lg-6 col-md-12 col-sm-12" >
                     <div class="inner-column">
-                        <div class="sec-title light" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+                        <div class="sec-title light" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                             <h2>Contact Us</h2>
-                            <div class="text text-justify" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">Get 24/7/365 server and networking device monitoring with regular, scheduled onsite support to keep everything running smoothly. Get started now!</div>
+                            <div class="text text-justify" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">Get 24/7/365 server and networking device monitoring with regular, scheduled onsite support to keep everything running smoothly. Get started now!</div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Form Column -->
-                <div class="form-column col-lg-6 col-md-12 col-sm-12 " uk-scrollspy="cls: uk-animation-slide-right; repeat: true">
+                <div class="form-column col-lg-6 col-md-12 col-sm-12 " uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                     <div class="inner-column">
                         <div class="default-form contact-form-two">
                             <form action="#" method="post" id="email-form">

@@ -277,14 +277,13 @@
         <div class="auto-container" uk-scrollspy="cls: uk-animation-slide-top; delay: 1500; repeat: false">
             <!--Sponsors carousel-->
             <ul class="sponsors-carousel owl-carousel owl-theme">
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/1.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/2.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/3.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/4.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/acronis.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/10.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/10.jpg" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="images/sponsors/10.jpg" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/1.png" height="100" width="100" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/2.png" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/3.png" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/4.png" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/5.png" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/6.png" alt=""></a></figure></li>
+                <li class="slide-item text-center"><figure class="image-box"><a href="#"><img src="images/sponsors/7.png" alt=""></a></figure></li>
             </ul>
         </div>
     </section>
