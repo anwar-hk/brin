@@ -1,6 +1,6 @@
 @include('layouts.header_link')
 {{-- navbar --}}
-@include('frontend.home.nav')
+@include('layouts.welcome_nav')
 {{-- @include('frontend.home.home_slider') --}}
     
     <!--Page Title-->
@@ -160,12 +160,8 @@
                                         <input type="email" name="email" class="email">
                                     </div>
                                     <div class="form-group col-sm-12">
-                                        <label>Country</label>
-                                        <input type="text" name="country" class="country">
-                                    </div>
-                                    <div class="form-group col-sm-12">
                                         <label>Mobile</label>
-                                        <input type="number" name="number" class="number">
+                                        <input type="text" name="number" class="number">
                                     </div>
                                     <div class="form-group  col-sm-12">
                                         <label>Email (required)</label>
