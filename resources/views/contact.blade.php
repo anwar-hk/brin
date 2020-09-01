@@ -90,7 +90,9 @@
                     <div class="inner-column">
                         <div class="sec-title" >
                             <h2 uk-scrollspy="cls: uk-animation-slide-left; repeat: true">HOW TO REACH US</h2>
-                            <div class="text" uk-scrollspy="cls: uk-animation-slide-top; repeat: true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus. Fusce odio nulla, consectetur in sagittis eget.</div>
+                            <div class="text" uk-scrollspy="cls: uk-animation-slide-top; repeat: true">
+                                Our office is in centralize area so as to ensure the fast turnaround for our clients.
+                                BRIN Tech responses are so fast which usually leaves our clients amazed and happy.</div>
                         </div>
                         <h4>BRIN Tech Solutions</h4>
                         <div class="contact-info row">
@@ -98,8 +100,8 @@
                                 <div class="inner">
                                     <span class="icon fa fa-map-signs"></span>
                                     <h5>Address</h5>
-                                    <p>250 Bisca 11 st Fl.</p> 
-                                    <p>Florida 33148, Miami</p>
+                                    <p>Suite 17, The Iridium Building, Umm Suqeim Rd,</p> 
+                                    <p>Al Barsha, Dubai, UAE, PO BOX – 391186</p>
                                 </div>
                             </div>
 
@@ -107,7 +109,8 @@
                                 <div class="inner">
                                     <span class="icon fa fa-phone"></span>
                                     <h5>Contact Details</h5>
-                                    <p>(+971 54 517 1712)</p>
+                                    <p>Mob:(+971 54 517 1712)</p>
+                                    <p>Ph: (+971 4 381 8712)</p>
                                     <p></p>
                                 </div>
                             </div>
@@ -135,7 +138,7 @@
                     <div class="inner-column">
                         <div class="sec-title light" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
                             <h2>Contact Us</h2>
-                            <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">Integer molestie molestie neque et cursus. Curabitur diam felis, ultricies non mauris tempor, interdum fringilla mauris. Nunc vitae sodales nisl, at accumsan odio. Vestibulum interdum velit id magna dictum.</div>
+                            <div class="text text-justify" uk-scrollspy="cls: uk-animation-slide-left; repeat: true">Get 24/7/365 server and networking device monitoring with regular, scheduled onsite support to keep everything running smoothly. Get started now!</div>
                         </div>
                     </div>
                 </div>
