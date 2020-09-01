@@ -76,7 +76,7 @@
     <section class="contact-map-section">
         <!-- Background Layers -->
         <div class="background-layers" >
-            <div class="cws-image-bg"uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
+            <div class="cws-image-bg" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                 <div class="cws-triangle-overlay"></div>
                 <div class="map-outer">
                     <iframe src="https://maps.google.com/maps?q=Iridium%20Building&t=&z=17&ie=UTF8&iwloc=&output=embed" height="450" style="border:0; width:100%;"></iframe>
