@@ -91,7 +91,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome4.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
@@ -106,26 +106,41 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome5.jpg" alt=""></figure>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <h4><a href="#">Wi-Fi Setup</a></h4>
+                            <div class="cat"><a href="#">Alarm</a></div>
+                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Block -->
+                <div class="portfolio-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/home_service_images/smarthome6.jpg" alt=""></figure>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                        </div>
+                        <div class="lower-content">
+                            <h4><a href="#">Security</a></h4>
+                            <div class="cat"><a href="#">Alarm</a></div>
+                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Block -->
+                <div class="portfolio-block">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="images/home_service_images/smarthome3.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Temperature Controller</a></h4>
-                            <div class="cat"><a href="#">Heating</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Portfolio Block -->
-                <div class="portfolio-block">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
-                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
-                        </div>
-                        <div class="lower-content">
-                            <h4><a href="#">Tracking</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
@@ -136,22 +151,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
-                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
-                        </div>
-                        <div class="lower-content">
-                            <h4><a href="#">Auto Control</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Portfolio Block -->
-                <div class="portfolio-block">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome8.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
@@ -166,7 +166,7 @@
                 <div class="portfolio-block">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="https://via.placeholder.com/748x421" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome9.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
@@ -283,7 +283,7 @@
 
 <!-- Callback Section -->
 <section class="callback-section">
-    <div class="cws-background-image" style="background-image: url(https://via.placeholder.com/1920x800)"></div>
+    <div class="cws-background-image" style="background-image: url(images/bgImages/home3.jpg)"></div>
     <div class="auto-container">
         <div class="row">
             <div class="col-lg-6 col-md-12">
