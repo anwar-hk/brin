@@ -105,8 +105,8 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 5;"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
-
+                            style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(0,137,45,0.63) 85%, rgba(0,137,45,0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina>
+                        </div>
                         <!-- LAYER NR. 6 -->
                         <div class="tp-caption   tp-resizeme" 
                             id="slide-2-layer-31" 
@@ -179,14 +179,14 @@
                             data-type="image" 
                             data-basealign="slide" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                            data-frames='[{"delay":10,"speed":900,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"linear"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 5;"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
-
+                            style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(0,137,45,0.63) 85%, rgba(0,137,45,0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina>
+                        </div>
                         <!-- LAYER NR. 10 -->
                         <div class="tp-caption   tp-resizeme" 
                             id="slide-3-layer-31" 
@@ -196,7 +196,7 @@
                             data-height="['auto']"
                             data-type="text" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+                            data-frames='[{"delay":500,"speed":800,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.linner"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
                             data-textAlign="['center','center','center','center']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
