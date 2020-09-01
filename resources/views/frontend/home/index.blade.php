@@ -8,7 +8,7 @@
     <!-- Background Layers -->
     <div class="background-layers">
         <div class="cws-triangle-overlay"></div>
-        <div class="cws-image-bg" style="background-image: url(https://via.placeholder.com/1920x1080)"></div>
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/home6.jpg)"></div>
     </div>
 
     <div class="auto-container">

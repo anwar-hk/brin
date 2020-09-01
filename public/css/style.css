@@ -3832,7 +3832,7 @@ hr{
     background-position: center top;
 }
 
-.page-title .cws-image-bg:before {
+.page-title .cws-image-bg:before { 
     content: '';
     position: absolute;
     z-index: 1;
