@@ -164,12 +164,9 @@
                 <div class="content-column col-lg-6 col-md-12 col-sm-12 offset-6">
                     <div class="inner-column">
                         <div class="sec-title light">
-                            <h2>PHILOSOPHY</h2>
-                            <div class="text">BRIN Tech Solutions makes sure you don’t waste a single minute</div>
-                            <p class="text text-justify">In today’s market, many vendors provide general and basic maintenance at an extremely low value with poor services, which result in clients being poorly served. These are vendors who put the word “sales” before “services,” we believe it is high time to change and revive the situation. BRIN Tech Solutions is set up to address this significant shortcoming in the market where our team belief through excellent service and integrity, we will be able to build a long-term relationship and trust with our clients.</p>
                             <h2 uk-scrollspy="cls: uk-animation-slide-top  ; delay:300;">PHILOSOPHY</h2>
                             <div class="text" uk-scrollspy="cls: uk-animation-slide-left  ; delay:700;">BRIN Tech Solutions makes sure you don’t waste a single minute</div>
-                            <p class="text" uk-scrollspy="cls: uk-animation-slide-right  ; delay:900;">In today’s market, many vendors provide general and basic maintenance at an extremely low value with poor services, which result in clients being poorly served. These are vendors who put the word “sales” before “services,” we believe it is high time to change and revive the situation. BRIN Tech Solutions is set up to address this significant shortcoming in the market where our team belief through excellent service and integrity, we will be able to build a long-term relationship and trust with our clients.</p>
+                            <p class="text text-justify" uk-scrollspy="cls: uk-animation-slide-right  ; delay:900;">In today’s market, many vendors provide general and basic maintenance at an extremely low value with poor services, which result in clients being poorly served. These are vendors who put the word “sales” before “services,” we believe it is high time to change and revive the situation. BRIN Tech Solutions is set up to address this significant shortcoming in the market where our team belief through excellent service and integrity, we will be able to build a long-term relationship and trust with our clients.</p>
                         </div>
                     </div>
                 </div>
