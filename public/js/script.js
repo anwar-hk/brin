@@ -89,7 +89,7 @@
 		$('.mobile-menu li.dropdown .dropdown-btn').on('click', function() {
 			$(this).prev('.mega-menu').slideToggle(500);
 		});
-
+ 
 		//Menu Toggle Btn
 		$('.mobile-nav-toggler').on('click', function() {
 			$('body').addClass('mobile-menu-visible');

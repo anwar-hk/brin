@@ -3,7 +3,10 @@
     <!-- Main box -->
     <div class="main-box">
         <div class="menu-box">
-            <div class="logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
+            <div class="logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a>
+                <h2>We bring solutions</h2>
+            
+            </div>
             <!--Nav Box-->
             <div class="nav-outer">
                 <!-- Main Menu -->

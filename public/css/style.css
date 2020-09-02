@@ -3262,7 +3262,7 @@ hr{
 
 .sticky-header .main-menu .navigation > li.current.dropdown > a:after,
 .sticky-header .main-menu .navigation > li.current > a{
-	color: #59ab66;
+	color: #101110;
 }
 
 /*** 
@@ -3398,7 +3398,7 @@ hr{
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #59ab66;
+	background-color: #0b0c0b;
 	content: "";
 	opacity: .9;
 }
@@ -3469,7 +3469,7 @@ hr{
     left: 1px;
     width: 0%;
     z-index: 1;
-    background-color: rgba(255,255,255,0.3);
+    background-color: rgba(75, 62, 62, 0.3);
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     -ms-transition: all .3s;
