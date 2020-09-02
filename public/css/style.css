@@ -6063,7 +6063,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 .portfolio-section .cws-triangle-overlay.top-left{
 	clip-path: polygon(0% 0%, 50% 60px, 0% 120px);
     -webkit-clip-path: polygon(0% 0%, 50% 60px, 0% 120px);
-    background-color: #cfddd0;
+    background-color: #51945d;
 }
 
 .portfolio-section .cws-triangle-overlay.top-right{
