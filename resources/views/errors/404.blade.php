@@ -16,9 +16,6 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
 </head>
 <body>
 <section class="header11 cid-qwTx7JvHJa mbr-fullscreen" id="header11-1" data-rv-view="1053">
@@ -34,7 +31,7 @@
             <h3 class="mbr-section-subtitle py-3 mbr-fonts-style display-5"><span style="font-style: normal;">ERROR PAGE TEMPLATE</span></h3>
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1">Oops! Something went wrong...</h1>
             <p class="mbr-text py-3 mbr-fonts-style display-5">The page you're looking for is not available. Please check the URL.</p>
-            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-white display-4" href="/">BACK TO SITE</a></div>
+            <div class="mbr-section-btn py-4"><a class="btn btn-md btn-white display-4" onclick='goBack()'>BACK TO SITE</a></div>
         </div>
     </div>
 </section>
@@ -45,6 +42,12 @@
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
   
 </body>
 </html>

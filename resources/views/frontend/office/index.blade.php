@@ -4,106 +4,141 @@
 @include('frontend.office.office_slider')
 {{-- Main content --}}
 <!-- Portfolio Section -->
-<section class="portfolio-section" >
-    <!-- Background Layers -->
-    <div class="container-fluid">
-        <div class="sec-title text-center ">
-            <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">Why Choose Us?</h2>
-            <div class="text" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 1000;">Not only BRIN Tech Solutions is has a proposition for every industry, we are also known for.</div>
-        </div>
-        <div class="uk-child-width-1-2@s uk-child-width-1-4@m uk-text-center uk-grid uk-grid-stack" uk-scrollspy="cls: uk-animation-slide-right; target: div,p; delay: 100; repeat: false" uk-grid="">
-            <div class="uk-first-column uk-scrollspy-inview uk-animation-slide-right" style="">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style="">Years of Experience</p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">
-                        10 over years of experience in IT Services and Projects and still counting.
-                    </p>
+<section class="features3 cid-r7uUPVvk6E" id="features3-7">
+    <div class="container">
+        <h2 class="mbr-section-title align-center mbr-fonts-style display-2">
+            Why Choose Us?
+        </h2>
+        <br>
+        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center">
+            Not only BRIN Tech Solutions is has a proposition for every industry, we are also known for.
+        </h3>
+        <div class="row justify-content-center pt-3">
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-briefcase"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">Years of Experience</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            10 over years of experience in IT Services and Projects and still counting.</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style="">Swift Solutions</p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">Having your own domain name indicates you’re part of the Digital Revolution &amp; Company with corporate email id build trust on consumers
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-features"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Swift Solutions</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            With the experienced team, the quick resolutions are pretty definite.
+                        </p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style="">Unlimited Storage &amp; Bandwidth</p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">Hassle free access to server : Unlimited server bandwidth simply means putting no limits on your bandwidth usage for clients
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-magic-stick"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Fast Turnaround</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Our office is in centralize area so as to ensure the fast turnaround for our clients.</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-speed"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Lighting Fast Response</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            The responses are so fast which usually leaves our clients amazed and happy.</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-extension"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            One-Stop IT Solution in the Region</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Over the years we have provided high quality, reliable and cost-effective IT solutions to a wide range of companies across the region.</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont mbri-setting"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Free Consultation By Experts</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Not only do we provide free consultation with no obligations, we sometimes even value add our prospect in many ways with our professional views and experiences</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont fas fa-user-tie"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Proactive & Professional Support</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Get 24/7/365 server and networking device monitoring with regular, scheduled onsite support to keep everything running smoothly. Get started now!</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont fa fa-medkit"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Comprehensive Health Check</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Every server, workstation, and networking devices will get a complete health check with an entire network mapped and asset list for you to keep.</p>
+                    </div>
                 </div>
             </div>
-            <div style="" class="uk-scrollspy-inview uk-animation-slide-right uk-grid-margin uk-first-column">
-                <div class="uk-card uk-card-body uk-padding-small uk-scrollspy-inview uk-animation-slide-right" style="">
-                    <i class="fa fa-briefcase" style="font-size: 100px;"></i>
-                    <hr>
-                    <p class="advantages-title uk-scrollspy-inview uk-animation-slide-right" style=""><strong>Local SEO</strong> </p>
-                    <p class="advantages-details uk-scrollspy-inview uk-animation-slide-right" style="">SEO is not a myth. You will increase your leads and sales if you offer a viable product or service. One small business generated over $103,510.98 worth of SEO results in just 5 months.
-                    </p>
+            <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
+                <div class="card-wrap">
+                    <div class="card-img pb-4 align-center">
+                        <span class="mbr-iconfont fas fa-tools"></span>
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                            Regular Service Reviews</h4>
+                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                            Regular meetings with your dedicated Account Manager to keep your business and IT aligned. Get access to a virtual CIO to help you with your IT planning.</p>
+                    </div>
                 </div>
             </div>
             
         </div>
-        
     </div>
 </section>
 <!--End Portfolio Section -->
 
 <!-- Services Section -->
-<section class="services-section">
+{{-- <section class="services-section">
     <div class="cws-background-image" style="background-image: url(https://via.placeholder.com/1920x800)"></div>
 
     <div class="auto-container">
@@ -169,7 +204,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 <!--End Services Section -->
 
 <!-- Callback Section -->
@@ -224,23 +259,7 @@
     </div>
 </section>
 <!--End Reservation Section -->
-
 <!--Clients Section-->
-<section class="clients-section">
-    <div class="auto-container">
-        <!--Sponsors carousel-->
-        <ul class="sponsors-carousel owl-carousel owl-theme">
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-            <li class="slide-item"><figure class="image-box"><a href="#"><img src="https://via.placeholder.com/100x100" alt=""></a></figure></li>
-        </ul>
-    </div>
-</section>
+@include('layouts.ourPartner')       
 <!--End Clients Section-->
-
 @include('layouts.footer_link')

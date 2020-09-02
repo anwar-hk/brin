@@ -3,8 +3,10 @@
     <!-- Main box -->
     <div class="main-box">
         <div class="menu-box">
-            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a>
-                <p style="color:#09adf4"> We bring solutions</p>
+            <div class="logo">
+                <a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                    {{-- <p style="color:#09adf4">We bring solutions</p> --}}
+                </a>
             </div>
             <!--Nav Box-->
             <div class="nav-outer">
