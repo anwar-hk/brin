@@ -4,8 +4,6 @@
     <div class="main-box">
         <div class="menu-box">
             <div class="logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a>
-                <h2>We bring solutions</h2>
-            
             </div>
             <!--Nav Box-->
             <div class="nav-outer">
@@ -17,17 +15,17 @@
                                 <a href="/"><span>Home</span></a>
                             </li>
                             <li class="dropdown">
-                                <a>Services</a>
+                                <a href="#"><span>Services</span> </a>
                                 <ul>
-                                    <li><a href="#cctv">CCTV</a></li>
-                                    <li><a href="#wifi">WiFi</a></li>
+                                    <li><a href="#cctv"><span>CCTV</span> </a></li>
+                                    <li><a href="#wifi"><span>WiFi</span> </a></li>
                                     {{-- <li><a href="#homeAutomation"></a></li> --}}
                                     
                                 </ul>
                             </li>
-                            <li><a href="#about">About </a></li>
+                            <li><a href="about"><span>About</span>  </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
-                            <li><a href="contact">Contacts </a></li>
+                            <li><a href="contact"><span>Contacts</span>  </a></li>
                         </ul>
                     </div>
                 </nav>

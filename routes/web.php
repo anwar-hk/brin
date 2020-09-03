@@ -41,3 +41,13 @@ Route::get('careers', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+// officeservices
+Route::get('/manage_it_support', 'officecController@manageItSupport')->name('home');
+Route::get('/office_setup', 'officecController@officeSetup')->name('officeSetup');
+Route::get('/network_solutions', 'officecController@networkSolutions')->name('home');
+Route::get('/it_management_services', 'officecController@itManagementServices')->name('home');
+Route::get('/cloud_computing_servives', 'officecController@cloudComputingServives')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

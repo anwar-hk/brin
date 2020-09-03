@@ -6,8 +6,8 @@ div, span, h1, h2, h3, h4, h5, h6, p, blockquote, a, ol, ul, li,
 figcaption, textarea, input, .display-1, .display-2 {
   font: inherit; }
 
-section {
-  background-color: #eeeeee; }
+/* section {
+   background-color: #eeeeee; } */
 
 section,
 .container,

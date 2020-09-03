@@ -25,8 +25,7 @@
         <div class="background-layers">
             <div class="cws-image-bg"></div>
         </div>
-
-        <div class="auto-container" >
+        <div class="auto-container pt-4" >
             <div class="row">
                 <!-- Feature BLock Nine -->
                 <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">

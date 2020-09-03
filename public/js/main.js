@@ -62,25 +62,25 @@ var resize = function () {
         // office
         // icone
         mySlider.data('hoffset', '70');
-        mySlider.data('voffset', '180');
-        mySlider.data('x', '740');
+        mySlider.data('voffset', '170');
+        mySlider.data('x', '800');
         mySlider.data('y', '375');
         // button
         mySlider1.data('x', 'center');
         mySlider1.data('y', 'center');
-        mySlider1.data('hoffset', '-180');
+        mySlider1.data('hoffset', '-130');
         mySlider1.data('voffset', '100');
 
         // home
         // button
         mySlider2.data('hoffset', '');
         mySlider2.data('voffset', '180');
-        mySlider2.data('x', '980');
+        mySlider2.data('x', '1000');
         mySlider2.data('y', '375');
         // icone
         mySlider02.data('x', 'center');
         mySlider02.data('y', 'center');
-        mySlider02.data('hoffset', '70');
+        mySlider02.data('hoffset', '100');
         mySlider02.data('voffset', '100');
     
     }

@@ -103,7 +103,7 @@
 <script src="js/script.js"></script>
 {{-- mobileser --}}
 {{-- <script src="assets/web/assets/jquery/jquery.min.js"></script> --}}
-  <script src="assets/popper/popper.min.js"></script>
+  {{-- <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
@@ -113,6 +113,6 @@
   <script src="assets/shopping-cart/minicart.js"></script>
   <script src="assets/shopping-cart/jquery.easing.min.js"></script>
   <script src="assets/shopping-cart/minicart-customizer.js"></script>
-   <script src="assets/theme/js/script.js"></script>
+   <script src="assets/theme/js/script.js"></script> --}}
 </body>
 </html>

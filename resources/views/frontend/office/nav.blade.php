@@ -4,33 +4,34 @@
     <div class="main-box">
         <div class="menu-box">
             <div class="logo">
-                <a href="index.html"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                    {{-- <p style="color:#09adf4">We bring solutions</p> --}}
+                <a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
                 </a>
             </div>
             <!--Nav Box-->
             <div class="nav-outer">
                 <!-- Main Menu -->
-                <nav class="main-menu navbar-expand-md navbar-light">
+                <nav class="main-menu navbar-expand-md navbar-light pt-4" >
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
                             <li class="current ">
                                 <a href="officeservices"><span>home</span></a>
                             </li>
                             <li class=" has-mega-menu">
-                                <a href="about-us.html"><span>about us</span></a>
+                                <a href="about"><span>about us</span></a>
                             </li>
                             <li class="dropdown">
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li><a href="">MANAGED IT SUPPORT</a></li>
-                                    <li><a href="">OFFICE IT SETUP SERVICES</a></li>
-                                    <li><a href="">NETWORK SOLUTIONS </a></li>
-                                    <li><a href="">IT Outsourcing & Management Services</a></li>
-                                    <li><a href="">Cloud Computing Services </a></li>
+                                    <li><a href="manage_it_support">MANAGED IT SUPPORT</a></li>
+                                    <li><a href="office_setup">OFFICE IT SETUP SERVICES</a></li>
+                                    <li><a href="network_solutions">NETWORK SOLUTIONS </a></li>
+                                    <li><a href="it_management_services">IT Outsourcing & Management Services</a></li>
+                                    <li><a href="cloud_computing_servives">Cloud Computing Services </a></li>
                                     
                                 </ul>
                             </li>
+                            <li><a href="news"><span>news</span> </a></li>
+                            <li><a href="contact"><span>carrers</span> </a></li>
                             <li><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>
