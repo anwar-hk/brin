@@ -58,7 +58,7 @@
 
                 <!-- Btn Box -->
                 <div class="btn-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 800;">
-                    <a href="#contact" class="theme-btn large btn-style-one">Request A Free Brochure</a>
+                    <a href="contact" class="theme-btn large btn-style-one">Contact Us</a>
                 </div>
             </div>
         </div>
