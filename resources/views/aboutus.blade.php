@@ -20,7 +20,7 @@
     <section class="about-section-three">
          <!-- Background Layers -->
         <div class="background-layers animate__animated animate__bounceInRight animate__delay-2s">
-            <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs3.jpg)"></div>
+            <div class="cws-image-bg" style="background-image: url(images/bgImages/home6.jpg)"></div>
             <div class="cws-triangle-overlay bottom-bottom " uk-scrollspy="cls: uk-animation-slide-top; repeat: false"></div>
             <div class="cws-triangle-overlay bottom-bottom " uk-scrollspy="cls: uk-animation-slide-left; repeat: false"></div>
         </div>

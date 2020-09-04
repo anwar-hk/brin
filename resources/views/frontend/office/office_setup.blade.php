@@ -17,7 +17,7 @@
 </section>
 <section class="features3 cid-r7uUPVvk6E" id="features12-2">
     <div class="container">
-        <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2 text-center">OFFICE IT SETUP SERVICES</h2>
+        <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2 text-center"><strong>OFFICE IT SETUP SERVICES</strong></h2>
         <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center">List some useful facts in this section</h3>
 
         <div class="media-container-row pt-5">
@@ -29,7 +29,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                People</h4>
+                                <strong>People</strong></h4>
                         </div>
                     </div>                
 
@@ -46,7 +46,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Location</h4>
+                                <strong>Location</strong></h4>
                         </div>
                     </div>
                     <div class="card-box">
@@ -57,7 +57,7 @@
             </div>
 
             <div class="mbr-figure" style="width: 50%;" >
-                <img src="images/bgImages/bg-3.jpg" alt="Mobirise" title="">
+                <img src="images/itsetup.jpg" alt="Mobirise" title="">
             </div>
 
             <div class="block-content align-left  ">
@@ -68,7 +68,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Entertainment</h4>
+                                <strong> Entertainment</strong></h4>
                         </div>
                     </div>                
 
@@ -84,7 +84,7 @@
                             <span class="mbr-iconfont mbri-cash"></span>
                         </div>
                         <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">Festival Tokens</h4>
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>Festival Tokens</strong></h4>
                         </div>
                     </div>
                     <div class="card-box">
