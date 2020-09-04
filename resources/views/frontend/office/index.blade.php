@@ -21,7 +21,7 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Years of Experience</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left " >
                             10 over years of experience in IT Services and Projects and still counting.</p>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Swift Solutions</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             With the experienced team, the quick resolutions are pretty definite.
                         </p>
                     </div>
@@ -48,7 +48,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Fast Turnaround</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Our office is in centralize area so as to ensure the fast turnaround for our clients.</p>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Lighting Fast Response</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             The responses are so fast which usually leaves our clients amazed and happy.</p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             One-Stop IT Solution in the Region</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Over the years we have provided high quality, reliable and cost-effective IT solutions to a wide range of companies across the region.</p>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Free Consultation By Experts</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Not only do we provide free consultation with no obligations, we sometimes even value add our prospect in many ways with our professional views and experiences</p>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Proactive & Professional Support</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Get 24/7/365 server and networking device monitoring with regular, scheduled onsite support to keep everything running smoothly. Get started now!</p>
                     </div>
                 </div>
@@ -111,9 +111,9 @@
                         <span class="mbr-iconfont fa fa-medkit"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                        <h4 class="card-title mbr-fonts-style align-center display-5 ">
                             Comprehensive Health Check</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Every server, workstation, and networking devices will get a complete health check with an entire network mapped and asset list for you to keep.</p>
                     </div>
                 </div>
@@ -124,9 +124,9 @@
                         <span class="mbr-iconfont fas fa-tools"></span>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style align-center display-5">
+                        <h4 class="card-title mbr-fonts-style align-center display-5 ">
                             Regular Service Reviews</h4>
-                        <p class="mbr-text mbr-fonts-style align-center display-7">
+                        <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
                             Regular meetings with your dedicated Account Manager to keep your business and IT aligned. Get access to a virtual CIO to help you with your IT planning.</p>
                     </div>
                 </div>

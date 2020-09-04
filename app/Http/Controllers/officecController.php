@@ -11,19 +11,19 @@ class officecController extends Controller
     }
 
     public function manageItSupport(){
-        return view('frontend.office.office_setup');
+        return view('frontend.office.manage_it_supports');
     }
     public function officeSetup(){
         return view('frontend.office.office_setup');
     }
     public function networkSolutions(){
-        return view('frontend.office.office_setup');
+        return view('frontend.office.network_solutions');
     }
     public function itManagementServices(){
-        return view('frontend.office.office_setup');
+        return view('frontend.office.o_and_m_services');
     }
     public function cloudComputingServives(){
-        return view('frontend.office.office_setup');
+        return view('frontend.office.cloud_computing_services   ');
     }
    
 }

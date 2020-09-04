@@ -15,9 +15,87 @@
         </ul>
     </div>
 </section>
-<section>
-    
+<section class="features3 cid-r7uUPVvk6E" id="features12-2">
+    <div class="container">
+        <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2 text-center">OFFICE IT SETUP SERVICES</h2>
+        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center">List some useful facts in this section</h3>
+
+        <div class="media-container-row pt-5">
+            <div class="block-content align-right">
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                             <span class="mbr-iconfont mbri-hearth"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                People</h4>
+                        </div>
+                    </div>                
+
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            We invited more than 20 contemporary artists to decorate the space. Also, more than 100 musicians will play at our concert.</p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-pin"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                Location</h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Our fest is located near the abandoned factory. This spot is clear and safe now. We set our tents close to the Awesome Beach.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mbr-figure" style="width: 50%;" >
+                <img src="images/bgImages/bg-3.jpg" alt="Mobirise" title="">
+            </div>
+
+            <div class="block-content align-left  ">
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                             <span class="mbr-iconfont mbri-rocket"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                Entertainment</h4>
+                        </div>
+                    </div>                
+
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Create your sites using&nbsp;Bootstrap Design Templates. Choose the template you like and fill it with your content.</p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-cash"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">Festival Tokens</h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">You can't use money at the festival. We offer our special tokens. You can purchase them at the entrance or in our special token points. </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+
 
 @include('layouts.our_partner')       
 <!--End Clients Section-->

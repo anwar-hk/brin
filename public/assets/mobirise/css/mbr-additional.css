@@ -874,13 +874,11 @@ body {
 .cid-r7uUPVvk6E .mbr-section-subtitle {
   color: #767676;
 }
-.cid-r7uUPVvk6E .card-title {
-  color: #66458e;
-}
+
 .cid-r7uUPVvk6E .card .card-img span {
   color: #7520ff;
   font-size: 60px;
-  background: linear-gradient(45deg, #7520ff, #e96188);
+  background: linear-gradient(45deg, #365c9a, #1dc47e);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

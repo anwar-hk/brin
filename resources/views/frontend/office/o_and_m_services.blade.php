@@ -8,10 +8,10 @@
     </div>
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
-        <h1>OFFICE IT SETUP SERVICES</h1>
+        <h1>IT Outsourcing & Management Services</h1>
         <ul class="page-breadcrumb">
             <li><a href="/">Home</a></li>
-            <li>OFFICE IT SETUP SERVICES</li>
+            <li>IT Outsourcing & Management Services</li>
         </ul>
     </div>
 </section>
