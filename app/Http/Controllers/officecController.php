@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class officecController extends Controller
+class OfficecController extends Controller
 {
     public function index(){
         //
