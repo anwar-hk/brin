@@ -51,3 +51,7 @@ Route::get('/cloud_computing_servives', 'officecController@cloudComputingServive
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
