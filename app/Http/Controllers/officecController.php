@@ -11,6 +11,7 @@ class officecController extends Controller
     }
 
     public function manageItSupport(){
+
         return view('frontend.office.manage_it_supports');
     }
     public function officeSetup(){
