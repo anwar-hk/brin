@@ -35,22 +35,27 @@
               <table class="table table-bordered data-table">
                 <thead>
                   <tr>
-                    <th>Category ID</th>
-                    <th>Category Name</th>
-                    <th>Category Level</th>
-                    <th>Category URL</th>
-                    <th>Actions</th>
+                    <th>Sl No.</th>
+                    <th>TITLE</th>
+                    <th>DISCRIPTION</th>
+                    <th>SITE LINK</th>
+                    <th>DATE</th>
+                    {{-- <th>DATE</th> --}}
+                    <th>ACTIONS</th>
                   </tr>
                 </thead>
                 <tbody>
-                @foreach($categories as $category)
-                  <tr class="gradeX">
-                  <td>{{ $category->id }}</td>
-                    <td>{{ $category->Name }}</td>
-                    <td>{{ $category->Parent_id }}</td>
-                    <td>{{ $category->url }}</td>
-                  <td class="center"><div class="fr"><a href="{{url('/admin/edit-category/'.$category->id)}}" class="btn btn-primary btn-mini">Edit</a>
-                    <a  rel="{{$category->id}}" rel1="delete-category"
+                @foreach($news as $n)
+                  <tr class="gradeX text-center">
+                   
+                    <td>{{ $n->id }}</td>
+                    <td>{{ $n->title }}</td>
+                    <td>{{ $n->discription }}</td>
+                    <td>{{ $n->url }}</td>
+                    <td>{{ $n->updated_at }}</td>
+                    {{-- <td>{{ $n->updated_at }}</td> --}}
+                    <td class="center"><div class="fr"><a href="{{url('/admin/edit-news/'.$n->id)}}" class="btn btn-primary btn-mini">Edit</a>
+                    <a  rel="{{$n->id}}" rel1="delete-category"
                         href="javascript:" class="btn btn-danger btn-mini deleteRecord">Delete</a></div></td>              
                 </tr>
                 @endforeach

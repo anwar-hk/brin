@@ -17,7 +17,8 @@ class CreateNews extends Migration
             $table->id();
             $table->text('title');
             $table->text('description');
-            $table->text('link');
+            $table->text('url');
+            $table->text('image');
             $table->timestamps();
         });
     }

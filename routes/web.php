@@ -43,8 +43,6 @@ Route::get('careers', function () {
     return view('careers');
 });
 /* =================  backend routes  ================= */
-
-
 // officeservices
 Route::get('/manage_it_support', 'OfficecController@manageItSupport')->name('home');
 Route::get('/office_setup', 'OfficecController@officeSetup')->name('officeSetup');
@@ -52,20 +50,19 @@ Route::get('/network_solutions', 'OfficecController@networkSolutions')->name('ho
 Route::get('/it_management_services', 'OfficecController@itManagementServices')->name('home');
 Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServives')->name('home');
 
-
 // admin routs
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
 Route::match(['get','post'],'/admin', 'AdminController@login'); 
 
-Route::group(['middleware' => ['auth']],function(){
+
     Route::get('/admin/dashboard', 'AdminController@dashboard');
     Route::get('/admin/settings', 'AdminController@settings');
     Route::get('admin/check-pwd','AdminController@chkPassword');
     Route::post('admin/update-pwd','AdminController@updatAdminPwd');
-    Route::match(['get','post'],'/admin/add-category', 'CategoryController@addCategory');
+    Route::match(['get','post'],'/admin/add-news', 'NewsController@addNews');
+    Route::get('/admin/view-news', 'NewsController@viewNews');
     Route::match(['get','post'],'/admin/edit-category/{id}','CategoryController@editCategory');
     Route::match(['get','post'],'/admin/delete-category/{id}','CategoryController@deleteCategory');
-    Route::get('/admin/view-categories', 'CategoryController@viewCategories');
     Route::match(['get','post'],'/admin/add-product', 'ProductsController@addProduct');
     Route::match(['get','post'],'/admin/edit-product/{id}', 'ProductsController@editProduct');
     Route::get('/admin/view-products','ProductsController@viewProducts');
@@ -83,7 +80,7 @@ Route::group(['middleware' => ['auth']],function(){
     Route::get('/admin/view-orders', 'ProductsController@viewOrders');
     Route::get('/admin/view-order/{id}', 'ProductsController@viewOrderDetails');
     Route::post('/admin/update-order-status','ProductsController@updateOrderStatus');
-});
+
 Route::get('/logout', 'AdminController@logout');
 
 // Auth::routes();

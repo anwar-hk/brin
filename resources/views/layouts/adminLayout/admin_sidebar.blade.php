@@ -7,12 +7,12 @@
     <ul>
       <li <?php if(preg_match("/dashboard/i", $url)){ ?> class="active" <?php } ?>>
         <a href="{{url('/admin/dashboard')}}"><i class="icon icon-home"></i><span>Dashboard</span></a> </li>
-      <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Categories</span> <span class="label label-important">2</span></a>
-        <ul <?php if(preg_match("/categor/i", $url)){ ?> style="display:block;" <?php } ?>>
-        <li <?php if(preg_match("/add-category/i", $url)){ ?> class="active" <?php } ?>>
-          <a href="{{url ('/admin/add-category')}}">Add Category</a></li>
-          <li <?php if(preg_match("/view-categories/i", $url)){ ?> class="active" <?php } ?>>
-            <a href="{{url ('/admin/view-categories')}}">View Categories</a></li>
+      <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>News</span> <span class="label label-important">2</span></a>
+        <ul <?php if(preg_match("/news/i", $url)){ ?> style="display:block;" <?php } ?>>
+        <li <?php if(preg_match("/add-news/i", $url)){ ?> class="active" <?php } ?>>
+          <a href="{{url ('/admin/add-news')}}">Add News</a></li>
+          <li <?php if(preg_match("/view-news/i", $url)){ ?> class="active" <?php } ?>>
+            <a href="{{url ('/admin/view-news')}}">View News</a></li>
         </ul>
       </li>
       <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Products</span> <span class="label label-important">2</span></a>

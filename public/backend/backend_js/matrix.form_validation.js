@@ -58,7 +58,7 @@ $(document).ready(function () {
     });
 
     // Form Validation for categories
-    $("#add_category").validate({
+    $("#add_news").validate({
         rules: {
             category_name: {
                 required: true,
@@ -67,6 +67,9 @@ $(document).ready(function () {
                 required: true,
             },
             url: {
+                required: true,
+            },
+            image: {
                 required: true,
             },
         },
@@ -82,7 +85,7 @@ $(document).ready(function () {
     });
 
     // Form Validation for  edit categories
-    $("#edit_category").validate({
+    $("#edit_news").validate({
         rules: {
             category_name: {
                 required: true,
