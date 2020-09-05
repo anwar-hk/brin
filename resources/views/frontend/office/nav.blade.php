@@ -22,8 +22,8 @@
                             <li class="dropdown">
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li><a href="office_setup">Office IT setup Services</a></li>
                                     <li><a href="office_setup">IT Security</a></li>
+                                    <li><a href="office_setup">Office IT setup Services</a></li>
                                     <li><a href="manage_it_support">Managed IT Support</a></li>
                                     <li><a href="network_solutions">Network Solutions </a></li>
                                     <li><a href="office_setup">IT Products Supply & Installation</a></li>
