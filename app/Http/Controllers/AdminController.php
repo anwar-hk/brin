@@ -23,6 +23,7 @@ class AdminController extends Controller
             return redirect('/admin')->with('flash_message_error','Invalid Username or Password');
           }
       }
+      // echo"<pre>";print_r($request);die;
       return view('admin.admin_login');
     }
     

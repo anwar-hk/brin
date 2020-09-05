@@ -30,7 +30,7 @@
        <strong>{!!session('flash_message_success')!!}</strong>
     </div>
     @endif
-<form id="loginform" class="form-vertical" method="POST" action="{{url('admin')}}">{{csrf_field()}}
+    <form id="loginform" class="form-vertical" method="POST" action="{{url('admin')}}">{{csrf_field()}}
             <div class="control-group normal_text"> 
         <h3><img src="{{asset('backend/backend_img/admin.png')}}" alt="Logo" style="width:150px;" /></h3></div>
         <h3 align="Center" style="color:white;">Admin Login</h3>
