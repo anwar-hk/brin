@@ -29,13 +29,16 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>People</strong></h4>
+                                <strong>PHYSICAL INFRASTRUCTURE</strong></h4>
                         </div>
                     </div>                
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            We invited more than 20 contemporary artists to decorate the space. Also, more than 100 musicians will play at our concert.</p>
+                            Fiber Optic Cabling
+                            Voice and data cabling, structured cabling
+                            CCTV Surveillance System
+                            Time Attendance & Access Control System</p>
                     </div>
                 </div>
 
