@@ -29,24 +29,43 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>People</strong></h4>
+                                <strong>PHYSICAL INFRASTRUCTURE</strong></h4>
                         </div>
                     </div>                
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            We invited more than 20 contemporary artists to decorate the space. Also, more than 100 musicians will play at our concert.</p>
+                            Fiber Optic Cabling
+                            Voice and data cabling, structured cabling
+                            CCTV Surveillance System
+                            Time Attendance & Access Control System</p>
                     </div>
                 </div>
 
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
-                            <span class="mbr-iconfont mbri-pin"></span>
+                            <span class="mbr-iconfont mbri-responsive"></span>
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>Location</strong></h4>
+                                <strong>SERVER INFRASTRUCTURE</strong></h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Our fest is located near the abandoned factory. This spot is clear and safe now. We set our tents close to the Awesome Beach.</p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-lock"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                <strong>DATA SECURITY & PROTECTION</strong></h4>
                         </div>
                     </div>
                     <div class="card-box">
@@ -68,7 +87,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong> Entertainment</strong></h4>
+                                <strong> NETWORK INFRASTRUCTURE</strong></h4>
                         </div>
                     </div>                
 
@@ -84,7 +103,21 @@
                             <span class="mbr-iconfont mbri-cash"></span>
                         </div>
                         <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>Festival Tokens</strong></h4>
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>BUSINESS SOFTWARE SOLUTIONS</strong></h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">You can't use money at the festival. We offer our special tokens. You can purchase them at the entrance or in our special token points. </p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbr-iconfont mbri-delivery"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>IT PRODUCT SUPPLY & INSTALLATION</strong></h4>
                         </div>
                     </div>
                     <div class="card-box">
