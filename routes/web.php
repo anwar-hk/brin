@@ -54,7 +54,7 @@ Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServive
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
 Route::match(['get','post'],'/admin', 'AdminController@login'); 
 
-
+Route::group(['middleware' => ['auth']],function(){
     Route::get('/admin/dashboard', 'AdminController@dashboard');
     Route::get('/admin/settings', 'AdminController@settings');
     Route::get('admin/check-pwd','AdminController@chkPassword');
@@ -80,7 +80,7 @@ Route::match(['get','post'],'/admin', 'AdminController@login');
     Route::get('/admin/view-orders', 'ProductsController@viewOrders');
     Route::get('/admin/view-order/{id}', 'ProductsController@viewOrderDetails');
     Route::post('/admin/update-order-status','ProductsController@updateOrderStatus');
-
+});
 Route::get('/logout', 'AdminController@logout');
 
 // Auth::routes();
