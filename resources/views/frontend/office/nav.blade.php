@@ -22,9 +22,11 @@
                             <li class="dropdown">
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li><a href="manage_it_support">MANAGED IT SUPPORT</a></li>
-                                    <li><a href="office_setup">OFFICE IT SETUP SERVICES</a></li>
-                                    <li><a href="network_solutions">NETWORK SOLUTIONS </a></li>
+                                    <li><a href="office_setup">IT Security</a></li>
+                                    <li><a href="office_setup">Office IT setup Services</a></li>
+                                    <li><a href="manage_it_support">Managed IT Support</a></li>
+                                    <li><a href="network_solutions">Network Solutions </a></li>
+                                    <li><a href="office_setup">IT Products Supply & Installation</a></li>
                                     <li><a href="it_management_services">IT Outsourcing & Management Services</a></li>
                                     <li><a href="cloud_computing_servives">Cloud Computing Services </a></li>
                                     
