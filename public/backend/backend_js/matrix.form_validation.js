@@ -246,7 +246,7 @@ $(document).ready(function () {
             }
         );
     });
-    //sweet Alert for delete category
+    //sweet Alert for delete news
     $(document).on("click", ".deleteRecord", function (e) {
         var id = $(this).attr("rel");
         var deleteFunction = $(this).attr("rel1");

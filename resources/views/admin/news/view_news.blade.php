@@ -55,7 +55,7 @@
                     <td>{{ $n->updated_at }}</td>
                     {{-- <td>{{ $n->updated_at }}</td> --}}
                     <td class="center"><div class="fr"><a href="{{url('/admin/edit-news/'.$n->id)}}" class="btn btn-primary btn-mini">Edit</a>
-                    <a  rel="{{$n->id}}" rel1="delete-category"
+                    <a  rel="{{$n->id}}" rel1="delete-news"
                         href="javascript:" class="btn btn-danger btn-mini deleteRecord">Delete</a></div></td>              
                 </tr>
                 @endforeach

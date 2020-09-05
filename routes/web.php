@@ -13,10 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
-
 // view Routes 
-
 
 // HOME PAGE 
 Route::get('/', function () {
@@ -42,7 +39,7 @@ Route::get('about', function () {
 Route::get('careers', function () {
     return view('careers');
 });
-/* =================  backend routes  ================= */
+/* =================  fronted routes  ================= */
 // officeservices
 Route::get('/manage_it_support', 'OfficecController@manageItSupport')->name('home');
 Route::get('/office_setup', 'OfficecController@officeSetup')->name('officeSetup');
@@ -50,7 +47,7 @@ Route::get('/network_solutions', 'OfficecController@networkSolutions')->name('ho
 Route::get('/it_management_services', 'OfficecController@itManagementServices')->name('home');
 Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServives')->name('home');
 
-// admin routs
+/* =================  admin routes  ================= */
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
 Route::match(['get','post'],'/admin', 'AdminController@login'); 
 
@@ -59,15 +56,18 @@ Route::group(['middleware' => ['auth']],function(){
     Route::get('/admin/settings', 'AdminController@settings');
     Route::get('admin/check-pwd','AdminController@chkPassword');
     Route::post('admin/update-pwd','AdminController@updatAdminPwd');
+
     Route::match(['get','post'],'/admin/add-news', 'NewsController@addNews');
     Route::get('/admin/view-news', 'NewsController@viewNews');
-    Route::match(['get','post'],'/admin/edit-category/{id}','CategoryController@editCategory');
-    Route::match(['get','post'],'/admin/delete-category/{id}','CategoryController@deleteCategory');
+    Route::match(['get','post'],'/admin/edit-news/{id}','NewsController@editNews');
+    Route::get('/admin/delete-news-image/{id}','NewsController@deleteNewsImage');
+
+
+    Route::match(['get','post'],'/admin/delete-news/{id}','NewsController@deleteNews');
     Route::match(['get','post'],'/admin/add-product', 'ProductsController@addProduct');
     Route::match(['get','post'],'/admin/edit-product/{id}', 'ProductsController@editProduct');
     Route::get('/admin/view-products','ProductsController@viewProducts');
     Route::get('/admin/delete-product/{id}', 'ProductsController@deleteProduct');
-    Route::get('/admin/delete-product-image/{id}','ProductsController@deleteProductImage');
     Route::get('/admin/delete-alt-image/{id}','ProductsController@deleteAltImage');
     Route::match(['get','post'],'/admin/add-attributes/{id}', 'ProductsController@addAttributes');
     Route::match(['get','post'],'/admin/edit-attributes/{id}', 'ProductsController@editAttributes');
