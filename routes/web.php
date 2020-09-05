@@ -46,6 +46,7 @@ Route::get('/office_setup', 'OfficecController@officeSetup')->name('officeSetup'
 Route::get('/network_solutions', 'OfficecController@networkSolutions')->name('home');
 Route::get('/it_management_services', 'OfficecController@itManagementServices')->name('home');
 Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServives')->name('home');
+Route::get('/news', 'OfficecController@viewNews');
 
 /* =================  admin routes  ================= */
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
