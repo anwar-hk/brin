@@ -26,11 +26,9 @@ class OfficecController extends Controller
     }
     public function cloudComputingServives(){
         return view('frontend.office.solutions.cloud_computing_services   ');
-    } 
-    public function viewNews(Request $request){
-        $news = News::get();
-        return view ('news')->with(compact('news'));
     }
-
-   
+    public function itSecurity(){
+        return view('frontend.office.solutions.it_security');
+    }
+    
 }
