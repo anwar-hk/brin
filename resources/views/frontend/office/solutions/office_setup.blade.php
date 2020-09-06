@@ -15,120 +15,100 @@
         </ul>
     </div>
 </section>
-<section class="features3 cid-r7uUPVvk6E" id="features12-2">
+<section class="features12 cid-qv5zsKiXqs " id="features12-1u" data-rv-view="1464">
     <div class="container">
-        <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2 text-center"><strong>OFFICE IT SETUP SERVICES</strong></h2>
-        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center">List some useful facts in this section</h3>
+        <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2">
+            Image between two columns
+        </h2>
+        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5">
+            Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size.
+        </h3>
 
         <div class="media-container-row pt-5">
             <div class="block-content align-right">
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
-                             <span class="mbr-iconfont mbri-hearth"></span>
+                             <span class="mbri-upload mbr-iconfont" media-simple="true"></span>
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>PHYSICAL INFRASTRUCTURE</strong></h4>
+                                Host Anywhere                     
+                            </h4>
                         </div>
                     </div>                
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Fiber Optic Cabling
-                            Voice and data cabling, structured cabling
-                            CCTV Surveillance System
-                            Time Attendance & Access Control System</p>
+                            Publish your website to a local drive, FTP or host on Amazon S3, Google Cloud, Github Pages. Don't be a hostage to just one platform or service provider.
+                        </p>
                     </div>
                 </div>
 
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
-                            <span class="mbr-iconfont mbri-responsive"></span>
+                            <span class="mbri-drag-n-drop2 mbr-iconfont" media-simple="true"></span>
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>SERVER INFRASTRUCTURE</strong></h4>
+                                Easy and Simple to Use
+                            </h4>
                         </div>
                     </div>
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Our fest is located near the abandoned factory. This spot is clear and safe now. We set our tents close to the Awesome Beach.</p>
-                    </div>
-                </div>
-
-                <div class="card pl-3 pr-3 pb-5">
-                    <div class="mbr-card-img-title">
-                        <div class="card-img pb-3">
-                            <span class="mbr-iconfont mbri-lock"></span>
-                        </div>
-                        <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong>DATA SECURITY & PROTECTION</strong></h4>
-                        </div>
-                    </div>
-                    <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Our fest is located near the abandoned factory. This spot is clear and safe now. We set our tents close to the Awesome Beach.</p>
+                            Just drop the blocks into the page, edit content inline and publish - no technical skills required.
+                        </p>
                     </div>
                 </div>
             </div>
 
-            <div class="mbr-figure" style="width: 50%;" >
-                <img src="images/itsetup.jpg" alt="Mobirise" title="">
+            <div class="mbr-figure" style="width: 50%;">
+                <img src="images/itsetup.jpg" alt="Mobirise" title="" media-simple="true">
             </div>
 
             <div class="block-content align-left  ">
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
-                             <span class="mbr-iconfont mbri-rocket"></span>
+                             <span class="mbri-features mbr-iconfont" media-simple="true"></span>
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                <strong> NETWORK INFRASTRUCTURE</strong></h4>
+                                Over 400 Amazing Blocks
+                            </h4>
                         </div>
                     </div>                
 
                     <div class="card-box">
                         <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Create your sites using&nbsp;Bootstrap Design Templates. Choose the template you like and fill it with your content.</p>
+                            Mobirise offers several themes that include sliders, galleries, article blocks, counters, accordions, video and many more.
+                        </p>
                     </div>
                 </div>
 
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
-                            <span class="mbr-iconfont mbri-cash"></span>
+                            <span class="mbri-sites mbr-iconfont" media-simple="true"></span>
                         </div>
                         <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>BUSINESS SOFTWARE SOLUTIONS</strong></h4>
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                Unlimited Sites
+                            </h4>
                         </div>
                     </div>
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">You can't use money at the festival. We offer our special tokens. You can purchase them at the entrance or in our special token points. </p>
-                    </div>
-                </div>
-
-                <div class="card pl-3 pr-3 pb-5">
-                    <div class="mbr-card-img-title">
-                        <div class="card-img pb-3">
-                            <span class="mbr-iconfont mbri-delivery"></span>
-                        </div>
-                        <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7"><strong>IT PRODUCT SUPPLY & INSTALLATION</strong></h4>
-                        </div>
-                    </div>
-                    <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">You can't use money at the festival. We offer our special tokens. You can purchase them at the entrance or in our special token points. </p>
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 
 @include('layouts.our_partner')       
 <!--End Clients Section-->

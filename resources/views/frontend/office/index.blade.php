@@ -4,7 +4,8 @@
 @include('frontend.office.office_slider')
 {{-- Main content --}}
 <!-- Portfolio Section -->
-<section class="features3 cid-r7uUPVvk6E" id="features3-7">
+
+<section class="features9 cid-qv5zqTHNwQ" id="features9-1o" data-rv-view="1446">
     <div class="container">
         <h2 class="mbr-section-title align-center mbr-fonts-style display-2">
             Why Choose Us?
@@ -131,10 +132,10 @@
                     </div>
                 </div>
             </div>
-            
         </div>
     </div>
-</section>
+    
+</section> 
 <!--Clients Section-->
 @include('layouts.our_partner')       
 <!--End Clients Section-->
