@@ -47,6 +47,7 @@ Route::get('/network_solutions', 'OfficecController@networkSolutions')->name('ho
 Route::get('/it_management_services', 'OfficecController@itManagementServices')->name('home');
 Route::get('/it_security', 'OfficecController@itSecurity')->name('home');
 Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServives')->name('home');
+Route::get('/it_products_supply_installation', 'OfficecController@itProductSupply')->name('home') ;
 Route::get('/news', 'OfficecController@viewNews');
 
 /* =================  admin routes  ================= */

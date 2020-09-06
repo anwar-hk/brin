@@ -30,5 +30,8 @@ class OfficecController extends Controller
     public function itSecurity(){
         return view('frontend.office.solutions.it_security');
     }
+    public function itProductSupply(){
+        return view('frontend.office.solutions.it_products_supply_installation');
+    }
     
 }
