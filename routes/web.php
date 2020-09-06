@@ -41,11 +41,11 @@ Route::get('careers', function () {
 });
 /* =================  fronted routes  ================= */
 // officeservices
-Route::get('/manage_it_support', 'OfficecController@manageItSupport')->name('home');
+Route::get('/it_security', 'OfficecController@itSecurity')->name('home');
 Route::get('/office_setup', 'OfficecController@officeSetup')->name('officeSetup');
+Route::get('/manage_it_support', 'OfficecController@manageItSupport')->name('home');
 Route::get('/network_solutions', 'OfficecController@networkSolutions')->name('home');
 Route::get('/it_management_services', 'OfficecController@itManagementServices')->name('home');
-Route::get('/it_security', 'OfficecController@itSecurity')->name('home');
 Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServives')->name('home');
 Route::get('/it_products_supply_installation', 'OfficecController@itProductSupply')->name('home') ;
 Route::get('/news', 'OfficecController@viewNews');
