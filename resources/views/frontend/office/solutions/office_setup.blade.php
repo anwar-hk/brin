@@ -18,10 +18,10 @@
 <section class="features12 cid-qv5zsKiXqs " id="features12-1u" data-rv-view="1464">
     <div class="container">
         <h2 class="mbr-section-title pb-2 mbr-fonts-style display-2">
-            Image between two columns
+            WHAT WE OFFER
         </h2>
         <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5">
-            Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size.
+            OFFICE IT SETUP SERVICES
         </h3>
 
         <div class="media-container-row pt-5">
@@ -33,7 +33,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Host Anywhere                     
+                                PHYSICAL INFRASTRUCTURE                     
                             </h4>
                         </div>
                     </div>                
@@ -52,7 +52,25 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Easy and Simple to Use
+                                SERVER INFRASTRUCTURE
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Just drop the blocks into the page, edit content inline and publish - no technical skills required.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbri-mobirise mbr-iconfont" media-simple="true"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                NETWORK INFRASTRUCTURE
                             </h4>
                         </div>
                     </div>
@@ -76,7 +94,7 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Over 400 Amazing Blocks
+                                BUSINESS SOFTWARE SOLUTIONS
                             </h4>
                         </div>
                     </div>                
@@ -95,7 +113,25 @@
                         </div>
                         <div class="mbr-crt-title">
                             <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                Unlimited Sites
+                                DATA SECURITY & PROTECTION
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
+                            Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbri-delivery mbr-iconfont" media-simple="true"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                IT PRODUCT SUPPLY & INSTALLATION
                             </h4>
                         </div>
                     </div>
