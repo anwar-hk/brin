@@ -26,7 +26,7 @@
                             <div class="video">
                             <iframe src="{{asset('/backend/backend_img/news/'.$n->image)}}"></iframe>
                             </div>
-                        <div class="date"><span>{{$n->created_at}}</span> FEB</div>
+                        <div class="date"><span>{{ date_format($n->created_at,"d") }}</span> {{ date_format($n->created_at,"M") }}</div>
                         </div>
                     </div>
                     <div class="content-column col-lg-6 col-md-12 col-sm-12">

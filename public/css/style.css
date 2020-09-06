@@ -12017,3 +12017,12 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 a {
 	text-decoration:none !important;
 }
+.op-home-title {
+    font-size: 16pt;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    color: black;
+    text-align: center;
+	text-transform: capitalize;
+}

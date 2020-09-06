@@ -33,5 +33,10 @@ class OfficecController extends Controller
     public function itProductSupply(){
         return view('frontend.office.solutions.it_products_supply_installation');
     }
+    public function viewNews(Request $request){
+        $news = News::get();
+        // dd($news);
+        return view ('news')->with(compact('news'));
     
+    }
 }
