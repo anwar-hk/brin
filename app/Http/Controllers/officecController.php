@@ -32,6 +32,9 @@ class OfficecController extends Controller
     public function itSecurity(){
         return view('frontend.office.solutions.it_security');
     }
+    public function itProductSupply(){
+        return view('frontend.office.solutions.it_product_supply');
+    }
     public function viewNews(Request $request){
         $news = News::get();
         // dd($news);

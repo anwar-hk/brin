@@ -32,7 +32,7 @@
                         Image with content
                     </h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5 text-justify">
                         Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size or position.
                         </p>
                     </div>
@@ -51,7 +51,7 @@
                             </div>                
 
                             <div class="card-box">
-                                <p class="block-text mbr-fonts-style display-7">
+                                <p class="block-text mbr-fonts-style display-7 text-justify">
                                    Mobirise offers several themes that include sliders, galleries, article blocks, counters, accordions, video, animated text, live filtered tables, shop, contact forms, lightbox, testimonials, timelines, google map, progress bars and more. 
                                 </p>
                             </div>
@@ -70,7 +70,7 @@
                             </div>                
 
                             <div class="card-box">
-                                <p class="block-text mbr-fonts-style display-7">
+                                <p class="block-text mbr-fonts-style display-7 text-justify">
                                     Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
                                 </p>
                             </div>

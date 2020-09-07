@@ -26,7 +26,7 @@
                                     <li><a href="office_setup">Office IT setup Services</a></li>
                                     <li><a href="manage_it_support">Managed IT Support</a></li>
                                     <li><a href="network_solutions">Network Solutions </a></li>
-                                    <li><a href="office_setup">IT Products Supply & Installation</a></li>
+                                    <li><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
                                     <li><a href="it_management_services">IT Outsourcing & Management Services</a></li>
                                     <li><a href="cloud_computing_servives">Cloud Computing Services </a></li>
                                     
