@@ -682,8 +682,7 @@
 					$('#email-form .response').html('<div class="text-info"><img src="images/icons/preloader.gif"> Loading...</div>');
                 },
                 success:function(data){
-					console.log(data);
-                    $('form').trigger("reset");
+	                $('form').trigger("reset");
                     $('#email-form .response').fadeIn().html(data.html);
                     setTimeout(function(){
                         $('#email-form .response').fadeOut("slow");

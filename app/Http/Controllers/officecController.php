@@ -54,7 +54,7 @@ class OfficecController extends Controller
             $contact->message = $data['contact_message'];
             $contact->status = 0;
             $contact->save();
-            $to = "anwarhk.ah@gmail.com"; // Please insert your email here
+            // $to = "anwarhk.ah@gmail.com"; // Please insert your email here
             $subject = 'Contact Us';
             $headers = "MIME-Version: 1.0\r\n";
             $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
@@ -64,7 +64,7 @@ class OfficecController extends Controller
                         Email: ". $contact->email . "<br>
                         Message: " . $contact->message . "";
             //Email Send Function
-            $response =     Mail::to($email)->send(new Contact($url)); 
+            $response =  Mail::to($email)->send(new Contact($url)); 
             dd($response);
             if($response == true){
                 return response()->json([
@@ -105,7 +105,7 @@ class OfficecController extends Controller
             //Server settings
             // $mail->SMTPDebug = 2;                                 // Enable verbose debug output
                 $mail->isSMTP();                                      // Set mailer to use SMTP
-                $mail->Host = 'smtp-relay.sendinblue.com';                  // Specify main and backup SMTP servers
+                $mail->Host = 'smtp.sendgrid.net';                  // Specify main and backup SMTP servers
                 $mail->SMTPAuth = true;                               // Enable SMTP authentication
                 $mail->Username = 'anwarhk.ah@gmail.com';                 // SMTP username
                 $mail->Password = 'kIgCLKG3Bb9mJSrv';                           // SMTP password
@@ -116,7 +116,7 @@ class OfficecController extends Controller
                 $mail->setFrom("anwarhk.ah@gmail.com", "BrinTechSolutions");
 
                 // who will receive the email submission
-                $mail->addAddress('anwarhk.ah1@gmail.com', 'anwar hk');     // Add a recipient
+                $mail->addAddress('anwarhk.ah1@gmail.com');     // Add a recipient
                 // $mail->addAddress('ellen@example.com');               // Name is optional
 
 
@@ -135,9 +135,7 @@ class OfficecController extends Controller
                 $mail->Subject = $subject;
                 $mail->Body    = $message;
                 $mail->AltBody = $message;
-
                 $response = $mail->send();
-                // dd($response);
                 $request->session()->flash('status', 'Your Request Submited');
                     return response()->json([
                         'html'=>'<div class="success">Request Submitted Successfully.</div>' 
