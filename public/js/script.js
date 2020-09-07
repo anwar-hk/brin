@@ -526,7 +526,6 @@
 				});
 			});
 	
-	
 			var filterItemA	= $('.filter-btns li');
 	
 			filterItemA.on('click', function(){
@@ -662,29 +661,30 @@
 	//Contact Form Validation
 	if($('#email-form').length){
 		$('#submit').click(function(){
-			
             var o = new Object();
-            var form = '#email-form';
-			
-			var username = $('#email-form .username').val();
+			var form = '#email-form';
+			var username = $('#email-form .name').val();
+			var company = $('#email-form .company').val();
+			var phone = $('#email-form .phone').val();
 			var email = $('#email-form .email').val();
-			
-			if(username == '' || email == '')
+			if(username == '' || email == '' || company == '' || phone == '' ) 
 			{
 				$('#email-form .response').html('<div class="failed">Please fill the required fields.</div>');
 				return false;
 			}
-            
+			// $data = $(form).serialize();
+			// console.log($data);
             $.ajax({
-                url:"sendemail.php",
+                url:"/add_contact",
                 method:"POST",
-                data: $(form).serialize(),
+				data: $(form).serialize(),
                 beforeSend:function(){
-                    $('#email-form .response').html('<div class="text-info"><img src="images/icons/preloader.gif"> Loading...</div>');
+					$('#email-form .response').html('<div class="text-info"><img src="images/icons/preloader.gif"> Loading...</div>');
                 },
                 success:function(data){
+					console.log(data);
                     $('form').trigger("reset");
-                    $('#email-form .response').fadeIn().html(data);
+                    $('#email-form .response').fadeIn().html(data.html);
                     setTimeout(function(){
                         $('#email-form .response').fadeOut("slow");
                     }, 5000);
@@ -709,11 +709,12 @@
 				$('#subscribe-form .response').html('<div class="failed">Please enter your Email Address.</div>');
 				return false;
 			}
-            
+			   $data = $(form).serialize();
+			   console.log($data);
             $.ajax({
-                url:"sendnewslatters.php",
+                url:"sendnewslatters",
                 method:"POST",
-                data: $(form).serialize(),
+                data: $data,
                 beforeSend:function(){
                     $('#subscribe-form .response').html('<div class="text-info"><img src="images/icons/preloader.gif"> Loading...</div>');
                 },
