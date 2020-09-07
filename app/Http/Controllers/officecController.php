@@ -1,11 +1,12 @@
 <?php
 
 namespace App\Http\Controllers;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+use Illuminate\Http\Request;
 use App\News;
 use App\Contact;
 use Mail;
-
-use Illuminate\Http\Request;
 
 class OfficecController extends Controller
 {
@@ -42,7 +43,7 @@ class OfficecController extends Controller
     
     }
 
-    public function addContact(Request $request){
+    public function addContacts(Request $request){
         $data = $request->all();
         if($data){ 
             $contact = new Contact;
@@ -63,7 +64,7 @@ class OfficecController extends Controller
                         Email: ". $contact->email . "<br>
                         Message: " . $contact->message . "";
             //Email Send Function
-            $response = $this->send_email($to, $subject, $message ,$headers);
+            $response =     Mail::to($email)->send(new Contact($url)); 
             dd($response);
             if($response == true){
                 return response()->json([
@@ -76,16 +77,77 @@ class OfficecController extends Controller
         ]);
     
     }
-    private function send_email($to, $subject, $message ,$headers)
-    {
-        // $this->email->from('', 'Caesars');
-        $this->email->to($to);
-        $this->email->subject($subject);
-        $this->email->message($message_body);
-        if ($this->email->send()) {
-            return true;
-        } else {
-            return false;
-        }
+
+    function addContact(Request $request){
+        $data = $request->all();
+        
+            $contact = new Contact;
+            $contact->name = $data['name'];
+            $contact->company = $data['company'];
+            $contact->mobile = $data['phone'];
+            $contact->email = $data['email'];
+            $contact->message = $data['contact_message'];
+            $contact->status = 0;
+            $contact->save();
+            $subject = "Contact from " . $data['name']; 
+            $name = $data['name'];
+            $company = $data['company'];
+            $mobile = $data['phone'];
+            $emailAddress = $data['email'];
+            $message = "Name: ". $contact->name . "<br>
+                    Company: ". $contact->company . "<br>
+                    Phone: ". $contact->phone . "<br>
+                    Email: ". $contact->email . "<br>
+                    Message: " . $contact->message . "";
+
+            $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
+            try {
+            //Server settings
+            // $mail->SMTPDebug = 2;                                 // Enable verbose debug output
+                $mail->isSMTP();                                      // Set mailer to use SMTP
+                $mail->Host = 'smtp-relay.sendinblue.com';                  // Specify main and backup SMTP servers
+                $mail->SMTPAuth = true;                               // Enable SMTP authentication
+                $mail->Username = 'anwarhk.ah@gmail.com';                 // SMTP username
+                $mail->Password = 'kIgCLKG3Bb9mJSrv';                           // SMTP password
+                $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+                $mail->Port = 587;                                    // TCP port to connect to
+
+                // Sender
+                $mail->setFrom("anwarhk.ah@gmail.com", "BrinTechSolutions");
+
+                // who will receive the email submission
+                $mail->addAddress('anwarhk.ah1@gmail.com', 'anwar hk');     // Add a recipient
+                // $mail->addAddress('ellen@example.com');               // Name is optional
+
+
+                $mail->addReplyTo($emailAddress, $name);
+                
+                // $mail->addCC('cc@example.com');
+                // $mail->addBCC('bcc@example.com');
+
+                //Attachments
+                // $mail->addAttachment('/var/tmp/file.tar.gz');         // Add attachments
+                // $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    // Optional name
+
+
+                //Content
+                $mail->isHTML(true);                                  // Set email format to HTML
+                $mail->Subject = $subject;
+                $mail->Body    = $message;
+                $mail->AltBody = $message;
+
+                $response = $mail->send();
+                // dd($response);
+                $request->session()->flash('status', 'Your Request Submited');
+                    return response()->json([
+                        'html'=>'<div class="success">Request Submitted Successfully.</div>' 
+                    ]);
+                }
+            
+            catch (Exception $e) {
+                echo 'Message could not be sent.';
+                echo 'Mailer Error: ' . $mail->ErrorInfo;
+            }
+
     }
 }
