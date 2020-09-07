@@ -27,10 +27,16 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        No Coding
+                        IT Infrastructure Services
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                        We lead and guide clients to achieve business objectives through the adoption of technology 
+                        in the enterprise. Customers tap into our years of accumulated experiences to avoid pitfalls
+                         and enhance user experiences to deliver successful turnkey IT projects. We provide consulting,
+                          installation, configuration and post-sales service and support services.BRIN Tech Solutions
+                           works as a technology catalyst to help companies navigate through the convoluted jungle of 
+                           technology brands and solutions from a single server environment to hundreds in a data center.
+                            Together, we make IT happen.
                     </p>
                 </div>
             </div>
@@ -41,10 +47,13 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        Mobile Friendly
+                        Server Infrastructure
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
+                        Server Rack Equipment Layout & Cable Organization,
+                        Power Management, UPS & Server Room Cooling,                        
+                        Server configuration & Setup,   
+                        Network Attached Storage (NAS) Setup
                     </p>
                 </div>
             </div>
@@ -55,57 +64,15 @@
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        Unique Styles
+                        Network Infrastructure
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="media-container-row">
-
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        No Coding
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
-                    </p>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <span class="mbri-touch mbr-iconfont" media-simple="true"></span>
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        Mobile Friendly
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
-                    </p>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-7">
-                        Unique Styles
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
-                       Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                        Network Design & Setup,
+                        Switches Setup                        
+                        Routers Setup                        
+                        Virtual Private Network (VPN) Setup.                        
+                        Fiber Optic Cabling,        
+                        Voice and data cabling, structured cabling
                     </p>
                 </div>
             </div>

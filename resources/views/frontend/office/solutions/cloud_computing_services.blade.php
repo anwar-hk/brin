@@ -29,7 +29,10 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p class="mbr-text mb-0 mbr-fonts-style display-7 text-justify">
-                               <strong>Make your own website in a few clicks!</strong> Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and <em>mobile friendly websites</em> in a few clicks. Mobirise is one of the easiest website development tools available today.
+                               <strong>Thinking of Moving to Cloud?</strong> Build, innovate, and scale with
+                                various cloud services on hand and have it up and running in no time. Talk to
+                                 us to let us know your requirements or objectives and we can recommend a
+                                  customized solution and platform to go to.
                             </p>
                         </div>
                     </div>
@@ -50,7 +53,8 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7 text-justify">
-                               <strong>Make your own website in a few clicks!</strong> Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and <em>mobile friendly websites</em> in a few clicks. Mobirise is one of the easiest website development tools available today.
+                               <strong>Work Load Migration, Hybrid Cloud, API Management, IoT,Microsoft Office 365!</strong>
+                               Your place to create, communicate, collaborate, and get great work done.
                             </p>
                         </div>
                     </div>
@@ -69,12 +73,18 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="row col-12 col-md-8">
-                <div class="col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
-                     Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+            <div class="row col-12 col-md-12">
+                <div class="col-12 col-md-4 pr-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
+                    <strong>Microsoft Azure</strong>
+                    Freedom to build, manage, and deploy applications on a massive, global network using your favorite tools and frameworks.
                 </div>
-                <div class="col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
-                     Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                <div class="col-12 col-md-4 pl-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
+                    <strong>Amazon Web Services</strong>
+                    Cost-effective cloud tools for business operations, high scalability, and availability.
+                </div>
+                <div class="col-12 col-md-4 pl-lg-4 mbr-text mbr-fonts-style display-7">
+                    <strong>Google Cloud</strong>
+                    Streamlined cloud ecosystem for development and deployment.
                 </div>
             </div>
         </div>

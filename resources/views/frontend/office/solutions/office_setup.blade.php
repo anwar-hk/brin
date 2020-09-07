@@ -39,8 +39,11 @@
                     </div>                
 
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Publish your website to a local drive, FTP or host on Amazon S3, Google Cloud, Github Pages. Don't be a hostage to just one platform or service provider.
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Fiber Optic Cabling,
+                            Voice and data cabling, structured cabling,
+                            CCTV Surveillance System,
+                            Time Attendance & Access Control System
                         </p>
                     </div>
                 </div>
@@ -57,36 +60,16 @@
                         </div>
                     </div>
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Just drop the blocks into the page, edit content inline and publish - no technical skills required.
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Server Rack Equipment Layout and Cable Organization,
+                            Power Management, UPS & Server Room Cooling,
+                            Server configuration & Setup,
+                            Network Attached Storage (NAS) Setup,
+                            PCs, Printers & Fax Setup
                         </p>
                     </div>
                 </div>
 
-                <div class="card pl-3 pr-3 pb-5">
-                    <div class="mbr-card-img-title">
-                        <div class="card-img pb-3">
-                            <span class="mbri-mobirise mbr-iconfont" media-simple="true"></span>
-                        </div>
-                        <div class="mbr-crt-title">
-                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
-                                NETWORK INFRASTRUCTURE
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Just drop the blocks into the page, edit content inline and publish - no technical skills required.
-                        </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="mbr-figure" style="width: 50%;">
-                <img src="images/itsetup.jpg" alt="Mobirise" title="" media-simple="true">
-            </div>
-
-            <div class="block-content align-left  ">
                 <div class="card pl-3 pr-3 pb-5">
                     <div class="mbr-card-img-title">
                         <div class="card-img pb-3">
@@ -100,8 +83,41 @@
                     </div>                
 
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Mobirise offers several themes that include sliders, galleries, article blocks, counters, accordions, video and many more.
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Telephony – IP & Traditional,
+                            Call Centre & Video Conferencing,
+                            CRM & ERP Solutions,
+                            Time Attendance – HRMS,
+                            Point of Sale Solutions,
+                            Business Accounting,
+                            Website & Mobile App development
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mbr-figure" style="width: 50%;">
+                <img src="images/itsetup.jpg" alt="Mobirise" title="" media-simple="true">
+            </div>
+
+            <div class="block-content align-left  ">
+
+                <div class="card pl-3 pr-3 pb-5">
+                    <div class="mbr-card-img-title">
+                        <div class="card-img pb-3">
+                            <span class="mbri-mobirise mbr-iconfont" media-simple="true"></span>
+                        </div>
+                        <div class="mbr-crt-title">
+                            <h4 class="card-title py-2 mbr-crt-title mbr-fonts-style display-7">
+                                NETWORK INFRASTRUCTURE
+                            </h4>
+                        </div>
+                    </div>
+                    <div class="card-box">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Network Design & Setup - LAN & WAN,
+                            Wireless Design & Setup,
+                            Virtual Private Network (VPN) Setup,
                         </p>
                     </div>
                 </div>
@@ -118,8 +134,14 @@
                         </div>
                     </div>
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Antivirus & Endpoint Security,
+                            Firewall Security,
+                            Intrusion Detection / Prevention System,
+                            Security Information and Event Management,
+                            Data loss prevention,
+                            Data Backup & Recovery Solution,
+                            Disaster Recovery Plan (DRP)
                         </p>
                     </div>
                 </div>
@@ -136,8 +158,12 @@
                         </div>
                     </div>
                     <div class="card-box">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7">
-                            Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                            Servers, Desktops & Work Stations,
+                            Desk phones & Mobile Phones,
+                            Printers & Fax Machines,
+                            Routers, Switches & Access Points,
+                            Cables, Connectors & Accessories
                         </p>
                     </div>
                 </div>

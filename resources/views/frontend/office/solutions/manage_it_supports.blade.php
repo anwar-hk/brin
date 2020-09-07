@@ -28,31 +28,48 @@
                     <img src="assets/images/daniel-apodaca-335330-2000x2664.jpg" alt="Mobirise" title="" media-simple="true">
                 </div>
                 <div class=" align-left">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                        Image with content
-                    </h2>
-                    <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5 text-justify">
-                        Click any text or icon to edit or style it. Use the block parameters to hide/show text or icons and change media size or position.
-                        </p>
-                    </div>
 
                     <div class="block-content">
                         <div class="card p-3 pr-3">
                             <div class="media">
                                 <div class=" align-self-center card-img pb-3">
-                                    <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                                    <span class="mbri-desktop mbr-iconfont" media-simple="true"></span>
                                 </div>     
                                 <div class="media-body">
                                     <h4 class="card-title mbr-fonts-style display-7">
-                                        Over 400 Amazing Blocks
+                                        MAINTENANCE SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
-                                   Mobirise offers several themes that include sliders, galleries, article blocks, counters, accordions, video, animated text, live filtered tables, shop, contact forms, lightbox, testimonials, timelines, google map, progress bars and more. 
+                                    PCs Maintenance<br>
+                                    Network Maintenance<br>
+                                    Hardware Maintenance<br>
+                                    Quarterly Service Review
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="card p-3 pr-3">
+                            <div class="media">
+                                <div class=" align-self-center card-img pb-3">
+                                    <span class="mbri-setting mbr-iconfont" media-simple="true"></span>
+                                </div>     
+                                <div class="media-body">
+                                    <h4 class="card-title mbr-fonts-style display-7">
+                                        CONSULTATION SERVICES
+                                    </h4>
+                                </div>
+                            </div>                
+
+                            <div class="card-box">
+                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                    IT Infrastructure Upgrade<br>
+                                    IT Infrastructure Analysis<br>
+                                    IT Infrastructure Fine-tuning
+                                     
                                 </p>
                             </div>
                         </div>
@@ -64,14 +81,38 @@
                                 </div>     
                                 <div class="media-body">
                                     <h4 class="card-title mbr-fonts-style display-7">
-                                        Easy and Simple to Use
+                                        PREVENTIVE SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
-                                    Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                                    Backup Solutions<br>
+                                    Disaster Recovery<br>
+                                    Hardware Redundancy
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="card p-3 pr-3">
+                            <div class="media">
+                                <div class=" align-self-center card-img pb-3">
+                                    <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                                </div>     
+                                <div class="media-body">
+                                    <h4 class="card-title mbr-fonts-style display-7">
+                                        REACTIVE SERVICES
+                                    </h4>
+                                </div>
+                            </div>                
+
+                            <div class="card-box">
+                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                    24/7 Response Team<br>
+                                    One-time Incident Support<br>
+                                    Remote Support (Ticket, Phone, Remote Access)<br>
+                                    Emergency On-site Support 2 Hours Response Time
                                 </p>
                             </div>
                         </div>

@@ -8,7 +8,7 @@
     </div>
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
-        <h1>Cloud Computing Services</h1>
+        <h1>IT Products Supply & Installation</h1>
         <ul class="page-breadcrumb">
             <li><a href="/">Home</a></li>
             <li>IT Products Supply & Installation</li>
@@ -21,7 +21,7 @@
 
     <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-            Image features with buttons on mouseover
+            IT Products Supply & Installation
         </h2>
         <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light">
             In browser you will see buttons when hover on cards
@@ -30,12 +30,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
@@ -51,12 +45,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
@@ -73,12 +61,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
@@ -99,12 +81,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
@@ -120,12 +96,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
@@ -142,12 +112,6 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <div class="mbr-overlay"></div>
-                        <div class="mbr-section-btn text-center">
-                            <a href="https://mobirisethemes.com" class="btn btn-primary display-4">
-                                Learn More
-                            </a>
-                        </div>
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
                     </div>
                     <div class="card-box">
