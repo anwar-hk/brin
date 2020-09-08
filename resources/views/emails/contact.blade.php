@@ -333,7 +333,7 @@
                                                       <tr>
                                                           <td class="content-spacing" style="font-family:Arial,Helvetica,sans-serif; color:#3c4858; text-align:center;">
   
-                                                              <span style="color:#3c4858;"><strong><span style="font-size:24px;">Title</span></strong></span>
+                                                              <span style="color:#3c4858;"><strong><span style="font-size:24px;">Contact Message</span></strong></span>
                                                           </td>
                                                       </tr>
                                                       <tr>

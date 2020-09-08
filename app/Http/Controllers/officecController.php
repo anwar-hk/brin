@@ -39,8 +39,11 @@ class OfficecController extends Controller
     }
     public function viewNews(Request $request){
         $news = News::get();
-        // dd($news);
-        return view ('news')->with(compact('news' , ));
+        foreach($news as $url ){
+            $link = "http://$url->url";
+            $url->link = $link;
+        }
+        return view ('news')->with(compact('news'));
     
     }
 

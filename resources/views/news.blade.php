@@ -31,7 +31,7 @@
                     </div>
                     <div class="content-column col-lg-6 col-md-12 col-sm-12">
                         <div class="inner-column">
-                        <h3><a href="{{$n->url}}">{{$n->title}}</a></h3>
+                        <h3><a href="{{url($n->link )}}" target="_blank">{{$n->title}}</a></h3>
                             <ul class="post-info">
                                 <li><span class="icon fa fa-user"></span> by admin</li>
                             </ul>
