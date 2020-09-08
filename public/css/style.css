@@ -3845,7 +3845,7 @@ hr{
     background: -webkit-linear-gradient(left, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
     background: linear-gradient(to right, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#039;#586e6f&#039;, endColorstr=&#039;#0f7860&#039;,GradientType=1 );
-    opacity: 0.9;
+    opacity: 0.5;
 }
 
 .page-title .cws-image-bg:after {
@@ -4014,7 +4014,6 @@ hr{
 	bottom: 0;
 	top: auto;
 }
-
 .cws-background-image{
 	position: absolute;
 	left: 0;

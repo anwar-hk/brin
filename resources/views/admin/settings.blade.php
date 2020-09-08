@@ -32,7 +32,7 @@
                                 <div class="controls">
                                     <input type="password" name="pwd_new" id="pwd_new" />
                                 </div>
-                            </div>
+                            </div>  
                             <div class="control-group">
                                 <label class="control-label">Confirm password</label>
                                 <div class="controls">
