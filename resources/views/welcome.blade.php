@@ -29,7 +29,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(26, 158, 158, 0.63) 85%, rgba(106, 209, 228, 0.6) 100%);">
+                        style="z-index: 5;">
                         <img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina>
                     </div>
                     
@@ -131,7 +131,8 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 5;background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(26, 158, 158, 0.63) 85%, rgba(106, 209, 228, 0.6) 100%);"><img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
+                                style="z-index: -1;">
+                                <img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
 
                             <!-- LAYER NR. 6 -->
                             <div class="tp-caption   tp-resizeme" 

@@ -1,39 +1,38 @@
 <?php
 
 namespace App\Mail;
-use App\Contct;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 
-class contact extends Mailable
+class contactMail extends Mailable
 {
     use Queueable, SerializesModels;
-
-    public $data;
 
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($data)  
+    public $data;
+
+    public function __construct($data)
     {
         $this->data = $data;
     }
-    
-    /**
-     * Build the message.
-     *
-     * @return $this
-     */
+
     public function build()
     {
         $data = $this->data;
-        dd($data);
-        return $this->view('emails.test')
+        // dd($data);
+        $address = 'brinTechSolutions@gmail.com';
+        $subject = $data['contact_message'];
+        $name = $data['name'];
+        $email = $data['email'];
+
+        return $this->view('emails.contact')
                     ->from($address, $name)
                     ->cc($address, $name)
                     ->bcc($address, $name)

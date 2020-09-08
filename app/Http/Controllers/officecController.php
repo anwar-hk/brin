@@ -6,6 +6,7 @@ use PHPMailer\PHPMailer\Exception;
 use Illuminate\Http\Request;
 use App\News;
 use App\Contact;
+use App\Mail\contactMail;
 use Mail;
 
 class OfficecController extends Controller
@@ -43,9 +44,10 @@ class OfficecController extends Controller
     
     }
 
-    public function addContacts(Request $request){
+    public function addContact(Request $request){
         $data = $request->all();
         if($data){ 
+            $response = Mail::to('anwarhk.ah@gmail.com')->send(new contactMail($data));
             $contact = new Contact;
             $contact->name = $data['name'];
             $contact->company = $data['company'];
@@ -54,33 +56,18 @@ class OfficecController extends Controller
             $contact->message = $data['contact_message'];
             $contact->status = 0;
             $contact->save();
-            // $to = "anwarhk.ah@gmail.com"; // Please insert your email here
-            $subject = 'Contact Us';
-            $headers = "MIME-Version: 1.0\r\n";
-            $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-            $message = "Name: ". $contact->name . "<br>
-                        Company: ". $contact->company . "<br>
-                        Phone: ". $contact->phone . "<br>
-                        Email: ". $contact->email . "<br>
-                        Message: " . $contact->message . "";
-            //Email Send Function
-            $response =  Mail::to($email)->send(new Contact($url)); 
-            dd($response);
-            if($response == true){
-                return response()->json([
-                    'html'=>'<div class="success">Request Submitted Successfully.</div>' 
-                ]);
-            }
+            return response()->json([
+                'html'=>'<div class="success">Request Submitted Successfully.</div>' 
+            ]);
         }
         return response()->json([
-            'html'=>'<div class="success">Request Submitted U   nsuccessfully.</div>'
+            'html'=>'<div class="success">Request Submitted Unsuccessfully.</div>'
         ]);
     
     }
 
-    function addContact(Request $request){
+    function sadfg(Request $request){
         $data = $request->all();
-        
             $contact = new Contact;
             $contact->name = $data['name'];
             $contact->company = $data['company'];

@@ -667,13 +667,12 @@
 			var company = $('#email-form .company').val();
 			var phone = $('#email-form .phone').val();
 			var email = $('#email-form .email').val();
-			if(username == '' || email == '' || company == '' || phone == '' ) 
+			var message = $('#email-form .message').val();
+			if(username == '' || email == '' || company == '' || phone == '' || message =='' ) 
 			{
 				$('#email-form .response').html('<div class="failed">Please fill the required fields.</div>');
 				return false;
 			}
-			// $data = $(form).serialize();
-			// console.log($data);
             $.ajax({
                 url:"/add_contact",
                 method:"POST",
@@ -691,7 +690,7 @@
                 error:function(){
                     $('#email-form .response').fadeIn().html(data);
                 }
-            });
+			});	
         });
 	}
 
@@ -709,7 +708,6 @@
 				return false;
 			}
 			   $data = $(form).serialize();
-			   console.log($data);
             $.ajax({
                 url:"sendnewslatters",
                 method:"POST",
