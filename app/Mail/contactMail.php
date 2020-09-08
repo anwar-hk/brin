@@ -28,7 +28,7 @@ class contactMail extends Mailable
         $data = $this->data;
         // dd($data);
         $address = 'brinTechSolutions@gmail.com';
-        $subject = $data['contact_message'];
+        $subject = 'Contact From Brin Website';
         $name = $data['name'];
         $email = $data['email'];
 
