@@ -41,7 +41,7 @@
     </div>
     <div class="container-fluid">
         <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 my-col">
+            <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
@@ -58,7 +58,7 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 my-col">
+            <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
@@ -75,7 +75,7 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 my-col">
+            <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/04.jpg" alt="Mobirise" media-simple="true">
@@ -90,7 +90,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card p-3 col-12 col-md-6 my-col">
+            <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
@@ -106,7 +106,7 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 my-col">
+            <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
