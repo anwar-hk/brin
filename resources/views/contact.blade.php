@@ -155,24 +155,24 @@
 
                                     <div class="form-group  col-sm-12">
                                         <label> Your Name (required)</label>
-                                        <input type="text" name="name" class="username">
+                                        <input type="text" name="name" class="username" required>
                                     </div>
                                     <div class="form-group  col-sm-12">
                                         <label>Company</label>
-                                        <input type="text" name="company">
+                                        <input type="text" name="company" required>
                                     </div>
                                     <div class="form-group col-sm-12">
                                         <label> Mobile (required)</label><br>
-                                        <input id="phone" name="phone" type="tel" class="number">
+                                        <input id="phone" name="phone" type="tel" class="number" required>
                                     </div>
                                     <div class="form-group  col-sm-12">
                                         <label>Email (required)</label>
-                                        <input type="email" name="email" class="email">
+                                        <input type="email" name="email" class="email" required>
                                     </div>
                                     
                                     <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                         <label>Message</label>
-                                        <textarea name="contact_message"></textarea>
+                                        <textarea name="contact_message" required></textarea>
                                     </div>
                                 
                                     <div class="form-group col-lg-12 col-md-12 col-sm-12 text-center">

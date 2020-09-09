@@ -237,7 +237,7 @@
                           <table width="100%" cellpadding="0" border="0" height="38" cellspacing="0">
                               <tbody><tr>
                                   <td valign="top" height="38">
-                                      <img width="20" height="38" style="display:block; max-height:38px; max-width:20px;" alt="" src="https://img.mailinblue.com/new_images/rnb/rnb_space.gif">
+                                      <img width="10" height="10" style="display:block; max-height:38px; max-width:20px;" alt="" src="https://img.mailinblue.com/new_images/rnb/rnb_space.gif">
                                   </td>
                               </tr>
                           </tbody></table>
@@ -275,7 +275,7 @@
                                                   <table cellpadding="0" border="0" align="left" cellspacing="0" class="logo-img-center"> 
                                                       <tbody><tr>
                                                           <td valign="middle" align="center" style="line-height: 1px;">
-                                                              <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="550" vspace="0" hspace="0" border="0" alt="brintecsolutions" style="float: left;max-width:550px;display:block;" class="rnb-logo-img" src="https://img.mailinblue.com/3106748/images/rnb/original/5f565ef13d918f388b13c82c.png"></div></div></td>
+                                                              <div style="border-top:0px None #000;border-right:0px None #000;border-bottom:0px None #000;border-left:0px None #000;display:inline-block; " cellspacing="0" cellpadding="0" border="0"><div><img width="187" vspace="0" hspace="0" border="0" alt="brintecsolutions" style="float: left;max-width:550px;display:block;" class="rnb-logo-img" src="https://img.mailinblue.com/3106748/images/rnb/original/5f565ef13d918f388b13c82c.png"></div></div></td>
                                                       </tr>
                                                   </tbody></table>
                                                   </td>
