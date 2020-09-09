@@ -129,7 +129,6 @@
     // preferredCountries: ['cn', 'jp'],
     separateDialCode: true,
     utilsScript: "build/js/utils.js",
-
   });
 </script>
 <script>

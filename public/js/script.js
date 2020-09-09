@@ -663,12 +663,12 @@
 		$('#submit').click(function(){
             var o = new Object();
 			var form = '#email-form';
-			var username = $('#email-form .name').val();
+			var name = $('#email-form .name').val();
 			var company = $('#email-form .company').val();
 			var phone = $('#email-form .phone').val();
 			var email = $('#email-form .email').val();
 			var message = $('#email-form .message').val();
-			if(username == '' || email == '' || company == '' || phone == '' || message =='' ) 
+			if(name == '' || email == '' || company == '' || phone == '' || message =='' ) 
 			{
 				$('#email-form .response').html('<div class="failed">Please fill the required fields.</div>');
 				return false;
@@ -687,7 +687,7 @@
                         $('#email-form .response').fadeOut("slow");
                     }, 5000);
                 },
-                error:function(){
+                error:function(data){
                     $('#email-form .response').fadeIn().html(data);
                 }
 			});	

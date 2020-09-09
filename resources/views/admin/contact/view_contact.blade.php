@@ -4,8 +4,8 @@
 <div id="content">
     <div id="content-header">
         <div id="breadcrumb"> <a href="{{url ('/admin/dashboard')}}" title="Go to Home" class="tip-bottom"><i class="icon-home"></i> Home</a>
-        <a href="#">News</a> <a href="#" class="current">View News</a> </div>
-        <h1>News</h1>
+        <a href="#">Contact</a> <a href="#" class="current">View Contact</a> </div>
+        <h1>Contact</h1>
         @if(Session::has('flash_message_error'))
         <div class="alert alert-error alert-block">
             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
@@ -29,34 +29,30 @@
         <div class="span12">
           <div class="widget-box">
             <div class="widget-title"> <span class="icon"><i class="icon-th"></i></span>
-              <h5>View News</h5>
+              <h5>View Contact</h5>
             </div>
             <div class="widget-content nopadding">
               <table class="table table-bordered data-table">
                 <thead>
                   <tr>
-                    <th>Sl No.</th>
-                    <th>TITLE</th>
-                    <th>DISCRIPTION</th>
-                    <th>SITE LINK</th>
                     <th>DATE</th>
-                    {{-- <th>DATE</th> --}}
-                    <th>ACTIONS</th>
+                    <th>NAME</th>
+                    <th>COMPANY</th>
+                    <th>MOBILE</th>
+                    <th>EMAIL</th>
+                    <th>MESSAGE</th>
                   </tr>
                 </thead>
                 <tbody>
-                @foreach($news as $n)
+                @foreach($contact as $c)
                   <tr class="gradeX text-center">
                    
-                    <td>{{ $n->id }}</td>
-                    <td>{{ $n->title }}</td>
-                    <td>{{ $n->discription }}</td>
-                    <td>{{ $n->url }}</td>
-                    <td>{{ $n->updated_at }}</td>
-                    {{-- <td>{{ $n->updated_at }}</td> --}}
-                    <td class="center"><div class="fr"><a href="{{url('/admin/edit-news/'.$n->id)}}" class="btn btn-primary btn-mini">Edit</a>
-                    <a  rel="{{$n->id}}" rel1="delete-news"
-                        href="javascript:" class="btn btn-danger btn-mini deleteRecord">Delete</a></div></td>              
+                    <td>{{ date_format($c->created_at, "d-m-yy") }}</td>
+                    <td>{{ $c->name }}</td>
+                    <td>{{ $c->company }}</td>
+                    <td>{{ $c->mobile }}</td>
+                    <td>{{ $c->email }}</td>
+                    <td>{{ $c->message }}</td>           
                 </tr>
                 @endforeach
                 </tbody>

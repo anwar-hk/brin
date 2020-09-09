@@ -9,6 +9,7 @@ use App\Order;
 use App\Product;
 use App\Coupon;
 use App\News;
+use App\Contact;
 use Illuminate\Support\Facades\Hash;
 
 class AdminController extends Controller
@@ -33,7 +34,8 @@ class AdminController extends Controller
       $productsAll = Product::paginate();
       $couponCount = Coupon::paginate();
       $newsCount = News::paginate();  
-      return view('admin.dashboard')->with(compact('userCount','orderCount','productsAll','couponCount', 'newsCount' ));
+      $contactCount = Contact::paginate();  
+      return view('admin.dashboard')->with(compact('userCount','orderCount','productsAll','couponCount', 'newsCount','contactCount' ));
     }
 
     public function settings(){

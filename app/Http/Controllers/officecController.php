@@ -37,6 +37,7 @@ class OfficecController extends Controller
     public function itProductSupply(){
         return view('frontend.office.solutions.it_product_supply');
     }
+    // news 
     public function viewNews(Request $request){
         $news = News::get();
         foreach($news as $url ){
@@ -68,5 +69,12 @@ class OfficecController extends Controller
         ]);
     
     }
+    public function viewContact(Request $request){
+        $contact = Contact::get();
+        // dd($contact);
+        return view ('admin/contact/view_contact')->with(compact('contact'));
+    
+    }
+
 
 }

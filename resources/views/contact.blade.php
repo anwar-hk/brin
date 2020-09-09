@@ -155,13 +155,13 @@
 
                                     <div class="form-group  col-sm-12">
                                         <label> Your Name (required)</label>
-                                        <input type="text" name="name" class="username" required>
+                                        <input type="text" name="name" class="name" required>
                                     </div>
                                     <div class="form-group  col-sm-12">
                                         <label>Company</label>
-                                        <input type="text" name="company" required>
+                                        <input type="text" name="company" class="company" required>
                                     </div>
-                                    <div class="form-group col-sm-12">
+                                    <div class="form-group col-sm-12 	">
                                         <label> Mobile (required)</label><br>
                                         <input id="phone" name="phone" type="tel" class="number" required>
                                     </div>
@@ -172,7 +172,7 @@
                                     
                                     <div class="form-group col-lg-12 col-md-12 col-sm-12">
                                         <label>Message</label>
-                                        <textarea name="contact_message" required></textarea>
+                                        <textarea name="contact_message" class="message" required></textarea>
                                     </div>
                                 
                                     <div class="form-group col-lg-12 col-md-12 col-sm-12 text-center">

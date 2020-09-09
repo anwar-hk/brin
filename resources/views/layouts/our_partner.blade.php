@@ -1,5 +1,5 @@
 
-<section style="background:#eeeeee">
+<section style="background:#ffffff">
 <div class="uk-container uk-container-small uk-padding-large uk-padding-remove-top " >
     <p class="op-home-title uk-margin-large-bottom ">our partners!</p>
     <div uk-slider="center: false" class="uk-slider uk-slider-container">

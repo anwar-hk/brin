@@ -36,26 +36,21 @@
                 <thead>
                   <tr>
                     <th>Sl No.</th>
-                    <th>TITLE</th>
-                    <th>DISCRIPTION</th>
-                    <th>SITE LINK</th>
-                    <th>DATE</th>
-                    {{-- <th>DATE</th> --}}
+                    <th>NAME</th>
+                    <th>LOGO</th>
                     <th>ACTIONS</th>
                   </tr>
                 </thead>
                 <tbody>
-                @foreach($news as $n)
+                @foreach($partners as $p)
                   <tr class="gradeX text-center">
                    
-                    <td>{{ $n->id }}</td>
-                    <td>{{ $n->title }}</td>
-                    <td>{{ $n->discription }}</td>
-                    <td>{{ $n->url }}</td>
-                    <td>{{ $n->updated_at }}</td>
+                    <td>{{ $p->id }}</td>
+                    <td>{{ $p->name }}</td>
+                    <td>{{ $p->logo }}</td>
                     {{-- <td>{{ $n->updated_at }}</td> --}}
-                    <td class="center"><div class="fr"><a href="{{url('/admin/edit-news/'.$n->id)}}" class="btn btn-primary btn-mini">Edit</a>
-                    <a  rel="{{$n->id}}" rel1="delete-news"
+                    <td class="center"><div class="fr"><a href="{{url('/admin/edit-partners/'.$p->id)}}" class="btn btn-primary btn-mini">Edit</a>
+                    <a  rel="{{$p->id}}" rel1="delete-partners"
                         href="javascript:" class="btn btn-danger btn-mini deleteRecord">Delete</a></div></td>              
                 </tr>
                 @endforeach

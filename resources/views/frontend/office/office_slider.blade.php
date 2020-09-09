@@ -18,7 +18,7 @@
                     data-type="image" 
                     data-basealign="slide" 
                     data-responsive_offset="on" 
-                    data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
+                    data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:0.5;","ease":"Power2.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
                     data-textAlign="['inherit','inherit','inherit','inherit']"
                     data-paddingtop="[0,0,0,0]"
                     data-paddingright="[0,0,0,0]"
@@ -99,7 +99,7 @@
                             data-type="image" 
                             data-basealign="slide" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
+                            data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:0.5;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
@@ -179,7 +179,7 @@
                             data-type="image" 
                             data-basealign="slide" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":10,"speed":900,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"linear"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                            data-frames='[{"delay":10,"speed":900,"frame":"0","from":"opacity:0;","to":"o:0.6   ;","ease":"linear"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"

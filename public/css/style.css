@@ -4296,13 +4296,13 @@ hr{
 }
 
 .our-standards .cws-image-bg .cws-overlay-bg{
-	background-color: rgba(83,151,96,0.6);
+	background-color:rgb(144 195 214 / 42%);
 }
 
 .our-standards .cws-image-bg .cws-triangle-overlay{
 	clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
     -webkit-clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
-    background: linear-gradient(45deg, #53986b, #4ab669);
+    background: linear-gradient(45deg, #d8dcdc, #18a5cf);
 }
 
 .our-standards .cws-triangle-overlay.bottom-left{
@@ -4403,13 +4403,13 @@ hr{
 }
 
 .our-passion .cws-image-bg .cws-overlay-bg{
-	background-color: rgba(83,151,96,0.6);
+	background-color:rgb(144 195 214 / 42%);;
 }
 
 .our-passion .cws-image-bg .cws-triangle-overlay{
 	clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
     -webkit-clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
-    background: linear-gradient(45deg, #53986b, #4ab669);
+	background: linear-gradient(45deg, #d8dcdc, #18a5cf);
 }
 
 .our-passion .cws-triangle-overlay.bottom-left{
@@ -4421,7 +4421,6 @@ hr{
 .our-passion .cws-triangle-overlay.bottom-right{
     clip-path: polygon(50% calc(100% - 60px), 100% calc(100% - 120px), 100% 100%);
     -webkit-clip-path: polygon(50% calc(100% - 60px), 100% calc(100% - 120px), 100% 100%);
-    background: rgba(237,244,239,0.79);
 }
 
 .our-passion .content-column .inner-column{

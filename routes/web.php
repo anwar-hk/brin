@@ -50,6 +50,7 @@ Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServive
 Route::get('/it_products_supply_installation', 'OfficecController@itProductSupply')->name('home') ;
 Route::get('/news', 'OfficecController@viewNews');
 Route::match(['GET','POST'],'/add_contact','OfficecController@addContact');
+Route::get('/admin/view-contact','OfficecController@viewContact')->name('contact-view');
 
 /* =================  admin routes  ================= */
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
@@ -64,10 +65,14 @@ Route::group(['middleware' => ['auth']],function(){
     Route::match(['get','post'],'/admin/add-news', 'NewsController@addNews');
     Route::get('/admin/view-news', 'NewsController@viewNews');
     Route::match(['get','post'],'/admin/edit-news/{id}','NewsController@editNews');
-    Route::get('/admin/delete-news-image/{id}','NewsController@deleteNewsImage');
-
-
+    // Route::get('/admin/delete-news-image/{id}','NewsController@deleteNewsImage');
     Route::match(['get','post'],'/admin/delete-news/{id}','NewsController@deleteNews');
+
+    Route::match(['get','post'],'/admin/add-partners', 'PartnersController@addPartners');
+    Route::get('/admin/view-partners', 'PartnersController@viewPartners');
+    Route::match(['get','post'],'/admin/edit-partners/{id}','PartnersController@editPartners');
+    Route::match(['get','post'],'/admin/delete-partners/{id}','PartnersController@deletePartners');
+
     Route::match(['get','post'],'/admin/add-product', 'ProductsController@addProduct');
     Route::match(['get','post'],'/admin/edit-product/{id}', 'ProductsController@editProduct');
     Route::get('/admin/view-products','ProductsController@viewProducts');
