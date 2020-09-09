@@ -263,23 +263,24 @@
 
                 <div class="default-form callback-form" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 900;">
                     <form action="#" method="post" id="email-form">
+                        @csrf
                         <div class="form-group mb-0">
                             <div class="response"></div>
                         </div>
 
                         <div class="form-group">
                             <label> Your Name (required)</label>
-                            <input type="text" name="username" class="username">
+                            <input type="text" name="name" class="username">
                         </div>
 
                         <div class="form-group">
                             <label> Company </label>
-                            <input type="text" name="username" class="username">
+                            <input type="text" name="company" class="company">
                         </div>
 
                         <div class="form-group">
-                            <label>Mobile</label>
-                            <input type="text" name="username" class="username">
+                            <label>Mobile</label><br>
+                            <input id="phone" type="tel" name="phone" class="phone">
                         </div>
 
                         <div class="form-group">

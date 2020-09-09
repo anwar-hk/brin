@@ -23,13 +23,13 @@
                         data-type="image" 
                         data-basealign="slide" 
                         data-responsive_offset="on" 
-                        data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
+                        data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"opacity:1;","to":"o:0.5;","ease":"Power2.easeOut"},{"delay":"wait","speed":1000,"frame":"999","to":"opacity:0;","ease":"Power2.easeIn"}]'
                         data-textAlign="['inherit','inherit','inherit','inherit']"
                         data-paddingtop="[0,0,0,0]"
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 5;">
+                        style="z-index: 5; background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(26, 158, 158, 0.63) 85%, rgba(106, 209, 228, 0.6) 100%);">
                         <img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina>
                     </div>
                     
@@ -61,7 +61,7 @@
                             data-height="['auto']"  
                             data-type="button" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
+                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:0.6;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']"
                             data-paddingtop="[20,20,20,20]"
                             data-paddingright="[50,50,50,50]"
@@ -80,7 +80,7 @@
                             data-height="['auto']"
                             data-type="button" 
                             data-responsive_offset="on"
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.animate__fadeInBottomRight"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:0.5;","ease":"Power2.animate__fadeInBottomRight"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
                             data-textAlign="['center','center','center','center']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
@@ -125,13 +125,13 @@
                                 data-type="image" 
                                 data-basealign="slide" 
                                 data-responsive_offset="on" 
-                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
+                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0.6;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['inherit','inherit','inherit','inherit']"
                                 data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: -1;">
+                                style="z-index: 5; background:linear-gradient(135deg, rgba(72,70,89,0.8) 0%, rgba(72,70,89,0.77) 16%, rgba(26, 158, 158, 0.63) 85%, rgba(106, 209, 228, 0.6) 100%);">
                                 <img src="images/main-slider/pattern/1.png" alt="" data-ww="full-proportional" data-hh="full-proportional" width="1920" height="1080" data-no-retina> </div>
 
                             <!-- LAYER NR. 6 -->

@@ -127,7 +127,7 @@ body {
     color: #1cb7e6;
 	line-height: 28px;
 	font-weight:400;
-	background:#ffffff;
+	background:#efefef;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-family: 'Roboto', sans-serif;
@@ -2193,6 +2193,7 @@ hr{
 .default-form .form-group input[type="text"],
 .default-form .form-group input[type="email"],
 .default-form .form-group input[type="url"],
+.default-form .form-group input[type="tel"],
 .default-form .form-group textarea,
 .default-form .form-group select{
 	position: relative;
@@ -3823,7 +3824,8 @@ hr{
     position: relative;
     padding: 170px 0px 190px;
     text-align: center;
-    z-index: 2;
+	z-index: 2;
+	background-color: #efefef;
 }
 
 .page-title .cws-image-bg{
@@ -3845,7 +3847,7 @@ hr{
     background: -webkit-linear-gradient(left, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
     background: linear-gradient(to right, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#039;#586e6f&#039;, endColorstr=&#039;#0f7860&#039;,GradientType=1 );
-    opacity: 0.9;
+    opacity: 0.5;
 }
 
 .page-title .cws-image-bg:after {
@@ -4014,7 +4016,6 @@ hr{
 	bottom: 0;
 	top: auto;
 }
-
 .cws-background-image{
 	position: absolute;
 	left: 0;
@@ -12026,3 +12027,20 @@ a {
     text-align: center;
 	text-transform: capitalize;
 }
+
+/*  */
+.intl-tel-input {
+	display: table-cell;
+  }
+  .intl-tel-input .selected-flag {
+	z-index: 4;
+  }
+  .intl-tel-input .country-list {
+	z-index: 5;
+  }
+  .input-group .intl-tel-input .form-control {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 0;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 0;
+  }

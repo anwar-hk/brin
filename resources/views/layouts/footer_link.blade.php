@@ -124,7 +124,7 @@
     // initialCountry: "auto",
     // localizedCountries: { 'de': 'Deutschland' },
     // nationalMode: false,
-    // onlyCountries: ['uae', 'gb', 'ch', 'ca', 'do'],
+    onlyCountries: ['ae', 'sa', 'qa', 'kw', 'om','bh', 'in' , 'za','cf'],
     // placeholderNumberType: "MOBILE",
     // preferredCountries: ['cn', 'jp'],
     separateDialCode: true,
