@@ -306,6 +306,7 @@
 
 <!--Clients Section-->
 @include('layouts.our_partner')
+
 <!--End Clients Section-->
 
 @include('layouts.footer_link')
