@@ -12043,3 +12043,6 @@ a {
 	border-bottom-left-radius: 4px;
 	border-bottom-right-radius: 0;
   }
+  section{
+	  background-color: #eeeeee !important;
+  }
