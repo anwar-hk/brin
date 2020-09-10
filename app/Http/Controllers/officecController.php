@@ -6,6 +6,7 @@ use PHPMailer\PHPMailer\Exception;
 use Illuminate\Http\Request;
 use App\News;
 use App\Contact;
+use App\Partners;
 use App\Mail\contactMail;
 use Mail;
 
@@ -45,9 +46,11 @@ class OfficecController extends Controller
             $url->link = $link;
         }
         return view ('news')->with(compact('news'));
-    
     }
 
+    //sponser
+
+    //contact form
     public function addContact(Request $request){
         $data = $request->all();
         if($data){ 
