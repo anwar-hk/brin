@@ -8,7 +8,7 @@
     <!-- Background Layers -->
     <div class="background-layers">
         <div class="cws-triangle-overlay"></div>
-        <div class="cws-image-bg" style="background-image: url(images/bgImages/home6.jpg)"></div>
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs2.jpg)"></div>
     </div>
     <div class="auto-container">
         <div class="row">
@@ -91,7 +91,7 @@
                     <div class="inner-box" id="cctv">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                             <figure class="image"><img src="images/home_service_images/smarthome4.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 600;">
                             <h4><a href="#cctv">Outdoor CCTV</a></h4>
@@ -106,7 +106,7 @@
                     <div class="inner-box" id="wifi">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 700;">
                             <figure class="image"><img src="images/home_service_images/smarthome5.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 800;"> 
                             <h4><a href="#wifi">Wi-Fi Setup</a></h4>
@@ -120,7 +120,7 @@
                     <div class="inner-box" id="security">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 800;">
                             <figure class="image"><img src="images/home_service_images/smarthome6.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 900;">
                             <h4><a href="#">Security</a></h4>
@@ -135,7 +135,7 @@
                     <div class="inner-box" id="temperature controller">
                         <div class="image-box">
                             <figure class="image"><img src="images/home_service_images/smarthome3.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Temperature Controller</a></h4>
@@ -150,7 +150,7 @@
                     <div class="inner-box">
                         <div class="image-box" id="motion sensor">
                             <figure class="image"><img src="images/home_service_images/smarthome8.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Motion Sensor</a></h4>
@@ -165,7 +165,7 @@
                     <div class="inner-box" id="heating plan">
                         <div class="image-box">
                             <figure class="image"><img src="images/home_service_images/smarthome9.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Heating Plan</a></h4>

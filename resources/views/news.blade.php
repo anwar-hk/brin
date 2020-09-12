@@ -2,7 +2,7 @@
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">
-        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider2.jpg)">
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/news.jpg)">
             <div class="cws-overlay-bg"></div>
         </div>
 
