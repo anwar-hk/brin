@@ -24,7 +24,7 @@
     <div class="container">   
         <div class="col-md-12">
             <div class="media-container-row">
-                <div class="mbr-figure" style="width: 50%;">
+                <div class="mbr-figure" style="width: 50%;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                     <img src="assets/images/daniel-apodaca-335330-2000x2664.jpg" alt="Mobirise" title="" media-simple="true">
                 </div>
                 <div class=" align-left">
@@ -36,13 +36,13 @@
                                     <span class="mbri-desktop mbr-iconfont" media-simple="true"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">
+                                    <h4 class="card-title mbr-fonts-style display-7" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                                         MAINTENANCE SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
-                            <div class="card-box">
+                            <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
                                     PCs Maintenance<br>
                                     Network Maintenance<br>
@@ -58,13 +58,13 @@
                                     <span class="mbri-setting mbr-iconfont" media-simple="true"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">
+                                    <h4 class="card-title mbr-fonts-style display-7" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                                         CONSULTATION SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
-                            <div class="card-box">
+                            <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
                                     IT Infrastructure Upgrade<br>
                                     IT Infrastructure Analysis<br>
@@ -80,13 +80,13 @@
                                     <span class="mbri-drag-n-drop2 mbr-iconfont" media-simple="true"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">
+                                    <h4 class="card-title mbr-fonts-style display-7" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                                         PREVENTIVE SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
-                            <div class="card-box">
+                            <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
                                     Backup Solutions<br>
                                     Disaster Recovery<br>
@@ -101,13 +101,13 @@
                                     <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">
+                                    <h4 class="card-title mbr-fonts-style display-7" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                                         REACTIVE SERVICES
                                     </h4>
                                 </div>
                             </div>                
 
-                            <div class="card-box">
+                            <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                                 <p class="block-text mbr-fonts-style display-7 text-justify">
                                     24/7 Response Team<br>
                                     One-time Incident Support<br>

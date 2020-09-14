@@ -29,10 +29,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont mbri-features"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Swift Solutions</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -43,10 +43,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont mbri-magic-stick"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Fast Turnaround</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -56,10 +56,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont mbri-speed"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Lighting Fast Response</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -69,10 +69,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont mbri-extension"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             One-Stop IT Solution in the Region</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -82,10 +82,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont mbri-setting"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Free Consultation By Experts</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -95,10 +95,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont fas fa-user-tie"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">
                             Proactive & Professional Support</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -108,10 +108,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont fa fa-medkit"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5 ">
                             Comprehensive Health Check</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">
@@ -121,10 +121,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-xl-4 col-lg-4">
                 <div class="card-wrap">
-                    <div class="card-img pb-4 align-center">
+                    <div class="card-img pb-4 align-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <span class="mbr-iconfont fas fa-tools"></span>
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5 ">
                             Regular Service Reviews</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left ">

@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="sec-title">
-                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME</h2>
+                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME</h2>
                     <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay:1000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus.</div>
                 </div>
 

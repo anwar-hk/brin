@@ -23,11 +23,11 @@
         <div class="media-container-row">
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%;">
+                    <div class="mbr-figure" style="width: 60%;" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                       <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">  
                     </div>
                     <div class="media-content">
-                        <div class="mbr-section-text">
+                        <div class="mbr-section-text" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                             <p class="mbr-text mb-0 mbr-fonts-style display-7 text-justify">
                                <strong>Thinking of Moving to Cloud?</strong> Build, innovate, and scale with
                                 various cloud services on hand and have it up and running in no time. Talk to
@@ -51,14 +51,14 @@
             <div class="col-12 col-md-8">
                 <div class="media-container-row">
                     <div class="media-content">
-                        <div class="mbr-section-text">
+                        <div class="mbr-section-text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7 text-justify">
                                <strong>Work Load Migration, Hybrid Cloud, API Management, IoT,Microsoft Office 365!</strong>
                                Your place to create, communicate, collaborate, and get great work done.
                             </p>
                         </div>
                     </div>
-                    <div class="mbr-figure" style="width: 60%;">
+                    <div class="mbr-figure" style="width: 60%;" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                      <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">  
                     </div>
                 </div>
@@ -73,7 +73,7 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="row col-12 col-md-12">
+            <div class="row col-12 col-md-12" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                 <div class="col-12 col-md-4 pr-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
                     <strong>Microsoft Azure</strong>
                     Freedom to build, manage, and deploy applications on a massive, global network using your favorite tools and frameworks.
