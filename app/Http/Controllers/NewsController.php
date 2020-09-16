@@ -53,7 +53,6 @@ class NewsController extends Controller
 
         if($request->isMethod('post')){
             $data = $request->all();
-          
             //upload image code
             if($request->hasFile('image')){
                 $image_tmp = $request->file('image');
