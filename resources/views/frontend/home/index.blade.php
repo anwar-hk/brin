@@ -8,13 +8,13 @@
     <!-- Background Layers -->
     <div class="background-layers">
         <div class="cws-triangle-overlay"></div>
-        <div class="cws-image-bg" style="background-image: url(images/bgImages/home6.jpg)"></div>
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs2.jpg)"></div>
     </div>
     <div class="auto-container">
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="sec-title">
-                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME</h2>
+                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME</h2>
                     <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay:1000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus.</div>
                 </div>
 
@@ -91,7 +91,7 @@
                     <div class="inner-box" id="cctv">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                             <figure class="image"><img src="images/home_service_images/smarthome4.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 600;">
                             <h4><a href="#cctv">Outdoor CCTV</a></h4>
@@ -106,7 +106,7 @@
                     <div class="inner-box" id="wifi">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 700;">
                             <figure class="image"><img src="images/home_service_images/smarthome5.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 800;"> 
                             <h4><a href="#wifi">Wi-Fi Setup</a></h4>
@@ -120,7 +120,7 @@
                     <div class="inner-box" id="security">
                         <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 800;">
                             <figure class="image"><img src="images/home_service_images/smarthome6.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 900;">
                             <h4><a href="#">Security</a></h4>
@@ -135,7 +135,7 @@
                     <div class="inner-box" id="temperature controller">
                         <div class="image-box">
                             <figure class="image"><img src="images/home_service_images/smarthome3.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Temperature Controller</a></h4>
@@ -150,7 +150,7 @@
                     <div class="inner-box">
                         <div class="image-box" id="motion sensor">
                             <figure class="image"><img src="images/home_service_images/smarthome8.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Motion Sensor</a></h4>
@@ -165,7 +165,7 @@
                     <div class="inner-box" id="heating plan">
                         <div class="image-box">
                             <figure class="image"><img src="images/home_service_images/smarthome9.jpg" alt=""></figure>
-                            <div class="overlay"><a href="contact"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
+                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Heating Plan</a></h4>
@@ -180,75 +180,6 @@
 </section>
 <!--End Portfolio Section -->
 
-<!-- Services Section -->
-<section class="services-section">
-    <div class="cws-background-image" style="background-image: url(https://via.placeholder.com/1920x800)"></div>
-
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <h2 uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 400;">INTELLIGENT AUTOMATION</h2>
-        </div>
-
-        <div class="row">
-            <!-- Service Block -->
-            <div class="service-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 600;">
-                        <div class="icon-box"><span class="icon flaticon-alarm"></span></div>
-                        <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
-                        <div class="overlay" >
-                            <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
-                        </div>
-                    </div>
-                    <div class="lower-content">
-                        <h4 uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1200;">Movement</h4>
-                        <div class="text" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 1300;">Ligula mus mi, vitae pharetra urna. Nunc consectetuer fermentum proin pede metus faucibus  magna eget.</div>
-                        <div class="btn-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 1500;"><a href="#" class="theme-btn btn-style-two">Explore</a></div>
-                    </div>
-                </div>
-            </div>
-
-
-            <!-- Service Block -->
-            <div class="service-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 800;">
-                        <div class="icon-box"><span class="icon flaticon-plug-2"></span></div>
-                        <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
-                        <div class="overlay">
-                            <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
-                        </div>
-                    </div>
-                    <div class="lower-content">
-                        <h4 uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1400;">Temperature</h4>
-                        <div class="text" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 1500;">Ligula mus mi, vitae pharetra urna. Nunc consectetuer fermentum proin pede metus faucibus  magna eget.</div>
-                        <div class="btn-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 1800;"><a href="#" class="theme-btn btn-style-two">Explore</a></div>
-                    </div>
-                </div>
-            </div>
-
-
-            <!-- Service Block -->
-            <div class="service-block col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1000;">
-                        <div class="icon-box"><span class="icon flaticon-unlocked"></span></div>
-                        <figure class="image"><img src="https://via.placeholder.com/1920x1080" alt=""></figure>
-                        <div class="overlay">
-                            <div class="desc">Et quam neque ultricies. Ornare donec quis sociis wisi ut nunc, vestibulum diam cras.</div>
-                        </div>
-                    </div>
-                    <div class="lower-content">
-                        <h4 uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 1800;">Door Contacts</h4>
-                        <div class="text" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 2000;">Ligula mus mi, vitae pharetra urna. Nunc consectetuer fermentum proin pede metus faucibus  magna eget.</div>
-                        <div class="btn-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 2100;"><a href="#" class="theme-btn btn-style-two">Explore</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--End Services Section -->
 
 <!-- Callback Section -->
 <section class="callback-section">

@@ -20,13 +20,13 @@
 <section class="features3 cid-qv5zpNUHGr" id="features17-1k" data-rv-view="1434">
  
     <div class="container">
-        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center" >
+        <h3 class="mbr-section-subtitle pb-3 mbr-fonts-style display-5 text-center" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
             IT Outsourcing & Management Services
         </h3>
     </div>
     <div class="container">
         <div class="media-container-row">
-            <div class="mbr-text counter-container col-12 mbr-fonts-style display-7">
+            <div class="mbr-text counter-container col-12 mbr-fonts-style display-7" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                 <p style="text-align: justify">There are thousands of companies that don’t have the time to manage the IT Maintenance work.
                      If you are one of those who want to improve their productivity, contact Systems Integrator
                       for IT Outsource Maintenance Services. Our experienced staff will address all the IT
@@ -43,10 +43,10 @@
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             24/7 Availability
                         </h4>
@@ -60,10 +60,10 @@
 
             <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Partnering with the IT Folks
                         </h4>
@@ -77,10 +77,10 @@
 
             <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/04.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Enhanced Performance
                         </h4>
@@ -92,10 +92,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Strategic Planning
                         </h4>
@@ -108,10 +108,10 @@
 
             <div class="card p-3 col-12 col-md-6 my-col uk-box-shadow-hover-xlarge">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Risk-Free Environment.
                         </h4>

@@ -20,19 +20,19 @@
 <section class="features18 popup-btn-cards cid-qv5zxjVECw" id="features18-1z" data-rv-view="1485">
 
     <div class="container">
-        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
             IT Products Supply & Installation
         </h2>
-        <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light">
+        <h3 class="mbr-section-subtitle display-5 align-center mbr-fonts-style mbr-light" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
             In browser you will see buttons when hover on cards
         </h3>
         <div class="media-container-row pt-5 ">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             No Coding
                         </h4>
@@ -44,10 +44,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             Mobile Friendly
                         </h4>
@@ -60,10 +60,10 @@
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             Unique Styles
                         </h4>
@@ -80,10 +80,10 @@
         <div class="media-container-row pt-5 ">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             No Coding
                         </h4>
@@ -95,10 +95,10 @@
             </div>
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             Mobile Friendly
                         </h4>
@@ -111,10 +111,10 @@
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
-                    <div class="card-img">
+                    <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
                     </div>
-                    <div class="card-box">
+                    <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
                             Unique Styles
                         </h4>

@@ -25,7 +25,7 @@
                 <div class="card-img pb-3">
                     <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
                 </div>
-                <div class="card-box">
+                <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         IT Infrastructure Services
                     </h4>
@@ -45,7 +45,7 @@
                 <div class="card-img pb-3">
                     <span class="mbri-touch mbr-iconfont" media-simple="true"></span>
                 </div>
-                <div class="card-box">
+                <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         Server Infrastructure
                     </h4>
@@ -62,7 +62,7 @@
                 <div class="card-img pb-3">
                     <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
                 </div>
-                <div class="card-box">
+                <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         Network Infrastructure
                     </h4>
