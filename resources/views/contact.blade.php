@@ -19,57 +19,6 @@
     </section>
     <!--End Page Title-->
 
-    <!-- Features Section Six  -->
-    <section class="feaures-section-six ">
-        <!-- Background Layers -->
-        <div class="background-layers">
-            <div class="cws-image-bg"></div>
-        </div>
-        <div class="auto-container pt-4" >
-            <div class="row">
-                <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-shopping-cart-2"></span>
-                        </div>
-                        <h4>Orders</h4>
-                    </div>
-                </div>
-
-                <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-browser-2"></span>
-                        </div>
-                        <h4>Your Project</h4>
-                    </div>
-                </div>
-
-                <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-headset-2"></span>
-                        </div>
-                        <h4>Support</h4>
-                    </div>
-                </div>
-
-                <!-- Feature BLock Nine -->
-                <div class="feature-block-nine col-lg-3 col-md-6 col-sm-12 animate__animated animate__flipInY animate__delay-2s">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-devices-1"></span>
-                        </div>
-                        <h4>Become a Partner</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End Features Section Six -->
 
     <!-- Contact Map Section -->
     <section class="contact-map-section">

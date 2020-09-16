@@ -33,7 +33,7 @@
                                 </ul>
                             </li>
                             <li><a href="news"><span>news</span> </a></li>
-                            <li><a href="contact"><span>carrers</span> </a></li>
+                            <li><a href="career"><span>careers</span> </a></li>
                             <li><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>

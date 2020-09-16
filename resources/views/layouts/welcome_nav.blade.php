@@ -25,7 +25,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About</span> </a></li>
-                                <li><a href="correre" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
+                                <li><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
                                 <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
                                 <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contacts Us</span></a></li>
                             </ul>
