@@ -28,7 +28,7 @@
     </div>
     <div class="container align-left">
         <div class="media-container-column mbr-white col-md-12">
-            <h3 class="mbr-section-subtitle py-3 mbr-fonts-style display-5"><span style="font-style: normal;">ERROR PAGE TEMPLATE</span></h3>
+            <h3 class="mbr-section-subtitle py-3 mbr-fonts-style display-5"><span style="font-style: normal;">ERROR !</span></h3>
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1">Oops! Something went wrong...</h1>
             <p class="mbr-text py-3 mbr-fonts-style display-5">The page you're looking for is not available. Please check the URL.</p>
             <div class="mbr-section-btn py-4"><a class="btn btn-md btn-white display-4" onclick='goBack()'>BACK TO SITE</a></div>

@@ -9442,7 +9442,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .blog-section{
 	position: relative;
-	padding: 100px 0 100px;
+	padding: 100px 0 20px;
 	margin-top: -60px;
 }
 

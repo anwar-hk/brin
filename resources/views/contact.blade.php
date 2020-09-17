@@ -20,7 +20,7 @@
     <!--End Page Title-->
 
     <!-- Features Section Six  -->
-    <section class="feaures-section-six ">
+    {{-- <section class="feaures-section-six ">
         <!-- Background Layers -->
         <div class="background-layers">
             <div class="cws-image-bg"></div>
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--End Features Section Six -->
 
     <!-- Contact Map Section -->

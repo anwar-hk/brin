@@ -40,7 +40,7 @@ class OfficecController extends Controller
     }
     // news 
     public function viewNews(Request $request){
-        $news = News::get();
+        $news = News::paginate(5);
         foreach($news as $url ){
             $link = "http://$url->url";
             $url->link = $link;

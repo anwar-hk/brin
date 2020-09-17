@@ -63,24 +63,45 @@
 
                     <!-- LAYER NR. 4 -->
                         <a href="it_security">
-                            <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
-                                id="slide-1-layer-36"
-                                data-x="center" data-hoffset="0" 
-                                data-y="center" data-voffset="140"
-                                data-width="['auto']"
-                                data-height="['auto']"  
-                                data-type="button" 
-                                data-responsive_offset="on" 
-                                data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']"
-                                data-paddingtop="[20,20,20,20]"
-                                data-paddingright="[50,50,50,50]"
-                                data-paddingbottom="[20,20,20,20]"
-                                data-paddingleft="[50,50,50,50]"
-                                style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgb(0, 0, 0);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
-                                IT SECURITY 
-                            </div>
-                        </a>
+                           
+                                <div class="tp-caption rev-btn rev-size1 tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
+                                    id="slide-1-layer-36" 
+                                    data-x="" data-hoffset="" 
+                                    data-y="" data-voffset=""
+                                    data-width="['auto']"
+                                    data-height="['auto']"  
+                                    data-type="button" 
+                                    data-responsive_offset="on" 
+                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:0.6;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
+                                    data-textAlign="['inherit','inherit','inherit','inherit']"
+                                    data-paddingtop="[20,20,20,20]"
+                                    data-paddingright="[50,50,50,50]"
+                                    data-paddingbottom="[20,20,20,20]"
+                                    data-paddingleft="[50,50,50,50]"
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgb(17, 17, 17);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
+                                    Read More... 
+                                </div>
+                            </a> 
+                            <a href="contact">
+                                <div class="tp-caption rev-size02 rev-btn tp-resizeme animate__animated animate__fadeInBottomRight animate__delay-1s" 
+                                    id="slide-1-layer-36" 
+                                    data-x="center" data-hoffset="" 
+                                    data-y="center" data-voffset=""
+                                    data-width="['auto']"
+                                    data-height="['auto']"  
+                                    data-type="button" 
+                                    data-responsive_offset="on" 
+                                    data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"nothing"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(9,175,247);bg:rgba(255,255,255,1);"}]'
+                                    data-textAlign="['inherit','inherit','inherit','inherit']"
+                                    data-paddingtop="[20,20,20,20]"
+                                    data-paddingright="[50,50,50,50]"
+                                    data-paddingbottom="[20,20,20,20]"
+                                    data-paddingleft="[50,50,50,50]"
+                                    style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgba(255,108,58,1);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
+                                    Contact Us 
+                                </div>
+                                
+                            </a>
                     </li>
 
                     <!-- SLIDE  -->
@@ -242,6 +263,7 @@
                             MANAGED IT SUPPORT 
                         </div>
                     </a>
+                    
                 </li>
 
                 <!-- SLIDE  -->
@@ -284,6 +306,7 @@
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
                         style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;"> Solutions on Office Network</div>
+                        
 
                     <!-- LAYER NR. 15 -->
                     <div class="tp-caption   tp-resizeme" 

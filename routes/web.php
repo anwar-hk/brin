@@ -55,6 +55,7 @@ Route::get('/admin/view-contact','OfficecController@viewContact')->name('contact
 /* =================  admin routes  ================= */
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
 Route::match(['get','post'],'/admin', 'AdminController@login'); 
+Route::match(['get','post'],'admin/login', 'AdminController@login'); 
 
 Route::group(['middleware' => ['auth']],function(){
     Route::get('/admin/dashboard', 'AdminController@dashboard');
