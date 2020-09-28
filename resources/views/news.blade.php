@@ -45,12 +45,8 @@
            
             @endforeach
             <!-- Styled Pagination -->
-            <div class="styled-pagination text-center">
-                <ul class="clearfix">
-                    <li><a href="#"><span class="active">1</span></a></li>
-                    <li><a href="#"><span>2</span></a></li>
-                    <li><a class="next" href="#"><span>NEXT</span></a></li>
-                </ul>
+            <div style="text-align: center">
+                 {{ $news->links() }}
             </div>
         </div>
     </section>

@@ -183,7 +183,7 @@
 
 <!-- Callback Section -->
 <section class="callback-section">
-    <div class="cws-background-image" style="background-image: url(https://via.placeholder.com/1920x800)"></div>
+    <div class="cws-background-image" style="background-image: url(images/home_service_images/contact-us.jpg)"></div>
     <div class="auto-container">
         <div class="row">
             <div class="col-lg-6 col-md-12">
