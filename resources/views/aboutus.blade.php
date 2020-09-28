@@ -8,10 +8,7 @@
 
         <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
             <h1>About Us</h1>
-            <ul class="page-breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li>About Us</li>
-            </ul>
+           
         </div>
     </section>
     <!--End Page Title-->
@@ -53,9 +50,7 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <h2 uk-scrollspy="cls: uk-animation-slide-top; delay:500;">OUR MISSION</h2>
-                <div class="text text-justify" uk-scrollspy="cls: uk-animation-slide-bottom; delay:900;">Better service, faster delivery, with less cost. At BRIN Tech Solutions, we strive to help our customers succeed. We provide the best in-class and reliable IT based
-                    solutions for our customers, while ensuring a high quality of service and customer satisfaction is maintained. We have
-                    all the technical expertise and best managed team required to provide nothing but the best for our customers.</div>
+                <div class="text text-justify" uk-scrollspy="cls: uk-animation-slide-bottom; delay:900;">Better service, faster delivery, with less cost. At BRIN Tech Solutions, we strive to help our customers succeed. We provide the best in-class and reliable IT based solutions for our customers, while ensuring a high quality of service and customer satisfaction is maintained. We have all the technical expertise and best managed team required to provide the best services for our customers.</div>
             </div>
             <div class="sec-title text-center">
                 <h2 uk-scrollspy="cls: uk-animation-slide-left; delay:500;">OUR VISION</h2>

@@ -188,8 +188,8 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="sec-title">
-                    <h3 uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">Make Smart Home Project</h3>
-                    <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 700;">We’re here to answer any questions you might have about living in a Smart Home. We can also help you find an Ingenious partner in your area.</div>
+                    <h3 uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">Contact us for your Home Solutions</h3>
+                    <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 700;">We’re here to answer any questions you might have about IT based Solutions.</div>
                 </div>
 
                 <div class="default-form callback-form" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 900;">
