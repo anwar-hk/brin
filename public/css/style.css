@@ -3880,8 +3880,8 @@ hr{
 
 .page-title h1{
 	position:relative;
-    font-size: 72px;
-    font-weight: 800;
+    font-size: 48px;
+    font-weight: 600;
     text-transform: uppercase;
     color: #fff;	
 }
@@ -9443,7 +9443,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .blog-section{
 	position: relative;
-	padding: 100px 0 20px;
+	padding: 100px 0 100px;
 	margin-top: -60px;
 }
 

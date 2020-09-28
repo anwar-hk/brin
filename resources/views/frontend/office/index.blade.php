@@ -23,7 +23,7 @@
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style align-center display-5">Years of Experience</h4>
                         <p class="mbr-text mbr-fonts-style align-center display-7 text-left">
-                            10 over years of experience in IT Services and Projects and still counting.</p>
+                            Years of experience in IT Services and Projects and still counting.</p>
                     </div>
                 </div>
             </div>
