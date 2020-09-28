@@ -13,7 +13,7 @@
             <h1>Contact Us</h1>
             <ul class="page-breadcrumb">
                 <li><a href="homeservices">Home</a></li>
-                <li>Contacts</li>
+                <li>Contact</li>
             </ul>
         </div>
     </section>
