@@ -9,10 +9,6 @@
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
         <h1>Manage It Supports</h1>
-        <ul class="page-breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li>Manage It Supports</li>
-        </ul>
     </div>
 </section>
 <section class="features11 cid-qv5zsnKdrj" id="features11-1t" data-rv-view="1461">

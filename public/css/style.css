@@ -2349,7 +2349,8 @@ hr{
 	position: relative;
 	z-index: 9;
 	padding: 22px 20px;
-	max-width: 184px;
+	max-width: 140px;
+	padding-left:0;
 }
 
 .main-header .menu-box{
@@ -3291,7 +3292,7 @@ hr{
     position: relative;
     float: left;
     margin: 0;
-    padding: 0;
+    padding-top: 25px;
     left: 0;
     display: flex;
     align-items: center;
@@ -10324,7 +10325,9 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 }
 
 /*=== Contact Widget ===*/
-
+.contact-list{
+	padding:0;
+}
 .contact-widget{
 	position: relative;
 }

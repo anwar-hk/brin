@@ -63,12 +63,12 @@ var resize = function () {
         // icone
         mySlider.data('hoffset', '70');
         mySlider.data('voffset', '170');
-        mySlider.data('x', '800');
+        mySlider.data('x', '780');
         mySlider.data('y', '375');
         // button
         mySlider1.data('x', 'center');
         mySlider1.data('y', 'center');
-        mySlider1.data('hoffset', '-130');
+        mySlider1.data('hoffset', '-150');
         mySlider1.data('voffset', '100');
 
         // home

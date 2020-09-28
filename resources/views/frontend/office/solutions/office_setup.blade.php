@@ -9,10 +9,6 @@
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
         <h1>OFFICE IT SETUP SERVICES</h1>
-        <ul class="page-breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li>OFFICE IT SETUP SERVICES</li>
-        </ul>
     </div>
 </section>
 <section class="features12 cid-qv5zsKiXqs " id="features12-1u" data-rv-view="1464">

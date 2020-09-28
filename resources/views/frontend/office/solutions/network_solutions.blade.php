@@ -9,10 +9,7 @@
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
         <h1>NETWORK SOLUTIONS </h1>
-        <ul class="page-breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li>NETWORK SOLUTIONS </li>
-        </ul>
+        
     </div>
 </section>
 

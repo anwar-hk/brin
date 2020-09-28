@@ -9,10 +9,6 @@
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
         <h1>IT Products Supply & Installation</h1>
-        <ul class="page-breadcrumb">
-            <li><a href="/">Home</a></li>
-            <li>IT Products Supply & Installation</li>
-        </ul>
     </div>
 </section>
 

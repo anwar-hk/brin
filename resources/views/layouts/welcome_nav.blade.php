@@ -20,14 +20,14 @@
                                 <li class="dropdown animate__animated animate__bounceInDown animate__delay-1s">
                                     <a href=""><span class="">Services</span></a>
                                     <ul>
-                                        <li><a href="homeservices">Home Services</a></li>
-                                        <li><a href="officeservices">Office Services</a></li>
+                                        <li><a href="homeservices">Home Solutions</a></li>
+                                        <li><a href="officeservices">Office Solutions</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About</span> </a></li>
                                 <li><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
                                 <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
-                                <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contacts Us</span></a></li>
+                                <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contact Us</span></a></li>
                             </ul>
                         </div>
                     </nav>

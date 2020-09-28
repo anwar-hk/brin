@@ -8,10 +8,6 @@
 
         <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
             <h1>About Us</h1>
-            <ul class="page-breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li>About Us</li>
-            </ul>
         </div>
     </section>
     <!--End Page Title-->
@@ -147,7 +143,6 @@
     </section>
     <!-- End Our Mission -->
 
-    
     <!-- Our Passion -->
     <section class="our-passion">
         <!-- Background Layers -->
