@@ -94,7 +94,7 @@
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 600;">
-                            <h4><a href="#cctv">Outdoor CCTV</a></h4>
+                            <h4><a href="#cctv">Surevieliene</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
@@ -115,6 +115,7 @@
                         </div>
                     </div>
                 </div>
+
                 <!-- Portfolio Block -->
                 <div class="portfolio-block">
                     <div class="inner-box" id="security">
@@ -134,46 +135,17 @@
                 <div class="portfolio-block">
                     <div class="inner-box" id="temperature controller">
                         <div class="image-box">
-                            <figure class="image"><img src="images/home_service_images/smarthome3.jpg" alt=""></figure>
+                            <figure class="image"><img src="images/home_service_images/smarthome7.jpg" alt=""></figure>
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content">
-                            <h4><a href="#">Temperature Controller</a></h4>
+                            <h4><a href="#">Intercom</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Portfolio Block -->
-                <div class="portfolio-block">
-                    <div class="inner-box">
-                        <div class="image-box" id="motion sensor">
-                            <figure class="image"><img src="images/home_service_images/smarthome8.jpg" alt=""></figure>
-                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
-                        </div>
-                        <div class="lower-content">
-                            <h4><a href="#">Motion Sensor</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Portfolio Block -->
-                <div class="portfolio-block">
-                    <div class="inner-box" id="heating plan">
-                        <div class="image-box">
-                            <figure class="image"><img src="images/home_service_images/smarthome9.jpg" alt=""></figure>
-                            <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
-                        </div>
-                        <div class="lower-content">
-                            <h4><a href="#">Heating Plan</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
