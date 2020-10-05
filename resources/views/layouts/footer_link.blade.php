@@ -9,7 +9,7 @@
                         <h4 class="widget-title">BRIN Tech Solutions</h4>
                         <div class="widget-content" >
                             <div class="text">  
-                                We are here to ensure a complete network setup solution that is well suited and beneficial to your organization. (..??)</div>
+                                We are here to ensure the complete IT Solution <br> which is well suited and beneficial for your organization.</div>
                         </div>
                     </div>
                 </div>
