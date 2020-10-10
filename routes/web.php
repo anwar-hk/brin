@@ -27,8 +27,8 @@ Route::get('homeservices', function () {
     return view('frontend.home.index');
 });
 
-Route::get('career', function () {
-    return view('career');
+Route::get('officeservices', function () {
+    return view('frontend.office.index');
 });
 
 Route::get('contact', function () {
@@ -38,8 +38,9 @@ Route::get('about', function () {
     return view('aboutus');
 });
 
-Route::get('careers', function () {
-    return view('careers');
+
+Route::get('career', function () {
+    return view('career');
 });
 /* =================  fronted routes  ================= */
 // officeservices
