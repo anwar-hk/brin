@@ -42,7 +42,7 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Create The Best Smart Home </div>
+                        style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Create The Best Smart Home </div>
 
                     <!-- LAYER NR. 3 -->
                     <div class="tp-caption   tp-resizeme" 
@@ -122,7 +122,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Equipment on a Smart Home Security </div>
+                            style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Equipment on a Smart Home Security </div>
 
                         <!-- LAYER NR. 7 -->
                         <div class="tp-caption   tp-resizeme" 
@@ -202,7 +202,7 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
+                            style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
 
                         <!-- LAYER NR. 11 -->
                         <div class="tp-caption   tp-resizeme" 
