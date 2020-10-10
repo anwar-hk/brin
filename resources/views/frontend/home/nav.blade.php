@@ -30,7 +30,7 @@
                             </li>
                             <li><a href="about"><span>About</span>  </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
-                            <li><a href="contact"><span>Contacts</span>  </a></li>
+                            <li><a href="contact"><span>Contact us</span>  </a></li>
                             <li><a href="news"><span>News</span>  </a></li>
                             <li><a href="careers"><span>Careers</span>  </a></li>
                         </ul>

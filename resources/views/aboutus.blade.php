@@ -1,4 +1,7 @@
 @include('layouts/header_link')
+@php
+    
+@endphp
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">

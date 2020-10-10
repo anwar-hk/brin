@@ -23,9 +23,12 @@ Route::get('/', function () {
 Route::get('homeservices', function () {
     return view('frontend.home.index');
 });
+Route::get('homeservices', function () {
+    return view('frontend.home.index');
+});
 
-Route::get('officeservices', function () {
-    return view('frontend.office.index');
+Route::get('career', function () {
+    return view('career');
 });
 
 Route::get('contact', function () {
@@ -34,7 +37,6 @@ Route::get('contact', function () {
 Route::get('about', function () {
     return view('aboutus');
 });
-
 
 Route::get('careers', function () {
     return view('careers');
@@ -50,9 +52,10 @@ Route::get('/cloud_computing_servives', 'OfficecController@cloudComputingServive
 Route::get('/it_products_supply_installation', 'OfficecController@itProductSupply')->name('home') ;
 Route::get('/news', 'OfficecController@viewNews');
 Route::match(['GET','POST'],'/add_contact','OfficecController@addContact');
-Route::get('/admin/view-contact','OfficecController@viewContact')->name('contact-view');
+
 
 /* =================  admin routes  ================= */
+Route::get('/admin/view-contact','OfficecController@viewContact')->name('contact-view');
 Route::match(['GET','POST'],'/check-email','UsersController@checkEmail');
 Route::match(['get','post'],'/admin', 'AdminController@login'); 
 Route::match(['get','post'],'admin/login', 'AdminController@login'); 
