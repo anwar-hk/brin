@@ -5,6 +5,7 @@
         <div class="menu-box">
             <div class="logo">
                 <a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                 </a>
             </div>
             <!--Nav Box-->
@@ -48,7 +49,8 @@
         <div class="outer-box">
             <!--Logo-->
             <div class="logo">
-                <a href="officeservices" title="Sticky Logo"><img src="images/logo.png" alt="Sticky Logo"></a>
+                <a href="officeservices" title="Sticky Logo"><img src="images/logo.png" alt="Sticky Logo">
+                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a>
             </div>
 
             <!--Nav Outer-->
@@ -63,7 +65,8 @@
 
     <!-- Mobile Header -->
     <div class="mobile-header">
-        <div class="logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
+        <div class="logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+            <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a></div>
 
         <!--Nav Box-->
         <div class="nav-outer clearfix">
@@ -74,7 +77,8 @@
     <!-- Mobile Menu  -->
     <div class="mobile-menu">            
         <nav class="menu-box">
-            <div class="nav-logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div> 
+            <div class="nav-logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a></div> 
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         </nav>
     </div><!-- End Mobile Menu -->

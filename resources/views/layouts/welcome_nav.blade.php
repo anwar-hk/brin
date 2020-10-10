@@ -3,9 +3,10 @@
         <!-- Main box -->
         <div class="main-box">
             <div class="menu-box">
-                <div class="logo animate__animated animate__backInLeft animate__delay-1s">
+                <div class="logo animate__animated animate__backInLeft animate__delay-1s" >
                     <a href="/">
                         <img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                        <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                     </a>
                 </div>
                 <!--Nav Box-->
@@ -25,9 +26,9 @@
                                     </ul>
                                 </li>
                                 <li><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About</span> </a></li>
-                                <li><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
-                                <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
                                 <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contact Us</span></a></li>
+                                <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
+                                <li><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
                             </ul>
                         </div>
                     </nav>
@@ -40,7 +41,10 @@
             <div class="outer-box">
                 <!--Logo-->
                 <div class="logo">
-                    <a href="#" title="Brin Tech Logo"><img src="images/logo.png" alt="Brin Tech Logo"></a>
+                    <a href="#" title="Brin Tech Logo"><img src="images/logo.png" alt="Brin Tech Logo">
+                        <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                        </a>
+                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                 </div>
 
                 <!--Nav Outer-->
@@ -55,7 +59,8 @@
 
         <!-- Mobile Header -->
         <div class="mobile-header">
-            <div class="logo"><a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a></div>
+            <div class="logo"><a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x"></a>
+            </div>
 
             <!--Nav Box-->
             <div class="nav-outer clearfix">

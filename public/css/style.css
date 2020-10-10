@@ -2348,8 +2348,8 @@ hr{
 .main-header .logo{
 	position: relative;
 	z-index: 9;
-	padding: 22px 20px;
-	max-width: 140px;
+	padding: 15px 10px;
+	max-width: 145px;
 	padding-left:0;
 }
 
@@ -2377,6 +2377,7 @@ hr{
 }
 
 .main-menu .navigation > li{
+	vertical-align:center ;
 	position:relative;
 	display: inline-block;
 	padding: 20px 0;
@@ -3292,13 +3293,13 @@ hr{
     position: relative;
     float: left;
     margin: 0;
-    padding-top: 25px;
+    padding-top: 38px;
     left: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     vertical-align: middle;
-    height: 38px;
+    height: 30px;
 }
 
 .mobile-header .nav-outer{
@@ -5377,7 +5378,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 .installation-service .cws-image-bg .cws-triangle-overlay{
     clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
     -webkit-clip-path: polygon( 100% 0, 50% 60px, 50% calc(100% - 60px), 100% 100% );
-    background: linear-gradient(145deg, #333843, #323541);
+    background: linear-gradient(145deg, #060d1b, #323541);
 }
 
 .installation-service .content-column{
@@ -7402,7 +7403,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 	background: rgb(253,253,253);
 	background: -moz-linear-gradient(-45deg,  rgba(253,253,253,1) 0%, rgba(249,248,248,1) 100%);
 	background: -webkit-linear-gradient(-45deg,  rgba(253,253,253,1) 0%,rgba(249,248,248,1) 100%);
-	background: linear-gradient(135deg,  rgba(253,253,253,1) 0%,rgba(249,248,248,1) 100%);
+	background: linear-gradient(135deg,  rgb(31, 26, 26) 0%,rgba(249,248,248,1) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f9f8f8',GradientType=1 );
 	border:3px solid #000;
 	border-radius: 50%;
