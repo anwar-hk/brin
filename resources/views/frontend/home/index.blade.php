@@ -94,7 +94,7 @@
                             <div class="overlay"><a href="#"><span class="icon fa fa-expand-arrows-alt"></span></a></div>
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 600;">
-                            <h4><a href="#cctv">Surevieliene</a></h4>
+                            <h4><a href="#cctv">Surveillance</a></h4>
                             <div class="cat"><a href="#">Alarm</a></div>
                             <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
