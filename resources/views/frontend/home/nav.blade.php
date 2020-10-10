@@ -18,12 +18,10 @@
                             <li class="dropdown">
                                 <a href="#"><span>Services</span> </a>
                                 <ul>
-                                    <li><a href="#cctv"><span>CCTV</span> </a></li>
-                                    <li><a href="#wifi"><span>WiFi</span> </a></li>
+                                    <li><a href="#cctv"><span>Surveillance</span> </a></li>
+                                    <li><a href="#wifi"><span>Wi-Fi Setup</span> </a></li>
                                     <li><a href="#wifi"><span>Security</span> </a></li>
-                                    <li><a href="#wifi"><span>Temperature Controller</span> </a></li>
-                                    <li><a href="#wifi"><span>Motion Sensor</span> </a></li>
-                                    <li><a href="#wifi"><span>Heating plan</span> </a></li>
+                                    <li><a href="#wifi"><span>Intercom</span> </a></li>
                                     {{-- <li><a href="#homeAutomation"></a></li> --}}
                                     
                                 </ul>
