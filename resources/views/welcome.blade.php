@@ -1,4 +1,8 @@
 @include('layouts/header_link')
+@php
+    $currentPage="home";
+    $currentNav="home";
+@endphp
 @include('layouts/welcome_nav')
     <!--Main Slider-->
     <section class="main-slider " >

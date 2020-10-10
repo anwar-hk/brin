@@ -1,5 +1,9 @@
 @include('layouts.header_link')
 {{-- navbar --}}
+@php
+    $currentPage="homeservices";
+    $currentNav="homeservices";
+@endphp
 @include('frontend.home.nav')
 @include('frontend.home.home_slider')
 {{-- Main content --}}
