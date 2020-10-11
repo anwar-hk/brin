@@ -28,7 +28,7 @@
                                     <li class="{{ $currentPage == 'manage_it_support' ? 'current' : '' }}"><a href="manage_it_support">Managed IT Support</a></li>
                                     <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">Network Solutions </a></li>
                                     <li class="{{ $currentPage == 'it_product_supply' ? 'current' : '' }}"><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
-                                    <li class="{{ $currentPage == 'it_management_services' ? 'current' : '' }}"><a href="it_management_services">IT Outsourcing & Management Services</a></li>
+                                    <li class="{{ $currentPage == 'outsourcing_service' ? 'current' : '' }}"><a href="it_management_services">IT Outsourcing & Management Services</a></li>
                                     <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_services">Cloud Computing Services </a></li>
                                     
                                 </ul>
