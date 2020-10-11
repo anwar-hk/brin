@@ -1,7 +1,7 @@
 @include('layouts.header_link')
 {{-- navbar --}}
 @php
-    $currentPage="managed_it_support";
+    $currentPage="manage_it_support";
     $currentNav="office_solutions";
 @endphp
 @include('frontend.office.nav')
