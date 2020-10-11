@@ -29,7 +29,7 @@
         <link rel="stylesheet" href="assets/theme/css/style.css">
         <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
         <link rel="stylesheet" href="build/css/intlTelInput.css">
-        {{-- <link rel="stylesheet" href="build/css/demo.css"> --}}
+        <link rel="stylesheet" href="build/css/demo.css">
         <!-- Responsive -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">

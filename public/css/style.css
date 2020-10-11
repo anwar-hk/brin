@@ -12034,12 +12034,15 @@ a {
 /*  */
 .intl-tel-input {
 	display: table-cell;
+	/* -webkit-overflow-scrolling: touch; */
   }
   .intl-tel-input .selected-flag {
 	z-index: 4;
+	/* -webkit-overflow-scrolling: touch; */
   }
   .intl-tel-input .country-list {
 	z-index: 5;
+	overflow: scroll;
   }
   .input-group .intl-tel-input .form-control {
 	border-top-left-radius: 4px;
@@ -12049,4 +12052,5 @@ a {
   }
   section{
 	  background-color: #eeeeee !important;
+	  /* -webkit-overflow-scrolling: touch; */
   }

@@ -44,7 +44,7 @@
                     <a href="#" title="Brin Tech Logo"><img src="images/logo.png" alt="Brin Tech Logo">
                         <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                         </a>
-                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                   
                 </div>
 
                 <!--Nav Outer-->
