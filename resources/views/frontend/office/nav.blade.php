@@ -33,7 +33,7 @@
                                 </ul>
                             </li>
                             <li class="{{ $currentNav == 'news' ? 'current' : '' }}"><a href="news"><span>news</span> </a></li>
-                            <li class="{{ $currentNav == 'careers' ? 'current' : '' }}"><a href="careers"><span>careers</span> </a></li>
+                            <li class="{{ $currentNav == 'career' ? 'current' : '' }}"><a href="careers"><span>careers</span> </a></li>
                             <li class="{{ $currentNav == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>
