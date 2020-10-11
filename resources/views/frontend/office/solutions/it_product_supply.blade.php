@@ -7,7 +7,7 @@
 @include('frontend.office.nav')
 
 <section class="page-title">
-    <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider2.jpg)">
+    <div class="cws-image-bg" style="background-image: url(images/bgImages/bg-14.jpg)">
         <div class="cws-overlay-bg"></div>
     </div>
 
