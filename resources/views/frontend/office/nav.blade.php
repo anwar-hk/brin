@@ -14,13 +14,13 @@
                 <nav class="main-menu navbar-expand-md navbar-light pt-4" >
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li class="current ">
+                            <li class="">
                                 <a href="officeservices"><span>home</span></a>
                             </li>
                             <li class=" has-mega-menu">
                                 <a href="about"><span>about us</span></a>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown {{ $currentNav == 'office_solutions' ? 'current' : '' }}" >
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
                                     <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}"><a href="it_security">IT Security</a></li>
@@ -29,8 +29,7 @@
                                     <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">Network Solutions </a></li>
                                     <li class="{{ $currentPage == 'it_product_supply' ? 'current' : '' }}"><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
                                     <li class="{{ $currentPage == 'it_management_services' ? 'current' : '' }}"><a href="it_management_services">IT Outsourcing & Management Services</a></li>
-                                    <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_services">Cloud Computing Services </a></li>
-                                    
+                                    <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_servives">Cloud Computing Services </a></li>
                                 </ul>
                             </li>
                             <li class="{{ $currentNav == 'news' ? 'current' : '' }}"><a href="news"><span>news</span> </a></li>

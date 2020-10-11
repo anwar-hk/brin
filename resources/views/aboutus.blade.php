@@ -7,7 +7,7 @@
 <!--Page Title-->
     <section class="page-title">
         <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider2.jpg)">
-            <div class="cws-overlay-bg"></div>
+            {{--  <div class="cws-overlay-bg"></div>  --}}
         </div>
 
         <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">

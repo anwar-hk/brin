@@ -1,7 +1,7 @@
 @include('layouts/header_link')
 @php
-    $currentPage="home";
-    $currentNav="home";
+    $currentPage="welcome";
+    $currentNav="";
 @endphp
 @include('layouts/welcome_nav')
     <!--Main Slider-->
@@ -13,9 +13,8 @@
                     <!-- MAIN IMAGE -->
                     <video autoplay muted loop >
                         <source src="images/bgImages/video.mp4" type="video/mp4" alt="" title="Home"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                       
                             {{-- <img src="images/bgImages/video.mp4" type="video/mp4" > --}}
-                      </video>
+                    </video>
                     <!-- 1. LAYERS -->
                     <!--  SLIDE 1 -->
                     <div class="tp-caption" 

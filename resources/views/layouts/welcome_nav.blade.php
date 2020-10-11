@@ -15,7 +15,7 @@
                     <nav class="main-menu navbar-expand-md navbar-light">
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
-                                <li>
+                                <li class="{{$currentPage == 'welcome' ? 'current' : '' }}" >
                                     <a href="/"><span class="animate__animated animate__bounceInDown animate__delay-1s">Home</span></a>
                                 </li>
                                 <li class="dropdown animate__animated animate__bounceInDown animate__delay-1s">

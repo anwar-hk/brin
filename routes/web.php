@@ -72,12 +72,10 @@ Route::group(['middleware' => ['auth']],function(){
     Route::match(['get','post'],'/admin/edit-news/{id}','NewsController@editNews');
     // Route::get('/admin/delete-news-image/{id}','NewsController@deleteNewsImage');
     Route::match(['get','post'],'/admin/delete-news/{id}','NewsController@deleteNews');
-
     Route::match(['get','post'],'/admin/add-partners', 'PartnersController@addPartners');
     Route::get('/admin/view-partners', 'PartnersController@viewPartners');
     Route::match(['get','post'],'/admin/edit-partners/{id}','PartnersController@editPartners');
     Route::match(['get','post'],'/admin/delete-partners/{id}','PartnersController@deletePartners');
-
     Route::match(['get','post'],'/admin/add-product', 'ProductsController@addProduct');
     Route::match(['get','post'],'/admin/edit-product/{id}', 'ProductsController@editProduct');
     Route::get('/admin/view-products','ProductsController@viewProducts');
