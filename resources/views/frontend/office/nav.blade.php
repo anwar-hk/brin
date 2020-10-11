@@ -23,19 +23,19 @@
                             <li class="dropdown">
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li><a href="it_security">IT Security</a></li>
-                                    <li><a href="office_setup">Office IT setup Services</a></li>
-                                    <li><a href="manage_it_support">Managed IT Support</a></li>
-                                    <li><a href="network_solutions">Network Solutions </a></li>
-                                    <li><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
-                                    <li><a href="it_management_services">IT Outsourcing & Management Services</a></li>
-                                    <li><a href="cloud_computing_servives">Cloud Computing Services </a></li>
+                                    <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}"><a href="it_security">IT Security</a></li>
+                                    <li class="{{ $currentPage == 'office_setup' ? 'current' : '' }}"><a href="office_setup">Office IT setup Services</a></li>
+                                    <li class="{{ $currentPage == 'manage_it_support' ? 'current' : '' }}"><a href="manage_it_support">Managed IT Support</a></li>
+                                    <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">Network Solutions </a></li>
+                                    <li class="{{ $currentPage == 'it_product_supply' ? 'current' : '' }}"><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
+                                    <li class="{{ $currentPage == 'it_management_services' ? 'current' : '' }}"><a href="it_management_services">IT Outsourcing & Management Services</a></li>
+                                    <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_services">Cloud Computing Services </a></li>
                                     
                                 </ul>
                             </li>
-                            <li><a href="news"><span>news</span> </a></li>
-                            <li><a href="career"><span>careers</span> </a></li>
-                            <li><a href="contact"><span>Contacts</span> </a></li>
+                            <li class="{{ $currentNav == 'news' ? 'current' : '' }}"><a href="news"><span>news</span> </a></li>
+                            <li class="{{ $currentNav == 'careers' ? 'current' : '' }}"><a href="careers"><span>careers</span> </a></li>
+                            <li class="{{ $currentNav == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>
                 </nav>

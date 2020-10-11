@@ -25,10 +25,10 @@
                                         <li><a href="officeservices">Office Services</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About</span> </a></li>
-                                <li><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contact Us</span></a></li>
-                                <li><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
-                                <li><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
+                                <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About Us</span> </a></li>
+                                <li class="{{ $currentPage == 'contact' ? 'current' : '' }}"><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contact Us</span></a></li>
+                                <li class="{{ $currentPage == 'news' ? 'current' : '' }}"><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
+                                <li class="{{ $currentPage == 'career' ? 'current' : '' }}"><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>
                             </ul>
                         </div>
                     </nav>

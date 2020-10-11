@@ -12,7 +12,7 @@
                 <nav class="main-menu navbar-expand-md navbar-light">
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navigation clearfix">
-                            <li>
+                            <li class="{{ $currentNav == 'homeservices' ? 'current' : '' }}">
                                 <a href="/"><span>Home</span></a>
                             </li>
                             <li class="dropdown">
@@ -20,17 +20,17 @@
                                 <ul>
                                     <li><a href="#cctv"><span>Surveillance</span> </a></li>
                                     <li><a href="#wifi"><span>Wi-Fi Setup</span> </a></li>
-                                    <li><a href="#wifi"><span>Security</span> </a></li>
-                                    <li><a href="#wifi"><span>Intercom</span> </a></li>
+                                    <li><a href="#security"><span>Security</span> </a></li>
+                                    <li><a href="#intercom"><span>Intercom</span> </a></li>
                                     {{-- <li><a href="#homeAutomation"></a></li> --}}
                                     
                                 </ul>
                             </li>
-                            <li><a href="about"><span>About</span>  </a></li>
+                            <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about"><span>About</span>  </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
-                            <li><a href="contact"><span>Contact us</span>  </a></li>
-                            <li><a href="news"><span>News</span>  </a></li>
-                            <li><a href="careers"><span>Careers</span>  </a></li>
+                            <li class="{{ $currentPage == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contact us</span>  </a></li>
+                            <li class="{{ $currentPage == 'news' ? 'current' : '' }}"><a href="news"><span>News</span>  </a></li>
+                            <li class="{{ $currentPage == 'careers' ? 'current' : '' }}"><a href="careers"><span>Careers</span>  </a></li>
                         </ul>
                     </div>
                 </nav>

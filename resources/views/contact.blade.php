@@ -2,7 +2,7 @@
 {{-- navbar --}}
 @php
     $currentPage="contact";
-    $currentNav="contact";
+    $currentNav="";
 @endphp
 @include('layouts.welcome_nav')
 {{-- @include('frontend.home.home_slider') --}}

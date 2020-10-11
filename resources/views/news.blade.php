@@ -1,7 +1,7 @@
 @include('layouts/header_link')
 @php
     $currentPage="news";
-    $currentNav="news";
+    $currentNav="";
 @endphp
 @include('layouts/welcome_nav')
 <!--Page Title-->

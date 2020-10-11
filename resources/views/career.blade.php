@@ -1,4 +1,8 @@
 @include('layouts/header_link')
+@php
+    $currentPage="career";
+    $currentNav="";
+@endphp
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">
