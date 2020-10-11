@@ -5,7 +5,7 @@
         <div class="menu-box">
             <div class="logo">
                 <a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                    <p style="padding-left:6px; font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                 </a>
             </div>
             <!--Nav Box-->
@@ -33,7 +33,7 @@
                                 </ul>
                             </li>
                             <li class="{{ $currentNav == 'news' ? 'current' : '' }}"><a href="news"><span>news</span> </a></li>
-                            <li class="{{ $currentNav == 'career' ? 'current' : '' }}"><a href="careers"><span>careers</span> </a></li>
+                            <li class="{{ $currentNav == 'careers' ? 'current' : '' }}"><a href="career"><span>careers</span> </a></li>
                             <li class="{{ $currentNav == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contacts</span> </a></li>
                         </ul>
                     </div>
@@ -49,7 +49,7 @@
             <!--Logo-->
             <div class="logo">
                 <a href="officeservices" title="Sticky Logo"><img src="images/logo.png" alt="Sticky Logo">
-                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a>
+                    <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p></a>
             </div>
 
             <!--Nav Outer-->
@@ -65,7 +65,7 @@
     <!-- Mobile Header -->
     <div class="mobile-header">
         <div class="logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-            <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a></div>
+            <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p></a></div>
 
         <!--Nav Box-->
         <div class="nav-outer clearfix">
@@ -77,7 +77,7 @@
     <div class="mobile-menu">            
         <nav class="menu-box">
             <div class="nav-logo"><a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a></div> 
+                <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p></a></div> 
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
         </nav>
     </div><!-- End Mobile Menu -->
