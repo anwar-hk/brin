@@ -6,7 +6,7 @@
                 <div class="logo animate__animated animate__backInLeft animate__delay-1s" >
                     <a href="/">
                         <img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                        <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                        <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p>
                     </a>
                 </div>
                 <!--Nav Box-->
@@ -42,7 +42,7 @@
                 <!--Logo-->
                 <div class="logo">
                     <a href="#" title="Brin Tech Logo"><img src="images/logo.png" alt="Brin Tech Logo">
-                        <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                        <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p>
                         </a>
                    
                 </div>
