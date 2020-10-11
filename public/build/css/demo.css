@@ -1,6 +1,8 @@
 * {
   box-sizing: border-box;
-  -moz-box-sizing: border-box; }
+  -moz-box-sizing: border-box; 
+  touch-action: manipulation !important;
+}
 
 .iti__hide {
   display: none; }  
@@ -19,19 +21,25 @@ pre {
 
 input, button {
   height: 35px;
+  width: 100%;
   margin: 0;
-  padding: 6px 12px;
+  /* padding: 6px 12px; */
   border-radius: 2px;
   font-family: inherit;
   font-size: 100%;
-  color: inherit; }
+  color: inherit; 
+  /* -webkit-overflow-scrolling: touch; */
+  
+}
   input[disabled], button[disabled] {
     background-color: #eee; }
 
 input, select #phone {
   border: 1px solid #CCC;
   padding-left: 75px;
-  width: 100%; }
+  width: 100%; 
+ 
+}
 
 ::-webkit-input-placeholder {
   color: #BBB; }

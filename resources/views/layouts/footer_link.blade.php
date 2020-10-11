@@ -109,32 +109,40 @@
   var input = document.querySelector("#phone");
   window.intlTelInput(input, {
     // allowDropdown: false,
-    // autoHideDialCode: false,
+    autoHideDialCode: false,
     // autoPlaceholder: "off",
     // dropdownContainer: document.body,
     // excludeCountries: ["us"],
     // formatOnDisplay: false,
-    // geoIpLookup: function(callback) {
-    //   $.get("http://ipinfo.io", function() {}, "jsonp").always(function(resp) {
-    //     var countryCode = (resp && resp.country) ? resp.country : "";
-    //     callback(countryCode);
-    //   });
-    // },
+    geoIpLookup: function(callback) {
+      $.get("http://ipinfo.io", function() {}, "jsonp").always(function(resp) {
+        var countryCode = (resp && resp.country) ? resp.country : "";
+        callback(countryCode);
+      });
+    },
     // hiddenInput: "full_number",
     // initialCountry: "auto",
-    // localizedCountries: { 'de': 'Deutschland' },
+    localizedCountries: { 'de': 'Deutschland' },
     // nationalMode: false,
-    onlyCountries: ['ae', 'sa', 'qa', 'kw', 'om','bh', 'in' , 'za','cf'],
+    onlyCountries: ['ae','sa', 'qa', 'kw', 'om','bh', 'in' , 'za','cf', ],
     // placeholderNumberType: "MOBILE",
-    // preferredCountries: ['cn', 'jp'],
+    preferredCountries: ['ae'],
     separateDialCode: true,
     utilsScript: "build/js/utils.js",
+    
   });
+//   var selectField = input;
+//     selectField.addEventListener('touchstart' /*'mousedown'*/, function(e) {
+//     e.stopPropagation();
+//     }, false);
+  
 </script>
 <script>
     function onSubmit(token) {
       document.getElementById("demo-form").submit();
     }
+
+    
   </script>
 {{-- mobileser --}}
 </body>
