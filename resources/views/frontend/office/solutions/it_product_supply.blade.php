@@ -1,5 +1,9 @@
 @include('layouts.header_link')
 {{-- navbar --}}
+@php
+    $currentPage="it_product_supply";
+    $currentNav="office_solutions";
+@endphp
 @include('frontend.office.nav')
 
 <section class="page-title">

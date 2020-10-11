@@ -1,4 +1,8 @@
 @include('layouts/header_link')
+@php
+    $currentPage="news";
+    $currentNav="news";
+@endphp
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">

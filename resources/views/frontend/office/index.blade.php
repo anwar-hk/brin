@@ -1,5 +1,9 @@
 @include('layouts.header_link')
 {{-- navbar --}}
+@php
+    $currentPage="officeservices";
+    $currentNav="officeservices";
+@endphp
 @include('frontend.office.nav')
 @include('frontend.office.office_slider')
 {{-- Main content --}}
