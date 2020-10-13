@@ -41,18 +41,19 @@
                     <th>MOBILE</th>
                     <th>EMAIL</th>
                     <th>MESSAGE</th>
+                    <th>STATUS</th>
                   </tr>
                 </thead>
                 <tbody>
                 @foreach($contact as $c)
                   <tr class="gradeX text-center">
-                   
                     <td>{{ date_format($c->created_at, "d-m-yy") }}</td>
                     <td>{{ $c->name }}</td>
                     <td>{{ $c->company }}</td>
                     <td>{{ $c->mobile }}</td>
                     <td>{{ $c->email }}</td>
                     <td>{{ $c->message }}</td>           
+                    <td>{{ $c->status }}</td>           
                 </tr>
                 @endforeach
                 </tbody>

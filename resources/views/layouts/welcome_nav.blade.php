@@ -26,6 +26,7 @@
                                     </ul>
                                 </li>
                                 <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About Us</span> </a></li>
+                                <li class="{{ $currentPage == 'partner' ? 'current' : '' }}"><a href="partner" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Partners</span> </a></li>
                                 <li class="{{ $currentPage == 'contact' ? 'current' : '' }}"><a href="contact" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Contact Us</span></a></li>
                                 <li class="{{ $currentPage == 'news' ? 'current' : '' }}"><a href="news" class="animate__animated animate__bounceInDown animate__delay-1s" ><span>News</span> </a></li>
                                 <li class="{{ $currentPage == 'career' ? 'current' : '' }}"><a href="career" class="animate__animated animate__bounceInDown animate__delay-1s"><span>Careers </span></a></li>

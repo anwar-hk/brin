@@ -148,12 +148,13 @@
                         <div class="default-form contact-form-two">
                         <form action="#" method="POST" id="email-form">
                             @csrf
+                                <input type="hidden" name="status" value="Customer">
                                 <div class="row mid-spacing">
                                     <div class="form-group mb-0 col-lg-12">
                                         <div class="response"></div>
                                     </div>
-
-                                    <div class="form-group  col-sm-12">
+                                        
+                                    <div class="form-group col-sm-12">
                                         <label> Your Name (required)</label>
                                         <input type="text" name="name" class="name" required>
                                     </div>

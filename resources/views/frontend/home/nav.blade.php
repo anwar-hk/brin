@@ -26,11 +26,13 @@
                                     
                                 </ul>
                             </li>
-                            <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about"><span>About</span>  </a></li>
+                            
+                            <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about"><span>About</span> </a></li>
+                            <li class="{{ $currentPage == 'partner' ? 'current' : '' }}"><a href="partner"><span>Partner</span> </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
                             <li class="{{ $currentPage == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contact us</span>  </a></li>
                             <li class="{{ $currentPage == 'news' ? 'current' : '' }}"><a href="news"><span>News</span>  </a></li>
-                            <li class="{{ $currentPage == 'careers' ? 'current' : '' }}"><a href="careers"><span>Careers</span>  </a></li>
+                            <li class="{{ $currentPage == 'careers' ? 'current' : '' }}"><a href="career"><span>Careers</span>  </a></li>
                         </ul>
                     </div>
                 </nav>

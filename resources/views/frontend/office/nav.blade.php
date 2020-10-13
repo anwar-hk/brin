@@ -13,13 +13,11 @@
                 <!-- Main Menu -->
                 <nav class="main-menu navbar-expand-md navbar-light pt-4" >
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navigation clearfix">
-                            <li class="">
+                        <ul class="navigation clearfix animate__animated animate__bounceInDown animate__delay-1s">
+                            <li class="{{ $currentPage == 'officeservices' ? 'current' : '' }}">
                                 <a href="officeservices"><span>home</span></a>
                             </li>
-                            <li class=" has-mega-menu">
-                                <a href="about"><span>about us</span></a>
-                            </li>
+                           
                             <li class="dropdown {{ $currentNav == 'office_solutions' ? 'current' : '' }}" >
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
@@ -32,7 +30,9 @@
                                     <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_servives">Cloud Computing Services </a></li>
                                 </ul>
                             </li>
+                            <li class="{{ $currentNav == 'about ' ? 'current' : '' }}"><a href="about"><span>about us</span></a></li>
                             <li class="{{ $currentNav == 'news' ? 'current' : '' }}"><a href="news"><span>news</span> </a></li>
+                            <li class="{{ $currentPage == 'partner' ? 'current' : '' }}"><a href="partner" ><span>Partners</span> </a></li>
                             <li class="{{ $currentNav == 'careers' ? 'current' : '' }}"><a href="career"><span>careers</span> </a></li>
                             <li class="{{ $currentNav == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contacts</span> </a></li>
                         </ul>

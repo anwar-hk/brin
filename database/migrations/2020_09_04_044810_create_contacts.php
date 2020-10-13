@@ -19,6 +19,7 @@ class CreateContacts extends Migration
             $table->string('company' , 100);
             $table->string('mobile' , 15);
             $table->string('email');
+            $table->text('address',100)->nullable();
             $table->text('message' , 255);
             $table->text('status');
             $table->timestamps();

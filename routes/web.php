@@ -38,6 +38,10 @@ Route::get('about', function () {
     return view('aboutus');
 });
 
+Route::get('partner', function () {
+    return view('partner');
+});
+
 
 Route::get('career', function () {
     return view('career');

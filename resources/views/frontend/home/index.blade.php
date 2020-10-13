@@ -180,6 +180,7 @@
                         <div class="form-group">
                             <label> Your Name (required)</label>
                             <input type="text" name="name" class="username">
+                            <input type="hidden" name="status" value="Customer">
                         </div>
 
                         <div class="form-group">

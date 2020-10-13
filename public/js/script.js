@@ -688,6 +688,7 @@
                     }, 5000);
                 },
                 error:function(data){
+					$('form').trigger("reset");
                     $('#email-form .response').fadeIn().html(data);
                 }
 			});	

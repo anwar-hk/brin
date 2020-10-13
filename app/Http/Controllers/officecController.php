@@ -53,16 +53,21 @@ class OfficecController extends Controller
     //contact form
     public function addContact(Request $request){
         $data = $request->all();
+        // dd($data);
         if($data){ 
-            $response = Mail::to('anwarhk.ah@gmail.com')->send(new contactMail($data));
+            
             $contact = new Contact;
             $contact->name = $data['name'];
             $contact->company = $data['company'];
             $contact->mobile = $data['phone'];
             $contact->email = $data['email'];
+            if(!empty($data['address'])){
+                $contact->address = $data['address'];
+            }
             $contact->message = $data['contact_message'];
-            $contact->status = 0;
+            $contact->status = $data['status'];
             $contact->save();
+            Mail::to('anwarhk.ah@gmail.com')->send(new contactMail($data));
             return response()->json([
                 'html'=>'<div class="success">Request Submitted Successfully.</div>' 
             ]);
@@ -72,6 +77,7 @@ class OfficecController extends Controller
         ]);
     
     }
+
     public function viewContact(Request $request){
         $contact = Contact::get();
         // dd($contact);
