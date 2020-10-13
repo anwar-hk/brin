@@ -13,6 +13,7 @@
     <div class="background-layers">
         <div class="cws-triangle-overlay"></div>
         <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutbgs2.jpg)"></div>
+        
     </div>
     <div class="auto-container">
         <div class="row">

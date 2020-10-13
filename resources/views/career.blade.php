@@ -28,7 +28,7 @@
                    <div class="inner-column">
                        {{--  <div class="sec-title " uk-scrollspy="cls:uk-animation-slide-top ; delay: 800"><h3></h3></div>  --}}
                        <h5 uk-scrollspy="cls:uk-animation-slide-top; delay: 1300 ">“Choose a job you love, and you will never have to work a day in your life.”</h5>
-                       <p style="text-align: center" uk-scrollspy="cls: uk-animation-slide-bottom; delay:1800;">Interested in joining our enthusiastic and winning team drop your updated CV at
+                       <p  uk-scrollspy="cls: uk-animation-slide-bottom; delay:1800;">Interested in joining our enthusiastic and winning team drop your updated CV at
 
                        <a href="mailto:careers@brintechsolutions.com"> careers@brintechsolutions.com</a></p>
                    </div>

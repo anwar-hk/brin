@@ -4,7 +4,7 @@
     <div class="main-box" style="pull-right">
         <div class="menu-box">
             <div class="logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a>
+                <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p></a>
             </div>
             <!--Nav Box-->
             <div class="nav-outer">
@@ -44,7 +44,7 @@
             <!--Logo-->
             <div class="logo">
                 <a href="#" title="Brin Logo"><img src="images/logo.png" alt="brin Logo">
-                    <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p></a>
+                    <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p></a>
             </div>
 
             <!--Nav Outer-->
@@ -60,7 +60,7 @@
     <!-- Mobile Header -->
     <div class="mobile-header">
         <div class="logo"><a href=""><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-            <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+            <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p>
         </a></div>
 
         <!--Nav Box-->
@@ -73,7 +73,7 @@
     <div class="mobile-menu">            
         <nav class="menu-box">
             <div class="nav-logo"><a href="homeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
-                <p style="font-size: 14px; color:#09aff7;">We Bring Solutions</p>
+                <p style="font-size: 14px; padding-left:6px; color:#09aff7;">We Bring Solutions</p>
                 </a>
             </div> 
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
