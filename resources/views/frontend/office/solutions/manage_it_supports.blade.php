@@ -18,10 +18,7 @@
 <section class="features11 cid-qv5zsnKdrj" id="features11-1t" data-rv-view="1461">
 
     
-
-    
-
-    <div class="container">   
+<div class="container">   
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class="mbr-figure" style="width: 50%;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">
