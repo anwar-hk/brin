@@ -129,7 +129,7 @@
                                 data-type="image" 
                                 data-basealign="slide" 
                                 data-responsive_offset="on" 
-                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0.6;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
+                                data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0.6;","to":"o:0.8;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","ease":"Power3.easeInOut"}]'
                                 data-textAlign="['inherit','inherit','inherit','inherit']"
                                 data-paddingtop="[0,0,0,0]"
                                 data-paddingright="[0,0,0,0]"
