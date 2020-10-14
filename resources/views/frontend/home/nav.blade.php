@@ -18,10 +18,10 @@
                             <li class="dropdown">
                                 <a href="#"><span>Services</span> </a>
                                 <ul>
-                                    <li><a href="#cctv"><span>Surveillance</span> </a></li>
-                                    <li><a href="#wifi"><span>Wi-Fi Setup</span> </a></li>
-                                    <li><a href="#security"><span>Security</span> </a></li>
-                                    <li><a href="#intercom"><span>Intercom</span> </a></li>
+                                    <li><a href="#cctv"><span>SURVEILLANCE</span> </a></li>
+                                    <li><a href="#wifi"><span>Wi-Fi SETUP</span> </a></li>
+                                    <li><a href="#security"><span>SECURITY</span> </a></li>
+                                    <li><a href="#intercom"><span>INTERCOM</span> </a></li>
                                     {{-- <li><a href="#homeAutomation"></a></li> --}}
                                     
                                 </ul>

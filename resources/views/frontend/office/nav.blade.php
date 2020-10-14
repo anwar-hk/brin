@@ -21,13 +21,13 @@
                             <li class="dropdown {{ $currentNav == 'office_solutions' ? 'current' : '' }}" >
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}"><a href="it_security">IT Security</a></li>
-                                    <li class="{{ $currentPage == 'office_setup' ? 'current' : '' }}"><a href="office_setup">Office IT setup Services</a></li>
-                                    <li class="{{ $currentPage == 'manage_it_support' ? 'current' : '' }}"><a href="manage_it_support">Managed IT Support</a></li>
-                                    <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">Network Solutions </a></li>
-                                    <li class="{{ $currentPage == 'it_product_supply' ? 'current' : '' }}"><a href="it_products_supply_installation">IT Products Supply & Installation</a></li>
-                                    <li class="{{ $currentPage == 'outsourcing_service' ? 'current' : '' }}"><a href="it_management_services">IT Outsourcing & Management Services</a></li>
-                                    <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_servives">Cloud Computing Services </a></li>
+                                    <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}"><a href="it_security">IT SECURITY</a></li>
+                                    <li class="{{ $currentPage == 'office_setup' ? 'current' : '' }}"><a href="office_setup">OFFICE IT SETUP SERVICES</a></li>
+                                    <li class="{{ $currentPage == 'manage_it_support' ? 'current' : '' }}"><a href="manage_it_support">MANAGED IT SUPPORT</a></li>
+                                    <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">NETWORK SOLUTIONS </a></li>
+                                    <li class="{{ $currentPage == 'it_product_supply' ? 'current' : '' }}"><a href="it_products_supply_installation">IT PRODUCTS SUPPLY & INSTALLATION</a></li>
+                                    <li class="{{ $currentPage == 'outsourcing_service' ? 'current' : '' }}"><a href="it_management_services">IT OUTSOURCING & MANAGEMENT SERVICES</a></li>
+                                    <li class="{{ $currentPage == 'cloud_service' ? 'current' : '' }}"><a href="cloud_computing_servives">CLOUD COMPUTING SERVICES </a></li>
                                 </ul>
                             </li>
                             <li class="{{ $currentNav == 'about ' ? 'current' : '' }}"><a href="about"><span>about us</span></a></li>
