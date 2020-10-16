@@ -21,8 +21,8 @@
                                 <li class="dropdown animate__animated animate__bounceInDown animate__delay-1s">
                                     <a href=""><span class="">Services</span></a>
                                     <ul>
-                                        <li><a href="homeservices">Home Services</a></li>
-                                        <li><a href="officeservices">Office Services</a></li>
+                                        <li><a href="homeservices">HOME SERVICES</a></li>
+                                        <li><a href="officeservices">OFFICE SERVICES</a></li>
                                     </ul>
                                 </li>
                                 <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about" class="animate__animated animate__bounceInDown animate__delay-1s"><span>About Us</span> </a></li>

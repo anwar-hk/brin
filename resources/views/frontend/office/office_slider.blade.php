@@ -244,24 +244,24 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
                             style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your Office </div>
-
-                        <!-- LAYER NR. 11 -->
-                        <div class="tp-caption   tp-resizeme" 
-                            id="slide-3-layer-33" 
+                            
+                            <div class="tp-caption   tp-resizeme" 
+                            id="slide-3-layer-31" 
                             data-x="center" data-hoffset="" 
                             data-y="center" data-voffset="30" 
-                            data-width="['auto']"
+                            data-width="['921']"
                             data-height="['auto']"
                             data-type="text" 
                             data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
+                            data-frames='[{"delay":500,"speed":800,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.linner"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+                            data-textAlign="['center','center','center','center']"
                             data-paddingtop="[0,0,0,0]"
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Help your business quickly adapt to the changing market and increase productivity and performance</div>
+                            style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Help your business quickly adapt to the changing market and increase productivity and performance</div>
 
+                        
                     <!-- LAYER NR. 12 -->
                     <a href="manage_it_support">
                         <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
@@ -279,7 +279,7 @@
                             data-paddingbottom="[20,20,20,20]"
                             data-paddingleft="[50,50,50,50]"
                             style="z-index: 8; white-space: nowrap; font-size: 16px; line-height: 17px; font-weight: 700; color: rgba(255,255,255,1); font-family:Catamaran;background-color:rgb(9, 175, 247);border-color:rgb(0, 0, 0);border-style:solid;border-width:0px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;" >
-                            READ MORE 
+                            READ MORE   
                         </div>
                     </a>
 
@@ -344,26 +344,25 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;"> Solutions on Office Network</div>
+                        style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 70px; line-height: 70px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;"> Solutions on Office Network</div>
                         
 
                     <!-- LAYER NR. 15 -->
-                    <div class="tp-caption   tp-resizeme" 
-                        id="slide-2-layer-33" 
-                        data-x="center" data-hoffset="" 
-                        data-y="center" data-voffset="30" 
-                        data-width="['auto']"
-                        data-height="['auto']"
-                        data-type="text" 
-                        data-responsive_offset="on" 
-                        data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                        data-textAlign="['inherit','inherit','inherit','inherit']"
-                        data-paddingtop="[0,0,0,0]"
-                        data-paddingright="[0,0,0,0]"
-                        data-paddingbottom="[0,0,0,0]"
-                        data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">At BRIN Tech Solutions, we provide a full range of services through-out the Network Life-Cycle. </div>
-
+                        <div class="tp-caption   tp-resizeme" 
+                            id="slide-3-layer-31" 
+                            data-x="center" data-hoffset="" 
+                            data-y="center" data-voffset="30" 
+                            data-width="['921']"
+                            data-height="['auto']"
+                            data-type="text" 
+                            data-responsive_offset="on" 
+                            data-frames='[{"delay":500,"speed":800,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.linner"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+                            data-textAlign="['center','center','center','center']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]"
+                            style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 24px; line-height: 24px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">At BRIN Tech Solutions, we provide a full range of services through-out the Network Life-Cycle.</div>
                     <!-- LAYER NR. 16 -->
                     <a href="network_solutions">
                         <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
