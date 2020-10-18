@@ -1,4 +1,4 @@
-<footer class="main-footer" style="background-image: url(images/bgImages/bg-23.jpg);">
+<footer class="main-footer" style="background-image: url(images/bgImages/dubai.jpg);">
     <div class="auto-container">
         <!--Widgets Section-->
         <div class="widgets-section">
