@@ -45,7 +45,7 @@
                         style="z-index: 6; min-width: 623px; max-width: 623px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Create The Best Smart Home </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption   tp-resizeme" 
+                    {{-- <div class="tp-caption   tp-resizeme" 
                          id="slide-1-layer-33" 
                          data-x="center" data-hoffset="" 
                          data-y="center" data-voffset="30" 
@@ -59,14 +59,14 @@
                         data-paddingright="[0,0,0,0]"
                         data-paddingbottom="[0,0,0,0]"
                         data-paddingleft="[0,0,0,0]"
-                        style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
+                        style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div> --}}
 
                     <!-- LAYER NR. 4 -->
                         <a href="">
                             <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
                                 id="slide-1-layer-36"
                                 data-x="center" data-hoffset="0" 
-                                data-y="center" data-voffset="140"
+                                data-y="center" data-voffset="40"
                                 data-width="['auto']"
                                 data-height="['auto']"  
                                 data-type="button" 
@@ -122,31 +122,16 @@
                             data-paddingright="[0,0,0,0]"
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
-                            style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Equipment on a Smart Home Security </div>
+                            style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Smart Home Security Solutions </div>
 
                         <!-- LAYER NR. 7 -->
-                        <div class="tp-caption   tp-resizeme" 
-                            id="slide-2-layer-33" 
-                            data-x="center" data-hoffset="" 
-                            data-y="center" data-voffset="30" 
-                            data-width="['auto']"
-                            data-height="['auto']"
-                            data-type="text" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
-
+                        
                         <!-- LAYER NR. 8 -->
                         <a href="">
                             <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
                                 id="slide-1-layer-36"
                                 data-x="center" data-hoffset="0" 
-                                data-y="center" data-voffset="140"
+                                data-y="center" data-voffset="40"
                                 data-width="['auto']"
                                 data-height="['auto']"  
                                 data-type="button" 
@@ -205,28 +190,14 @@
                             style="z-index: 6; min-width: 921px; max-width: 921px; white-space: normal; font-size: 65px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">Take ultimate control of your home </div>
 
                         <!-- LAYER NR. 11 -->
-                        <div class="tp-caption   tp-resizeme" 
-                            id="slide-3-layer-33" 
-                            data-x="center" data-hoffset="" 
-                            data-y="center" data-voffset="30" 
-                            data-width="['auto']"
-                            data-height="['auto']"
-                            data-type="text" 
-                            data-responsive_offset="on" 
-                            data-frames='[{"delay":500,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']"
-                            data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]"
-                            data-paddingbottom="[0,0,0,0]"
-                            data-paddingleft="[0,0,0,0]"
-                            style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 40px; font-weight: 400; color: rgba(255,255,255,1); font-family:Catamaran;">Ready to dive into the Internet of Things to automate your home?<br> Start with the top products we've tested for every room in the house. </div>
+
 
                     <!-- LAYER NR. 12 -->
                     <a href="">
                         <div class="tp-caption rev-btn tp-resizeme animate__animated animate__fadeInBottomLeft animate__delay-1s " 
                             id="slide-1-layer-36"
                             data-x="center" data-hoffset="0" 
-                            data-y="center" data-voffset="140"
+                            data-y="center" data-voffset="40"
                             data-width="['auto']"
                             data-height="['auto']"  
                             data-type="button" 

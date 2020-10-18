@@ -10485,6 +10485,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 }
 
 .widget-title:after{
+	
 	width: 24px;
 	background-color: #16a4cf;
     -webkit-transition: all .25s linear;

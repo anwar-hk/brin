@@ -4,7 +4,7 @@
         <div class="widgets-section">
             <div class="row">
                 <!--Footer Column-->
-                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
+                <div class="footer-column col-lg-4 " uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">BRIN Tech Solutions</h4>
                         <div class="widget-content" >
@@ -14,31 +14,31 @@
                     </div>
                 </div>
 
-                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-top; repeat: false">
+                <div class="footer-column col-lg-4 " uk-scrollspy="cls: uk-animation-slide-top; repeat: false">
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">ADDRESS</h4>
                         <div class="widget-content" >
-                            <div class="text text-justify" > <i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186</div>
+                            <div class="text text-justify"><a style="color:#b0b0b0" href="contact"><i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </a></div>
                         </div>
                     </div>
                 </div>
 
-                <div class="footer-column col-lg-4 col-md-6 col-sm-12" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
+                <div class="footer-column col-lg-4" uk-scrollspy="cls: uk-animation-slide-right; repeat: false">
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">OUR CONTACTS</h4>
                         <div class="widget-content">
                             <ul class="contact-list">
                                 <li>
-                                    <i class="far fa-envelope"></i>
-                                    <a href="mailto:reachus@brintechsolutions.com">reachus@brintechsolutions.com</a>
+                                    
+                                    <a href="mailto:reachus@brintechsolutions.com"><i class="far fa-envelope"></i> reachus@brintechsolutions.com</a>
                                 </li>
                                 <li>
-                                    <i class="fa fa-mobile"></i> 
-                                    <a href="tel:+971 54 517 1712"> +971 54 517 1712</a>
+                                    <a href="tel:+971 54 517 1712"><i class="fa fa-mobile"></i> 
+                                     +971 54 517 1712</a>
                                 </li>
                                 <li>
-                                    <i class="fa fa-phone"></i> 
-                                    <a href="tel:+971 4 381 8712"> +971 4 381 8712</a>
+                                    
+                                    <a href="tel:+971 4 381 8712"> <i class="fa fa-phone"></i>  +971 4 381 8712</a>
                                 </li>
                                 <li>
                                    <div class="social-icon">

@@ -28,13 +28,14 @@
         <div class="auto-container">
             <div class="row">
                 <!-- Content Column -->
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="content-column col-md-12 col-sm-12">
                     <div class="inner-column">
                         <div class="sec-title " uk-scrollspy="cls:uk-animation-slide-top ; delay: 800"><h3>WHO WE ARE</h3></div>
-                        <h5 uk-scrollspy="cls:uk-animation-slide-top; delay: 1300 ">WE BRING SOLUTIONS!” which we aim to deliver through our strategy of “CONSULT, DELIVER AND SUPPORT</h5>
-                        <p style="text-align: justify" uk-scrollspy="cls: uk-animation-slide-right; delay:1600;">We aim to help businesses accelerate and simplify deployment of new technologies by providing them with the knowledge, skills, tools, resources and overall support needed to be successful.</p>
-                        <h4 uk-scrollspy="cls: uk-animation-slide-left; delay:1500;"><strong>Thousands Of BRINTech Projects</strong></h4>
-                        <p style="text-align: justify" uk-scrollspy="cls: uk-animation-slide-bottom; delay:1800;">Our knowledgeable staff, extensive product range, deep levels of inventory and our commitment to quality is what sets us apart from the competition.That’s what we call being easy to do business with.</p>
+                        <h5 uk-scrollspy="cls:uk-animation-slide-top; delay: 1300 ">WE BRING SOLUTIONS! <br> Which we aim to deliver through our strategy of CONSULT, DELIVER AND SUPPORT</h5>
+                        <br>
+                        <p style="" uk-scrollspy="cls: uk-animation-slide-right; delay:1600;">We aim to help businesses accelerate and simplify deployment of new technologies by providing them with  <br>  the knowledge, skills, tools, resources and overall support needed to be successful.</p>
+                        <h4 uk-scrollspy="cls: uk-animation-slide-left; delay:1500;"><strong>Thousands of BRIN Tech Projects </strong></h4>
+                        <p uk-scrollspy="cls: uk-animation-slide-bottom; delay:1800;">Our knowledgeable staff, extensive product range, deep levels of inventory and our commitment to quality <br> is what sets us apart from the competition.That’s what we call being easy to do business with.</p>
                     </div>
                     <div class="btn-box" uk-scrollspy="cls: uk-animation-slide-bottom; delay:2000;">
                         <a href="contact" class="theme-btn btn-style-one large">CONTACT US</a>                        

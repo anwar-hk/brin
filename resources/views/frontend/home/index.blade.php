@@ -19,8 +19,8 @@
         <div class="row">
             <div class="col-lg-6 col-md-12">
                 <div class="sec-title">
-                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME</h2>
-                    <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay:1000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec tellus.</div>
+                    <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">SMART HOME SOLUTIONS </h2>
+                    <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay:1000;">Get end-to-end customised smart home solutions integrating smart lighting, security, electronic devices and more.</div>
                 </div>
 
                 <div class="row">
@@ -86,7 +86,14 @@
     <div class="container-fluid">
         <div class="sec-title text-center light">
             <h2 uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 500;">MANAGE EVERYTHING</h2>
-            <div class="text" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 1000;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis accumsan mi nec elementum. Nulla ante metus, varius non condimentum id, molestie nec<br> tellus. Fusce odio nulla, consectetur in sagittis eget, vulputate at lacus. Vivamus nulla massa, dictum quis purus</div>
+            <div class="text" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 1000;"> Have temperatures adjusted automatically , 
+                Perfect scenes preset for convenient access,
+                Set schedules to match routines,
+                Control with just your voice,
+                Perfect ambience for every activity,
+                Dim and brighten with a click,
+                Support your sleep/wake cycle and
+                Control away from home</div>
         </div>
 
         <div class="carousel-outer">
@@ -100,8 +107,6 @@
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 600;">
                             <h4><a href="#cctv">Surveillance</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
                 </div>
@@ -115,8 +120,6 @@
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 800;"> 
                             <h4><a href="#wifi">Wi-Fi Setup</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
                 </div>
@@ -130,8 +133,6 @@
                         </div>
                         <div class="lower-content" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 900;">
                             <h4><a href="#">Security</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
                 </div>
@@ -146,8 +147,6 @@
                         </div>
                         <div class="lower-content">
                             <h4><a href="#">Intercom</a></h4>
-                            <div class="cat"><a href="#">Alarm</a></div>
-                            <div class="text">Potenti justo at, quis neque sem diam nam eu, <br>nulla etiam per magna id</div>
                         </div>
                     </div>
                 </div>
