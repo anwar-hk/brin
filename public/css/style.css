@@ -2398,7 +2398,7 @@ hr{
     line-height: 36px;
 	font-weight:600;
 	color:#ffffff;
-	padding: 0 19px;
+	padding: 0 16px;
 	text-transform: uppercase;
 	-webkit-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -3962,7 +3962,6 @@ hr{
     width: 100%;
     height: 100%;
 	display: block;
-	background-image: url('../images/bgImages/a-bg1.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
