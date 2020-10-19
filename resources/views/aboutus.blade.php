@@ -6,18 +6,14 @@
 @include('layouts/welcome_nav')
 <!--Page Title-->
     <section class="page-title">
-        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutslider2.jpg)">
-            {{--  <div class="cws-overlay-bg"></div>  --}}
-        </div>
-
-        <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
-            <h1>About Us</h1>
+        <div class="cws-image-bg" style="background-image: url(images/bgImages/aboutus.jpg) ;" >
+             <div class="cws-overlay-bg"></div> 
         </div>
     </section>
     <!--End Page Title-->
 
     <!-- About Section Three -->
-    <section class="about-section-three">
+    <section class="about-section-one">
          <!-- Background Layers -->
         <div class="background-layers animate__animated animate__bounceInRight animate__delay-2s">
             <div class="cws-image-bg" style="background-image: url(images/bgImages/home6.jpg)"></div>

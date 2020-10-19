@@ -6,7 +6,7 @@
                 <!--Footer Column-->
                 <div class="footer-column col-lg-4 " uk-scrollspy="cls: uk-animation-slide-left; repeat: false">
                     <div class="footer-widget about-widget">
-                        <h4 class="widget-title">BRIN Tech Solutions</h4>
+                        <h4 class="widget-title" >BRIN Tech Solutions</h4>
                         <div class="widget-content" >
                             <div class="text">  
                                 We are here to ensure the complete<br> IT Solution  which is well suited and beneficial <br> for your organization.</div>
@@ -16,7 +16,7 @@
 
                 <div class="footer-column col-lg-4 " uk-scrollspy="cls: uk-animation-slide-top; repeat: false">
                     <div class="footer-widget about-widget">
-                        <h4 class="widget-title">ADDRESS</h4>
+                        <h4 class="widget-title" >ADDRESS</h4>
                         <div class="widget-content" >
                             <div class="text text-justify"><a style="color:#b0b0b0" href="contact"><i class="fa fa-map-marker" aria-hidden="true"></i></a>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </div>
                         </div>
@@ -63,8 +63,8 @@
     <!--Footer Bottom-->
     <div class="footer-bottom" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true">
         <div class="auto-container">
-            <div class="copyright-text">
-            <p>© BRIN Tech Solutions. {{date("Y")}}</p>
+            <div class="copyright-text ">
+            <p >© BRIN Tech Solutions. {{date("Y")}}</p>
             </div>
         </div>
     </div>
