@@ -30,7 +30,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/server2.png" alt="Mobirise" media-simple="true">
                     </div>
                     {{-- <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
                         <h4 class="card-title mbr-fonts-style display-7">
@@ -45,7 +45,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/laptop.jpg" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/router2.png" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
@@ -65,14 +65,14 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/cctv.png" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/ipad.jpg" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/iphone2.jpg" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>     
@@ -92,14 +92,14 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper ">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/printer.png" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/copier2.png" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                        <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
+                        <img src="images/bgImages/itsupply/switch.jpg" alt="Mobirise" media-simple="true">
                     </div>
                 </div>
             </div>     
