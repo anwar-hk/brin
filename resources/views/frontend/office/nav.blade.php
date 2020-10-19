@@ -4,7 +4,7 @@
     <div class="main-box">
         <div class="menu-box">
             <div class="logo">
-                <a href="officeservices"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
+                <a href="/"><img src="images/logo.png" alt="" title="" srcset="images/logo.png 2x">
                     <p style="padding-left:6px; font-size: 14px; color:#09aff7;">We Bring Solutions</p>
                 </a>
             </div>

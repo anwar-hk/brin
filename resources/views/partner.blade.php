@@ -79,12 +79,12 @@
         </div>
     </section>  --}}
     <section class="callback-section">
-        <div class="cws-background-image" style="background-image: url(images/bgImages/partner2.jpg)"></div>
+        <div class="cws-background-image" style="background-image: url(images/bgImages/partner5.jpg)"></div>
         <div class="auto-container">
             <div class="row">
                 <div class="col-lg-6 col-md-12">
                     <div class="sec-title">
-                        <h4 uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">We are always welcome for signing up with the technology partners.</h4>
+                        <h4 style="color: #fff" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;" >We are always welcome for signing up with the technology partners.</h4>
                         {{--  <div class="text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 700;">We’re here to answer any questions you might have about IT based Solutions.</div>  --}}
                     </div>
     
