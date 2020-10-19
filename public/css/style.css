@@ -10211,7 +10211,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 	height: 100%;
 	width: 100%;
 	content: "";
-	background-color: rgba(17,17,17,0.95);
+	background-color: rgb(17 17 17 / 60%);
 }
 
 .main-footer .widgets-section{
@@ -10243,11 +10243,11 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 .main-footer .widget-title:before{
 	left: 0;
 	margin: 0;
-	bottom: -5px;
+	bottom: -15px;
 }
 
 .main-footer .about-widget .text{
-	color: #b0b0b0;
+	color: #f9f8f8;
 	font-size: 15px;
 }
 
@@ -10479,9 +10479,9 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
     bottom: 0;
     left: 50%;
     margin-left: -38px;
-    width: 74px;
+    width: 90px;
     height: 1px;
-    background: #dddfdc;
+    background: #3a572c;
 }
 
 .widget-title:after{

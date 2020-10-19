@@ -9,7 +9,7 @@
                         <h4 class="widget-title">BRIN Tech Solutions</h4>
                         <div class="widget-content" >
                             <div class="text">  
-                                We are here to ensure the complete IT Solution <br> which is well suited and beneficial for your organization.</div>
+                                We are here to ensure the complete<br> IT Solution  which is well suited and beneficial <br> for your organization.</div>
                         </div>
                     </div>
                 </div>
@@ -18,7 +18,7 @@
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title">ADDRESS</h4>
                         <div class="widget-content" >
-                            <div class="text text-justify"><a style="color:#b0b0b0" href="contact"><i class="fa fa-map-marker" aria-hidden="true"></i>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </a></div>
+                            <div class="text text-justify"><a style="color:#b0b0b0" href="contact"><i class="fa fa-map-marker" aria-hidden="true"></i></a>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </div>
                         </div>
                     </div>
                 </div>
@@ -30,15 +30,15 @@
                             <ul class="contact-list">
                                 <li>
                                     
-                                    <a href="mailto:reachus@brintechsolutions.com"><i class="far fa-envelope"></i> reachus@brintechsolutions.com</a>
+                                    <a href="mailto:reachus@brintechsolutions.com"><i class="far fa-envelope"></i></a> reachus@brintechsolutions.com
                                 </li>
                                 <li>
-                                    <a href="tel:+971 54 517 1712"><i class="fa fa-mobile"></i> 
-                                     +971 54 517 1712</a>
+                                    <a href="tel:+971 54 517 1712"><i class="fa fa-mobile"></i> </a>
+                                     +971 54 517 1712
                                 </li>
                                 <li>
                                     
-                                    <a href="tel:+971 4 381 8712"> <i class="fa fa-phone"></i>  +971 4 381 8712</a>
+                                    <a href="tel:+971 4 381 8712"> <i class="fa fa-phone"></i></a>  +971 4 381 8712
                                 </li>
                                 <li>
                                    <div class="social-icon">

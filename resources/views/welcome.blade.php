@@ -153,7 +153,7 @@
                                 data-paddingright="[0,0,0,0]"
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
-                                style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;">equipment on a Smart Home Security </div>
+                                style="z-index: 6; min-width: 872px; max-width: 872px; max-width: 146px; max-width: 146px; white-space: normal; font-size: 72px; line-height: 72px; font-weight: 800; color: rgba(255,255,255,1); font-family:Catamaran;text-transform:uppercase;"> Smart home solutions</div>
 
                             <!-- LAYER NR. 7 -->
                             <div class="tp-caption   tp-resizeme" uk-scrollspy="cls: uk-animation-slide-left; repeat: true"
