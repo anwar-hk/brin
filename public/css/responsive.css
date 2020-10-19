@@ -28,6 +28,17 @@
 	.contact-info .contact-block p{
 		margin-bottom: 5px;
 	}
+
+	.page-title{
+		position: relative;
+		width: 100%;
+		height: 100%;
+		padding: 392px 0px 278px;
+		text-align: center;
+		z-index: 2;
+		background-color: #ffffff;
+		
+	}
 }
 
 @media only screen and (max-width: 1139px){
@@ -92,6 +103,17 @@
 	.main-header .main-box,
 	.sticky-header{
 		display: none !important;
+	}
+
+	.page-title{
+		position: relative;
+		width: 100%;
+		height: 100%;
+		padding: 231px 0px 278px;
+		text-align: center;
+		z-index: 2;
+		background-color: #ffffff;
+		
 	}
 
 	.mobile-header,

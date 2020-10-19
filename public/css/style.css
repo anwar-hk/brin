@@ -3826,10 +3826,10 @@ hr{
 	position: relative;
 	width: 100%;
 	height: 100%;
-    padding: 7% 0px 61%;
+    padding: 366px 0px 470px;
     text-align: center;
 	z-index: 2;
-	/* background-color: #ffffff; */
+	background-color: #ffffff;
 	
 }
 
@@ -3847,23 +3847,23 @@ hr{
     height: 100%;
     top: 0;
     left: 0;
-    /* background: rgb(241, 248, 248); */
+    background: rgb(241, 248, 248); 
     background: -moz-linear-gradient(left, rgba(88,110,111,1) 0%, rgba(54,162,104,1) 50%, rgba(15,120,96,1) 100%);
     background: -webkit-linear-gradient(left, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
     background: linear-gradient(to right, rgba(88,110,111,1) 0%,rgba(54,162,104,1) 50%,rgba(15,120,96,1) 100%);
-    /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#039;#586e6f&#039;, endColorstr=&#039;#0f7860&#039;,GradientType=1 ); */
-    opacity: 0;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=&#039;#586e6f&#039;, endColorstr=&#039;#0f7860&#039;,GradientType=1 );
+    opacity: 0.2;
 }
 
 .page-title .cws-image-bg:after {
     content: '';
     position: absolute;
-    z-index: 1;
+    z-index: 2;
     width: 100%;
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url(../images/icons/pattern.png);
+    background-image: url('../images/icons/pattern.png');
     background-size: initial;
     background-repeat: repeat-x;
     background-attachment: scroll;
@@ -3956,21 +3956,6 @@ hr{
 }
 
 .cws-image-bg{
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-	display: block;
-	background-image: url('../images/bgImages/a-bg1.png');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    clip-path: polygon(0% 10px, 60% 60px, 100% 120px, 100% 100%, 50% 100%, 0% 100%);
-    -webkit-clip-path: polygon(0% 120px, 60% 60px, 100% 120px, 100% 100%, 50% 100%, 0% 100%);
-}
-
-.cws-image-bg-1{
     position: absolute;
     left: 0;
     top: 0;
