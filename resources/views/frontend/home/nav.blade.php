@@ -27,7 +27,7 @@
                                 </ul>
                             </li>
                             
-                            <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about"><span>About</span> </a></li>
+                            <li class="{{ $currentPage == 'about' ? 'current' : '' }}"><a href="about"><span>About Us</span> </a></li>
                             <li class="{{ $currentPage == 'partner' ? 'current' : '' }}"><a href="partner"><span>Partner</span> </a></li>
                             {{-- <li><a href=""><span></span> </a></li> --}}
                             <li class="{{ $currentPage == 'contact' ? 'current' : '' }}"><a href="contact"><span>Contact us</span>  </a></li>
