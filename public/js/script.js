@@ -685,7 +685,8 @@
                     $('#email-form .response').fadeIn().html(data.html);
                     setTimeout(function(){
                         $('#email-form .response').fadeOut("slow");
-                    }, 5000);
+					}, 5000);
+					alert('Thank you for reaching us. Our team will get in touch with you shortly.');
                 },
                 error:function(data){
 					$('form').trigger("reset");

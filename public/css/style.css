@@ -2398,7 +2398,7 @@ hr{
     line-height: 36px;
 	font-weight:600;
 	color:#ffffff;
-	padding: 0 16px;
+	padding: 0 11px;
 	text-transform: uppercase;
 	-webkit-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
@@ -3260,7 +3260,7 @@ hr{
 }
 
 .sticky-header .main-menu .navigation > li > a{
-	padding: 0 15px;
+	padding: 0 11px;
 }
 
 .sticky-header .main-menu .navigation > li.current.dropdown > a:after,
