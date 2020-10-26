@@ -54,7 +54,9 @@
                         <div class="mbr-section-text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7 text-justify">
                                <strong>Work Load Migration, Hybrid Cloud, API Management, IoT,Microsoft Office 365!</strong>
-                               Your place to create, communicate, collaborate, and get great work done.
+                               Your place to create, communicate, collaborate, and get great work done. Cloud computing is the
+                               on-demand availability of computer system resources, especially data storage and computing power,
+                               without direct active management by the user.
                             </p>
                         </div>
                     </div>
