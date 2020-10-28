@@ -12,7 +12,7 @@
     </div>
 
     <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
-        <h1>Manage It Supports</h1>
+        <h1>Managed It Support</h1>
     </div>
 </section>
 <section class="features11 cid-qv5zsnKdrj" id="features11-1t" data-rv-view="1461">

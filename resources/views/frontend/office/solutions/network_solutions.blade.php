@@ -30,7 +30,7 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         IT Infrastructure Services
                     </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                    <p class="mbr-text mbr-fonts-style display-7">
                         We lead and guide clients to achieve business objectives through the adoption of technology 
                         in the enterprise. Customers tap into our years of accumulated experiences to avoid pitfalls
                          and enhance user experiences to deliver successful turnkey IT projects. We provide consulting,
@@ -50,7 +50,7 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         Server Infrastructure
                     </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                    <p class="mbr-text mbr-fonts-style display-7">
                         Server Rack Equipment Layout & Cable Organization,
                         Power Management, UPS & Server Room Cooling,                        
                         Server configuration & Setup,   
@@ -67,11 +67,11 @@
                     <h4 class="card-title py-3 mbr-fonts-style display-7">
                         Network Infrastructure
                     </h4>
-                    <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                    <p class="mbr-text mbr-fonts-style display-7">
                         Network Design & Setup,
-                        Switches Setup                        
-                        Routers Setup                        
-                        Virtual Private Network (VPN) Setup.                        
+                        Switches Setup,                        
+                        Routers Setup,                        
+                        Virtual Private Network (VPN) Setup,                        
                         Fiber Optic Cabling,        
                         Voice and data cabling, structured cabling
                     </p>

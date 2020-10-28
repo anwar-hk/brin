@@ -51,7 +51,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             24/7 Availability
                         </h4>
-                        <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-fonts-style display-7">
                             Providing support for your operations around the year by keeping your systems running
                              in optimal condition while you focus on incrementing core business functions.
                         </p>
@@ -68,7 +68,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Partnering with the IT Folks
                         </h4>
-                        <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-fonts-style display-7">
                             We strive to work with your IT organization by consulting & planning in order to
                              bring the right solutions to your organization.
                         </p>
@@ -85,7 +85,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Enhanced Performance
                         </h4>
-                        <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-fonts-style display-7">
                             Deliver you the flexibility and scalability to grow your business in the current and future market.
                         </p>
                     </div>
@@ -100,7 +100,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Strategic Planning
                         </h4>
-                        <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-fonts-style display-7">
                             Develop a business continuity plan with our well-managed disaster recovery and redundant IT Infrastructure.
                         </p>
                     </div>
@@ -116,7 +116,7 @@
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
                             Risk-Free Environment.
                         </h4>
-                        <p class="mbr-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-fonts-style display-7">
                             Reduce your business risk by investing in the precise services and technologies
                         </p>
                     </div>
