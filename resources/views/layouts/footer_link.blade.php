@@ -18,7 +18,7 @@
                     <div class="footer-widget about-widget">
                         <h4 class="widget-title" >ADDRESS</h4>
                         <div class="widget-content" >
-                            <div class="text text-justify"><a style="color:#b0b0b0" href="contact"><i class="fa fa-map-marker" aria-hidden="true"></i></a>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </div>
+                            <div class="text text-justify"><a href="contact" ><i class="fa fa-map-marker icon-1" > </i></a>  Suite 17, <br> The Iridium Building, <br> Umm Suqeim Rd, Al-Barsha, <br> Dubai, UAE, PO BOX - 391186 </div>
                         </div>
                     </div>
                 </div>
@@ -30,15 +30,15 @@
                             <ul class="contact-list">
                                 <li>
                                     
-                                    <a href="mailto:reachus@brintechsolutions.com"><i class="far fa-envelope"></i></a> reachus@brintechsolutions.com
+                                    <a href="mailto:reachus@brintechsolutions.com"><i class="far fa-envelope"></i> reachus@brintechsolutions.com</a>
                                 </li>
                                 <li>
-                                    <a href="tel:+971 54 517 1712"><i class="fa fa-mobile"></i> </a>
-                                     +971 54 517 1712
+                                    <a href="tel:+971 54 517 1712"><i class="fa fa-mobile"></i> 
+                                     +971 54 517 1712</a>
                                 </li>
                                 <li>
                                     
-                                    <a href="tel:+971 4 381 8712"> <i class="fa fa-phone"></i></a>  +971 4 381 8712
+                                    <a href="tel:+971 4 381 8712"> <i class="fa fa-phone"></i>  +971 4 381 8712</a>
                                 </li>
                                 <li>
                                    <div class="social-icon">
@@ -124,7 +124,7 @@
     // initialCountry: "auto",
     localizedCountries: { 'de': 'Deutschland' },
     // nationalMode: false,
-    onlyCountries: ['ae','sa', 'qa', 'kw', 'om','bh', 'in' , 'za','cf', ],
+    onlyCountries: ['ae','sa', 'qa', 'kw', 'om','bh', 'in' , 'za','cf', 'eg','et','ga','gm','gh','mg','mw','ml','mu','ma','mz','na','ng','rw','tz','tg','tn','ug','zm','zw'],
     // placeholderNumberType: "MOBILE",
     preferredCountries: ['ae'],
     separateDialCode: true,

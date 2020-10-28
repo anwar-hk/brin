@@ -11,7 +11,7 @@
         </div>
 
         <div class="auto-container animate__animated animate__bounceInDown animate__delay-2s">
-            <h1>Partner</h1>
+            <h1>Partners</h1>
         </div>
     </section>
 

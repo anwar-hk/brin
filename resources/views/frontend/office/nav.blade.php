@@ -21,7 +21,7 @@
                             <li class="dropdown {{ $currentNav == 'office_solutions' ? 'current' : '' }}" >
                                 <a href="#"><span>solutions we offer</span></a>
                                 <ul>
-                                    <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}"><a href="it_security">IT SECURITY</a></li>
+                                    <li class="{{ $currentPage == 'it_security' ? 'current' : '' }}" ><a href="it_security">IT SECURITY</a></li>
                                     <li class="{{ $currentPage == 'office_setup' ? 'current' : '' }}"><a href="office_setup">OFFICE IT SETUP SERVICES</a></li>
                                     <li class="{{ $currentPage == 'manage_it_support' ? 'current' : '' }}"><a href="manage_it_support">MANAGED IT SUPPORT</a></li>
                                     <li class="{{ $currentPage == 'network_solutions' ? 'current' : '' }}"><a href="network_solutions">NETWORK SOLUTIONS </a></li>

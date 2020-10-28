@@ -4,10 +4,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Auth;
 use Session;
-use App\User;
-use App\Order;
-use App\Product;
-use App\Coupon;
+use App\Partners;
 use App\News;
 use App\Contact;
 use Illuminate\Support\Facades\Hash;
@@ -29,13 +26,10 @@ class AdminController extends Controller
     }
     
     public function dashboard($id = null){
-      $userCount = User::paginate();
-      $orderCount = Order::paginate();
-      $productsAll = Product::paginate();
-      $couponCount = Coupon::paginate();
       $newsCount = News::paginate();  
       $contactCount = Contact::paginate();  
-      return view('admin.dashboard')->with(compact('userCount','orderCount','productsAll','couponCount', 'newsCount','contactCount' ));
+      $partners = Partners::paginate();  
+      return view('admin.dashboard')->with(compact('newsCount','contactCount','partners' ));
     }
 
     public function settings(){
