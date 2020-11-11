@@ -125,6 +125,7 @@
                                 <label>Message</label>
                                 <textarea name="contact_message"></textarea>
                             </div>
+                            <input type="hidden" name="recaptcha" id="recaptcha">
                             
                             <div class="form-group" uk-scrollspy="cls: uk-animation-slide-top; repeat: false; delay: 1200;">
                                 <button class="theme-btn btn-style-three" type="button" id="submit" name="submit-form">Send</button>
@@ -141,4 +142,14 @@
     <!--End Clients Section-->
 
     <!-- Main Footer -->
+    <script src="https://www.google.com/recaptcha/api.js?render={{ config('services.recaptcha.sitekey') }}"></script>
+    <script>
+             grecaptcha.ready(function() {
+                 grecaptcha.execute('{{ config('services.recaptcha.sitekey') }}', {action: 'add_contact'}).then(function(token) {
+                    if (token) {
+                      document.getElementById('recaptcha').value = token;
+                    }
+                 });
+             });
+    </script>
 @include('layouts.footer_link')

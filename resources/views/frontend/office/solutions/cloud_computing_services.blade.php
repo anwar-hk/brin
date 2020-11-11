@@ -28,7 +28,7 @@
                     </div>
                     <div class="media-content">
                         <div class="mbr-section-text" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                            <p class="mbr-text mb-0 mbr-fonts-style display-7 text-justify">
+                            <p class="mbr-text mb-0 mbr-fonts-style display-7 ">
                                <strong>Thinking of Moving to Cloud?</strong> Build, innovate, and scale with
                                 various cloud services on hand and have it up and running in no time. Talk to
                                  us to let us know your requirements or objectives and we can recommend a
@@ -52,7 +52,7 @@
                 <div class="media-container-row">
                     <div class="media-content">
                         <div class="mbr-section-text" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
-                            <p class="mbr-text align-right mb-0 mbr-fonts-style display-7 text-justify">
+                            <p class="mbr-text align-right mb-0 mbr-fonts-style display-7 ">
                                <strong>Work Load Migration, Hybrid Cloud, API Management, IoT,Microsoft Office 365!</strong>
                                Your place to create, communicate, collaborate, and get great work done. Cloud computing is the
                                on-demand availability of computer system resources, especially data storage and computing power,
@@ -76,11 +76,11 @@
     <div class="container">
         <div class="media-container-row">
             <div class="row col-12 col-md-12" uk-scrollspy="cls: uk-animation-slide-bottom; repeat: false; delay: 500;">
-                <div class="col-12 col-md-4 pr-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
+                <div class="col-12 col-md-4 pr-lg-4 mbr-text mbr-fonts-style display-7 ">
                     <strong>Microsoft Azure</strong>
                     Freedom to build, manage, and deploy applications on a massive, global network using your favorite tools and frameworks.
                 </div>
-                <div class="col-12 col-md-4 pl-lg-4 mbr-text mbr-fonts-style display-7 text-justify">
+                <div class="col-12 col-md-4 pl-lg-4 mbr-text mbr-fonts-style display-7 ">
                     <strong>Amazon Web Services</strong>
                     Cost-effective cloud tools for business operations, high scalability, and availability.
                 </div>

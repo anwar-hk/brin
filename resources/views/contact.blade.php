@@ -153,7 +153,7 @@
                                         <label>Message</label>
                                         <textarea name="contact_message" class="message" placeholder="Message" required></textarea>
                                     </div>
-                                
+                                    <input type="hidden" name="recaptcha" id="recaptcha">
                                     <div class="form-group col-lg-12 col-md-12 col-sm-12 text-right">
                                         <button class="theme-btn btn-style-one "  
                                        type="button" id="submit" name="submit-form">Send Request</button>
@@ -167,5 +167,6 @@
         </div>
     </section>
     <!-- End Contact Form Section -->
-
     @include('layouts.footer_link')
+    
+    

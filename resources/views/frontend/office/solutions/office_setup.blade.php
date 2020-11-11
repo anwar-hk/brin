@@ -39,7 +39,7 @@
                     </div>                
 
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Fiber Optic Cabling,
                             Voice and data cabling, structured cabling,
                             CCTV Surveillance System,
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Server Rack Equipment Layout and Cable Organization,
                             Power Management, UPS & Server Room Cooling,
                             Server configuration & Setup,
@@ -83,7 +83,7 @@
                     </div>                
 
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-left; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Telephony – IP & Traditional,
                             Call Centre & Video Conferencing,
                             CRM & ERP Solutions,
@@ -114,7 +114,7 @@
                         </div>
                     </div>
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Network Design & Setup - LAN & WAN,
                             Wireless Design & Setup,
                             Virtual Private Network (VPN) Setup,
@@ -134,7 +134,7 @@
                         </div>
                     </div>
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Antivirus & Endpoint Security,
                             Firewall Security,
                             Intrusion Detection / Prevention System,
@@ -158,7 +158,7 @@
                         </div>
                     </div>
                     <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 text-justify">
+                        <p class="mbr-text mbr-section-text mbr-fonts-style display-7 ">
                             Servers, Desktops & Work Stations,
                             Desk phones & Mobile Phones,
                             Printers & Fax Machines,

@@ -40,7 +40,7 @@
                             </div>                
 
                             <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                <p class="block-text mbr-fonts-style display-7 ">
                                     PCs Maintenance<br>
                                     Network Maintenance<br>
                                     Hardware Maintenance<br>
@@ -62,7 +62,7 @@
                             </div>                
 
                             <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                <p class="block-text mbr-fonts-style display-7 ">
                                     IT Infrastructure Upgrade<br>
                                     IT Infrastructure Analysis<br>
                                     IT Infrastructure Fine-tuning
@@ -84,7 +84,7 @@
                             </div>                
 
                             <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                <p class="block-text mbr-fonts-style display-7 ">
                                     Backup Solutions<br>
                                     Disaster Recovery<br>
                                     Hardware Redundancy
@@ -105,7 +105,7 @@
                             </div>                
 
                             <div class="card-box" uk-scrollspy="cls: uk-animation-slide-right; repeat: false; delay: 500;">
-                                <p class="block-text mbr-fonts-style display-7 text-justify">
+                                <p class="block-text mbr-fonts-style display-7 ">
                                     24/7 Response Team<br>
                                     One-time Incident Support<br>
                                     Remote Support (Ticket, Phone, Remote Access)<br>
